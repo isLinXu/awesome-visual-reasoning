@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T07:22:09Z",
+  "updated": "2026-10-26T07:27:49Z",
   "repos": {
     "bytedance/UI-TARS": {
       "full_name": "bytedance/UI-TARS",
@@ -143,7 +143,7 @@
       "full_name": "QwenLM/Qwen3-VL",
       "url": "https://github.com/QwenLM/Qwen3-VL",
       "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
-      "stars": 20119,
+      "stars": 20120,
       "forks": 1875,
       "language": "Jupyter Notebook",
       "topics": [],
@@ -1836,7 +1836,7 @@
       "full_name": "Tongyi-MAI/OpenGCUA",
       "url": "https://github.com/Tongyi-MAI/OpenGCUA",
       "description": "An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.",
-      "stars": 497,
+      "stars": 498,
       "forks": 43,
       "language": "HTML",
       "topics": [],
@@ -1857,7 +1857,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 45.18
+      "velocity": 45.27
     },
     "ctoldigital/axuse": {
       "full_name": "ctoldigital/axuse",
@@ -2104,7 +2104,7 @@
       "full_name": "uclanlp/OpenVLHarness",
       "url": "https://github.com/uclanlp/OpenVLHarness",
       "description": "Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory",
-      "stars": 258,
+      "stars": 259,
       "forks": 5,
       "language": "Python",
       "topics": [],
@@ -2125,7 +2125,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 23.45
+      "velocity": 23.55
     },
     "chekusu/yomado": {
       "full_name": "chekusu/yomado",

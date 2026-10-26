@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T07:21:22Z",
+  "generated_at": "2026-10-26T07:27:49Z",
   "papers_total": 753,
   "papers_in_docs": 700,
   "papers_new_7d": 37,
   "papers_last_30d": 275,
   "repos_total": 113,
-  "repos_stars_total": 311861,
+  "repos_stars_total": 311864,
   "categories": {
     "latent-visual-reasoning": {
       "name": "Latent Visual Reasoning",

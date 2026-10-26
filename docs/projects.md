@@ -33,13 +33,13 @@
 | 1 | [**alibaba/page-agent**](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | ⭐ 29,563 | ≈+520 | — | TypeScript | `agentic-vision` |
 | 2 | [**bytedance/UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models a… | ⭐ 39,392 | ≈+427 | — | TypeScript | `agentic-vision` |
 | 3 | [**trycua/cua**](https://github.com/trycua/cua) | Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes… | ⭐ 30,980 | ≈+343 | — | Rust | `agentic-vision` |
-| 4 | [**Tongyi-MAI/OpenGCUA**](https://github.com/Tongyi-MAI/OpenGCUA) 🆕 | An open-source stack for generalist computer-use agents… | ⭐ 497 | ≈+316 | — | HTML | `agentic-vision` |
+| 4 | [**Tongyi-MAI/OpenGCUA**](https://github.com/Tongyi-MAI/OpenGCUA) 🆕 | An open-source stack for generalist computer-use agents… | ⭐ 498 | ≈+317 | — | HTML | `agentic-vision` |
 | 5 | [**ctoldigital/axuse**](https://github.com/ctoldigital/axuse) 🆕 | Accessibility-first browser & computer use for AI agents — one MCP server for… | ⭐ 495 | ≈+289 | — | JavaScript | `agentic-vision` |
 | 6 | [**ComputerUseAgent/AutoCua**](https://github.com/ComputerUseAgent/AutoCua) 🆕 | One Computer Use agent for everything (macOS, Windows, Linux, Browser… | ⭐ 655 | ≈+255 | — | Python | `agentic-vision` |
 | 7 | [**microsoft/OmniParser**](https://github.com/microsoft/OmniParser) | A simple screen parsing tool towards pure vision based GUI agent | ⭐ 25,551 | ≈+234 | — | Jupyter Notebook | `agentic-vision` |
 | 8 | [**OpenBMB/MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) | See, hear, and interact on your local devices. | ⭐ 26,976 | ≈+189 | — | Python | `multimodal-reasoning` |
-| 9 | [**QwenLM/Qwen3-VL**](https://github.com/QwenLM/Qwen3-VL) | Qwen3-VL is the multimodal large language model series developed by Qwen team… | ⭐ 20,119 | ≈+179 | — | Jupyter Notebook | `multimodal-reasoning` |
-| 10 | [**uclanlp/OpenVLHarness**](https://github.com/uclanlp/OpenVLHarness) 🆕 | Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multi… | ⭐ 258 | ≈+164 | — | Python | `agentic-vision` |
+| 9 | [**QwenLM/Qwen3-VL**](https://github.com/QwenLM/Qwen3-VL) | Qwen3-VL is the multimodal large language model series developed by Qwen team… | ⭐ 20,120 | ≈+179 | — | Jupyter Notebook | `multimodal-reasoning` |
+| 10 | [**uclanlp/OpenVLHarness**](https://github.com/uclanlp/OpenVLHarness) 🆕 | Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multi… | ⭐ 259 | ≈+165 | — | Python | `agentic-vision` |
 | 11 | [**AMAP-ML/LongHorizon-Harness**](https://github.com/AMAP-ML/LongHorizon-Harness) 🆕 | The long-horizon computer-use harness. Run AI agents across desktop apps and t… | ⭐ 1,779 | ≈+150 | — | Python | `agentic-vision` |
 | 12 | [**bytedance/UI-TARS**](https://github.com/bytedance/UI-TARS) | Pioneering Automated GUI Interaction with Native Agents | ⭐ 11,633 | ≈+126 | — | Python | `agentic-vision` |
 | 13 | [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | ⭐ 7,354 | ≈+126 | — | Python | `multimodal-reasoning` |

@@ -112,7 +112,10 @@ def main() -> int:
                 per_cat[cid]["recent"] += 1 if is_recent else 0
                 per_cat[cid]["new"] += 1 if is_new else 0
 
-    doc_rows = {c["id"]: count_table_rows(Path(DOCS / Path(c["doc"]).name)) for c in config["categories"]}
+    doc_rows = {
+        c["id"]: count_table_rows(Path(DOCS / Path(c["doc"]).name), "papers")
+        for c in config["categories"]
+    }
     total_doc_rows = sum(doc_rows.values())
 
     # ── 仓库统计 ──
@@ -150,7 +153,7 @@ def main() -> int:
         "# 📬 自动周报 / Digest",
         "",
         f"> 本文件由 `scripts/update_metadata.py` 自动生成，最后更新 **{today:%Y-%m-%d}**。",
-        f"> 统计窗口：新增 = 首次被本仓库收录于近 {args.digest_days} 天。",
+        f"> 统计窗口：收录「论文发布日」落在近 {args.digest_days} 天内的条目（不是抓取日）。",
         "",
         "## 概览",
         "",
@@ -158,7 +161,7 @@ def main() -> int:
         "| :-- | --: |",
         f"| 收录论文（全量库） | {len(papers):,} |",
         f"| 文档内可浏览条目 | {total_doc_rows:,} |",
-        f"| 近 {args.digest_days} 天新增 | {new_total:,} |",
+        f"| 近 {args.digest_days} 天新发布 | {new_total:,} |",
         f"| 跟踪仓库 | {len(repo_list):,} |",
         f"| 跟踪仓库总 star | {total_stars:,} |",
         "",
@@ -172,10 +175,10 @@ def main() -> int:
             if cid in (p.get("categories") or []) and p.get("first_seen", "") >= since_7
         ]
         fresh.sort(key=lambda kv: (kv[1].get("published", ""), kv[1].get("score", 0)), reverse=True)
-        lines.append(f"## {cat['emoji']} {cat['name']} · 近 {args.digest_days} 天新增 {len(fresh)} 篇")
+        lines.append(f"## {cat['emoji']} {cat['name']} · 近 {args.digest_days} 天新发布 {len(fresh)} 篇")
         lines.append("")
         if not fresh:
-            lines += ["_本周无新增，赛道可能进入平台期，或关键词需要补充。_", ""]
+            lines += ["_本周没有新发布的命中论文，赛道可能进入平台期，或关键词需要补充。_", ""]
             continue
         for pid, p in fresh[:12]:
             title = p.get("title", pid)
@@ -209,6 +212,8 @@ def main() -> int:
         content = replace_marked(content, "repos", f"{len(repo_list):,}")
         content = replace_marked(content, "stars", f"{total_stars:,}")
         content = replace_marked(content, "updated", today.strftime("%Y-%m-%d"))
+        for cid, n in doc_rows.items():
+            content = replace_marked(content, f"cat_{cid}", f"{n:,}")
         if not args.dry_run:
             write_if_changed(README, content)
 

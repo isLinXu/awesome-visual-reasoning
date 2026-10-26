@@ -49,9 +49,9 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2024-03-11 | **An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models** | Liang Chen, Haozhe Zhao et al. | 视觉 token 剪枝的开创性工作:图像 token 的注意力极稀疏,砍掉大部分几乎不掉点 | [📄 2403.06764](https://arxiv.org/abs/2403.06764) |
-| 2024-03-22 | **LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models** | Yuzhang Shang, Mu Cai et al. | 自适应 token 归并,把'压多少'交给数据决定而非固定比例 | [📄 2403.15388](https://arxiv.org/abs/2403.15388) |
-| 2025-02-16 | **Learning to Stop Overthinking at Test Time** | Hieu Tran Bao, Nguyen Cong Dat et al. | 测试时学会'停止思考',多模态过度思考治理的代表 | [📄 2502.10954](https://arxiv.org/abs/2502.10954) |
+| 2024-03-11 | **An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models** | Liang Chen, Haozhe Zhao et al. | 视觉 token 剪枝的开创性工作：图像 token 的注意力极稀疏，砍掉大部分几乎不掉点 | [📄 2403.06764](https://arxiv.org/abs/2403.06764) |
+| 2024-03-22 | **LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models** | Yuzhang Shang, Mu Cai et al. | 自适应 token 归并，把'压多少'交给数据决定而非固定比例 | [📄 2403.15388](https://arxiv.org/abs/2403.15388) |
+| 2025-02-16 | **Learning to Stop Overthinking at Test Time** | Hieu Tran Bao, Nguyen Cong Dat et al. | 测试时学会'停止思考'，多模态过度思考治理的代表 | [📄 2502.10954](https://arxiv.org/abs/2502.10954) |
 <!-- table:end classics -->
 
 ## 6. 📄 自动跟踪的最新论文

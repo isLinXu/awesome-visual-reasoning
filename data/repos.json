@@ -1,0 +1,3887 @@
+{
+  "updated": "2026-10-26T04:11:46Z",
+  "repos": {
+    "bytedance/UI-TARS": {
+      "full_name": "bytedance/UI-TARS",
+      "url": "https://github.com/bytedance/UI-TARS",
+      "description": "Pioneering Automated GUI Interaction with Native Agents",
+      "stars": 11633,
+      "forks": 888,
+      "language": "Python",
+      "topics": [
+        "research"
+      ],
+      "pushed_at": "2026-01-27",
+      "created_at": "2025-01-19",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 11633
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "bytedance/UI-TARS-desktop": {
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars": 39388,
+      "forks": 3996,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-tars",
+        "browser-use",
+        "computer-use",
+        "cowork",
+        "gui-agent",
+        "gui-operator",
+        "mcp",
+        "mcp-server",
+        "multimodal",
+        "tars",
+        "ui-tars",
+        "vision",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-09",
+      "created_at": "2025-01-19",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 39388
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "microsoft/OmniParser": {
+      "full_name": "microsoft/OmniParser",
+      "url": "https://github.com/microsoft/OmniParser",
+      "description": "A simple screen parsing tool towards pure vision based GUI agent",
+      "stars": 25549,
+      "forks": 2238,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "pushed_at": "2026-07-20",
+      "created_at": "2024-09-20",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 25549
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OpenGVLab/InternVL": {
+      "full_name": "OpenGVLab/InternVL",
+      "url": "https://github.com/OpenGVLab/InternVL",
+      "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
+      "stars": 10171,
+      "forks": 792,
+      "language": "Python",
+      "topics": [
+        "gpt",
+        "gpt-4o",
+        "gpt-4v",
+        "image-classification",
+        "image-text-retrieval",
+        "llm",
+        "multi-modal",
+        "semantic-segmentation",
+        "video-classification",
+        "vision-language-model",
+        "vit-22b",
+        "vit-6b"
+      ],
+      "pushed_at": "2025-09-22",
+      "created_at": "2023-11-22",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 10171
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "QwenLM/Qwen3-VL": {
+      "full_name": "QwenLM/Qwen3-VL",
+      "url": "https://github.com/QwenLM/Qwen3-VL",
+      "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+      "stars": 20120,
+      "forks": 1875,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "pushed_at": "2026-01-30",
+      "created_at": "2024-08-29",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 20120
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OpenBMB/MiniCPM-V": {
+      "full_name": "OpenBMB/MiniCPM-V",
+      "url": "https://github.com/OpenBMB/MiniCPM-V",
+      "description": "See, hear, and interact on your local devices.",
+      "stars": 26974,
+      "forks": 2119,
+      "language": "Python",
+      "topics": [
+        "minicpm",
+        "minicpm-o",
+        "minicpm-v",
+        "multi-modal"
+      ],
+      "pushed_at": "2026-10-25",
+      "created_at": "2024-01-29",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 26974
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "deepseek-ai/DeepSeek-VL2": {
+      "full_name": "deepseek-ai/DeepSeek-VL2",
+      "url": "https://github.com/deepseek-ai/DeepSeek-VL2",
+      "description": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
+      "stars": 5384,
+      "forks": 1812,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2025-02-26",
+      "created_at": "2024-12-13",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 5384
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "xlang-ai/OSWorld": {
+      "full_name": "xlang-ai/OSWorld",
+      "url": "https://github.com/xlang-ai/OSWorld",
+      "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+      "stars": 3235,
+      "forks": 554,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "benchmark",
+        "cli",
+        "code-generation",
+        "gui",
+        "language-model",
+        "large-action-model",
+        "llm",
+        "multimodal",
+        "natural-language-processing",
+        "reinforcement-learning",
+        "rpa",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-26",
+      "created_at": "2023-10-16",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 3235
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "showlab/ShowUI": {
+      "full_name": "showlab/ShowUI",
+      "url": "https://github.com/showlab/ShowUI",
+      "description": "[CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.",
+      "stars": 1925,
+      "forks": 144,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "computer-use",
+        "gui-agent",
+        "vision-language-action",
+        "vision-language-model"
+      ],
+      "pushed_at": "2026-04-24",
+      "created_at": "2024-10-31",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1925
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OpenGVLab/Ask-Anything": {
+      "full_name": "OpenGVLab/Ask-Anything",
+      "url": "https://github.com/OpenGVLab/Ask-Anything",
+      "description": "[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
+      "stars": 3362,
+      "forks": 269,
+      "language": "Python",
+      "topics": [
+        "big-model",
+        "captioning-videos",
+        "chat",
+        "chatgpt",
+        "foundation-models",
+        "gradio",
+        "langchain",
+        "large-language-models",
+        "large-model",
+        "stablelm",
+        "video",
+        "video-question-answering",
+        "video-understanding"
+      ],
+      "pushed_at": "2026-07-17",
+      "created_at": "2023-04-19",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 3362
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "mbzuai-oryx/Video-ChatGPT": {
+      "full_name": "mbzuai-oryx/Video-ChatGPT",
+      "url": "https://github.com/mbzuai-oryx/Video-ChatGPT",
+      "description": "[ACL 2024 🔥] Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation. We also introduce a rigorous 'Quantitative Evaluation Benchmarking' for video-based conversational models.",
+      "stars": 1513,
+      "forks": 131,
+      "language": "Python",
+      "topics": [
+        "chatbot",
+        "clip",
+        "gpt-4",
+        "llama",
+        "llava",
+        "mulit-modal",
+        "vicuna",
+        "video-chatboat",
+        "video-conversation",
+        "vision-language",
+        "vision-language-pretraining"
+      ],
+      "pushed_at": "2026-09-05",
+      "created_at": "2023-05-18",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1513
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "NVlabs/VILA": {
+      "full_name": "NVlabs/VILA",
+      "url": "https://github.com/NVlabs/VILA",
+      "description": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
+      "stars": 3867,
+      "forks": 337,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-03-12",
+      "created_at": "2024-02-23",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 3867
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OpenAdaptAI/OpenAdapt": {
+      "full_name": "OpenAdaptAI/OpenAdapt",
+      "url": "https://github.com/OpenAdaptAI/OpenAdapt",
+      "description": "For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match.",
+      "stars": 1826,
+      "forks": 275,
+      "language": "Python",
+      "topics": [
+        "agent-harness",
+        "ai-agents",
+        "browser-automation",
+        "citrix",
+        "computer-use-agents",
+        "demonstration-compiler",
+        "desktop-automation",
+        "deterministic-replay",
+        "effect-verification",
+        "gui-automation",
+        "healthcare-automation",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "rdp",
+        "rpa",
+        "self-healing-automation",
+        "ui-automation",
+        "workflow-automation",
+        "workflow-compiler"
+      ],
+      "pushed_at": "2026-10-25",
+      "created_at": "2023-04-12",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1826
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "zhaochen0110/Awesome_Think_With_Images": {
+      "full_name": "zhaochen0110/Awesome_Think_With_Images",
+      "url": "https://github.com/zhaochen0110/Awesome_Think_With_Images",
+      "description": "Resources and paper list for \"Thinking with Images for LVLMs\". This repository accompanies our survey on how LVLMs can leverage visual information for complex reasoning, planning, and generation.",
+      "stars": 1516,
+      "forks": 49,
+      "language": "",
+      "topics": [
+        "large-vision-language-models",
+        "multimodal-reasoning-visual-reasoning",
+        "survey-awesome-list",
+        "thinking-with-images"
+      ],
+      "pushed_at": "2026-10-08",
+      "created_at": "2025-05-30",
+      "archived": false,
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1516
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "teee000/LiLa-WAM": {
+      "full_name": "teee000/LiLa-WAM",
+      "url": "https://github.com/teee000/LiLa-WAM",
+      "description": "LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation",
+      "stars": 155,
+      "forks": 14,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-09-20",
+      "created_at": "2026-08-04",
+      "archived": false,
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 155
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "LoveJu1y/LaRA-VLA": {
+      "full_name": "LoveJu1y/LaRA-VLA",
+      "url": "https://github.com/LoveJu1y/LaRA-VLA",
+      "description": "[ICML 2026] Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models",
+      "stars": 105,
+      "forks": 9,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-05-18",
+      "created_at": "2026-01-31",
+      "archived": false,
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 105
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "apromisedland/VLCoT": {
+      "full_name": "apromisedland/VLCoT",
+      "url": "https://github.com/apromisedland/VLCoT",
+      "description": "VLCoT research implementation: stage-verifiable latent reasoning, observation-based verification, and dependency-aware local repair.",
+      "stars": 105,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-09-28",
+      "created_at": "2026-09-28",
+      "archived": false,
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 105
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "alibaba/page-agent": {
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 29563,
+      "forks": 2641,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "browser-automation",
+        "javascript",
+        "mcp",
+        "typescript",
+        "web"
+      ],
+      "pushed_at": "2026-10-21",
+      "created_at": "2025-09-23",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 29563
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "X-PLUG/MobileAgent": {
+      "full_name": "X-PLUG/MobileAgent",
+      "url": "https://github.com/X-PLUG/MobileAgent",
+      "description": " Mobile-Agent: The Powerful GUI Agent Family",
+      "stars": 9329,
+      "forks": 935,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "android",
+        "app",
+        "automation",
+        "copilot",
+        "gui",
+        "mllm",
+        "mobile",
+        "mobile-agents",
+        "multimodal",
+        "multimodal-agent",
+        "multimodal-large-language-models"
+      ],
+      "pushed_at": "2026-07-07",
+      "created_at": "2024-01-26",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 9329
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Tongyi-MAI/MAI-UI": {
+      "full_name": "Tongyi-MAI/MAI-UI",
+      "url": "https://github.com/Tongyi-MAI/MAI-UI",
+      "description": "Qwen-UI-Agent: Towards Next-Generation Real-World Centric Foundation GUI Agent",
+      "stars": 2420,
+      "forks": 222,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "browser-use",
+        "cli-agent",
+        "computer-use",
+        "deepresearch",
+        "gui-agent",
+        "gui-grounding",
+        "gui-navigation",
+        "mobile-use"
+      ],
+      "pushed_at": "2026-08-19",
+      "created_at": "2025-12-15",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 2420
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "stepfun-ai/gelab-zero": {
+      "full_name": "stepfun-ai/gelab-zero",
+      "url": "https://github.com/stepfun-ai/gelab-zero",
+      "description": "STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities.",
+      "stars": 2290,
+      "forks": 199,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gui-agents",
+        "phone-use-agent",
+        "pua"
+      ],
+      "pushed_at": "2026-05-11",
+      "created_at": "2025-11-28",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 2290
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "IPADS-SAI/MobiAgent": {
+      "full_name": "IPADS-SAI/MobiAgent",
+      "url": "https://github.com/IPADS-SAI/MobiAgent",
+      "description": "The Intelligent GUI Agent for Mobile Phones",
+      "stars": 1927,
+      "forks": 230,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-07-17",
+      "created_at": "2025-08-29",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1927
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Core-Mate/OpenGUI": {
+      "full_name": "Core-Mate/OpenGUI",
+      "url": "https://github.com/Core-Mate/OpenGUI",
+      "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the GUI.",
+      "stars": 1802,
+      "forks": 106,
+      "language": "HTML",
+      "topics": [
+        "accessibility",
+        "agent-framework",
+        "ai-agent",
+        "android",
+        "android-accessibility",
+        "android-agent",
+        "android-automation",
+        "automation",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "gui-agent",
+        "gui-automation",
+        "mobile-agent",
+        "mobile-automation",
+        "multimodal-ai",
+        "phone-use",
+        "screen-understanding",
+        "task-execution",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-18",
+      "created_at": "2026-04-18",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1802
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "ZJU-REAL/ClawGUI": {
+      "full_name": "ZJU-REAL/ClawGUI",
+      "url": "https://github.com/ZJU-REAL/ClawGUI",
+      "description": "Build, Evaluate, and Deploy GUI Agents — online RL training, standardized benchmarks, and real-device deployment in one framework.",
+      "stars": 1364,
+      "forks": 58,
+      "language": "Python",
+      "topics": [
+        "agentrl",
+        "guiagents",
+        "mobile-agent",
+        "onlinerl",
+        "openclaw",
+        "rl-training"
+      ],
+      "pushed_at": "2026-06-03",
+      "created_at": "2026-04-07",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1364
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "zai-org/CogAgent": {
+      "full_name": "zai-org/CogAgent",
+      "url": "https://github.com/zai-org/CogAgent",
+      "description": "An open-sourced end-to-end VLM-based GUI Agent",
+      "stars": 1197,
+      "forks": 106,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "computer-use",
+        "glm",
+        "gui-agent",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-12",
+      "created_at": "2023-11-28",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1197
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "inclusionAI/UI-Venus": {
+      "full_name": "inclusionAI/UI-Venus",
+      "url": "https://github.com/inclusionAI/UI-Venus",
+      "description": "UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input.",
+      "stars": 1061,
+      "forks": 87,
+      "language": "HTML",
+      "topics": [
+        "browser-use",
+        "browser-use-agent",
+        "computer-use",
+        "computer-use-agent",
+        "cua",
+        "gui-agent",
+        "gui-captcha-solver",
+        "gui-grounding",
+        "mobile-use",
+        "mobile-use-agent"
+      ],
+      "pushed_at": "2026-10-20",
+      "created_at": "2025-08-15",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1061
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OSU-NLP-Group/GUI-Agents-Paper-List": {
+      "full_name": "OSU-NLP-Group/GUI-Agents-Paper-List",
+      "url": "https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List",
+      "description": "Awesome GUI Agent Paper List",
+      "stars": 917,
+      "forks": 45,
+      "language": "TypeScript",
+      "topics": [],
+      "pushed_at": "2026-10-20",
+      "created_at": "2024-10-30",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 917
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Purewhiter/mobilegym": {
+      "full_name": "Purewhiter/mobilegym",
+      "url": "https://github.com/Purewhiter/mobilegym",
+      "description": "[EMNLP 2026] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online RL Training",
+      "stars": 838,
+      "forks": 141,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "android",
+        "automation",
+        "benchmark",
+        "gym",
+        "llm",
+        "llm-agents",
+        "mobile-agent",
+        "online-rl",
+        "react",
+        "reinforcement-learning",
+        "rl",
+        "rl-environment",
+        "sim-to-real",
+        "simulator",
+        "typescript",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-09",
+      "created_at": "2026-05-14",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 838
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "ZJU-REAL/Awesome-GUI-Agents": {
+      "full_name": "ZJU-REAL/Awesome-GUI-Agents",
+      "url": "https://github.com/ZJU-REAL/Awesome-GUI-Agents",
+      "description": "A curated collection of resources, tools, and frameworks for developing GUI Agents.",
+      "stars": 464,
+      "forks": 32,
+      "language": "",
+      "topics": [
+        "agents",
+        "guiagents",
+        "llm",
+        "mllm"
+      ],
+      "pushed_at": "2026-07-28",
+      "created_at": "2025-03-23",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 464
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OSU-NLP-Group/UGround": {
+      "full_name": "OSU-NLP-Group/UGround",
+      "url": "https://github.com/OSU-NLP-Group/UGround",
+      "description": "[ICLR'25 Oral] UGround: Universal GUI Visual Grounding for GUI Agents",
+      "stars": 321,
+      "forks": 17,
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "gui-agents",
+        "web-agents"
+      ],
+      "pushed_at": "2026-08-24",
+      "created_at": "2024-08-02",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 321
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "MadeAgents/mobile-use": {
+      "full_name": "MadeAgents/mobile-use",
+      "url": "https://github.com/MadeAgents/mobile-use",
+      "description": "MobileUse: an open-source mobile GUI agent for Android phone automation, AndroidWorld/AndroidLab evaluation, hierarchical reflection, and proactive exploration.",
+      "stars": 244,
+      "forks": 15,
+      "language": "Python",
+      "topics": [
+        "android-agent",
+        "android-automation",
+        "androidlab",
+        "androidworld",
+        "gui-agent",
+        "hierarchical-reflection",
+        "llm-agent",
+        "mobile-agent",
+        "mobile-gui",
+        "multimodal-agent",
+        "neurips-2025",
+        "proactive-exploration",
+        "vlm-agent"
+      ],
+      "pushed_at": "2026-07-10",
+      "created_at": "2025-02-27",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 244
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents": {
+      "full_name": "PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents",
+      "url": "https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents",
+      "description": "[TMLR] LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects",
+      "stars": 185,
+      "forks": 12,
+      "language": "",
+      "topics": [],
+      "pushed_at": "2026-09-16",
+      "created_at": "2024-12-29",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 185
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "huggingface/screensuite": {
+      "full_name": "huggingface/screensuite",
+      "url": "https://github.com/huggingface/screensuite",
+      "description": "ScreenSuite - The most comprehensive benchmarking suite for GUI Agents!",
+      "stars": 148,
+      "forks": 18,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-22",
+      "created_at": "2025-02-26",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 148
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets": {
+      "full_name": "Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets",
+      "url": "https://github.com/Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets",
+      "description": "This repository hosts a collection of datasets for training and evaluating CUA / GUI agents.",
+      "stars": 143,
+      "forks": 7,
+      "language": "",
+      "topics": [],
+      "pushed_at": "2026-10-01",
+      "created_at": "2025-07-25",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 143
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Tencent/UI-Mate": {
+      "full_name": "Tencent/UI-Mate",
+      "url": "https://github.com/Tencent/UI-Mate",
+      "description": "Advancing Foundation GUI Agents with In-Context Demonstrations",
+      "stars": 111,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "gui"
+      ],
+      "pushed_at": "2026-09-01",
+      "created_at": "2026-08-14",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 111
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "UniPat-AI/SaaS-Bench": {
+      "full_name": "UniPat-AI/SaaS-Bench",
+      "url": "https://github.com/UniPat-AI/SaaS-Bench",
+      "description": "Official repository for SaaS-Bench: realistic, locally deployable SaaS workflows for GUI agent evaluation.",
+      "stars": 104,
+      "forks": 14,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-02",
+      "created_at": "2026-05-11",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 104
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "kwai/MemGUI-Agent": {
+      "full_name": "kwai/MemGUI-Agent",
+      "url": "https://github.com/kwai/MemGUI-Agent",
+      "description": "Official code for \"MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management\"",
+      "stars": 93,
+      "forks": 5,
+      "language": "Python",
+      "topics": [
+        "context-management",
+        "gui-agent",
+        "gui-automation",
+        "long-horizon-agent",
+        "vision-language-model"
+      ],
+      "pushed_at": "2026-08-29",
+      "created_at": "2026-06-23",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 93
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "SeerRay-Lab/Xiaomi-GUI": {
+      "full_name": "SeerRay-Lab/Xiaomi-GUI",
+      "url": "https://github.com/SeerRay-Lab/Xiaomi-GUI",
+      "description": "[Technical Report] An End-to-End Multimodal GUI Agent for Real Mobile Environments",
+      "stars": 88,
+      "forks": 3,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-23",
+      "created_at": "2026-06-17",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 88
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "fyzhang1/ExpActivator": {
+      "full_name": "fyzhang1/ExpActivator",
+      "url": "https://github.com/fyzhang1/ExpActivator",
+      "description": "Official code for \"Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents\".",
+      "stars": 87,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "computer-using-agent",
+        "cua",
+        "gui-agent",
+        "gui-agents",
+        "latent-space",
+        "mobile-agent",
+        "mobile-agent-framework",
+        "mobile-agents",
+        "personal"
+      ],
+      "pushed_at": "2026-10-20",
+      "created_at": "2026-09-08",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 87
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "kwai/MobileForge": {
+      "full_name": "kwai/MobileForge",
+      "url": "https://github.com/kwai/MobileForge",
+      "description": "Official code for \"MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization\"",
+      "stars": 83,
+      "forks": 3,
+      "language": "Python",
+      "topics": [
+        "annotation-free",
+        "gui-agent",
+        "gui-automation",
+        "mllm",
+        "multimodal-agent",
+        "reinforcement-learning",
+        "self-improvement"
+      ],
+      "pushed_at": "2026-08-29",
+      "created_at": "2026-06-23",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 83
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "trycua/cua": {
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+      "stars": 30965,
+      "forks": 2262,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "apple",
+        "computer-use",
+        "computer-use-agent",
+        "containerization",
+        "cua",
+        "desktop-automation",
+        "hacktoberfest",
+        "lume",
+        "macos",
+        "manus",
+        "operator",
+        "swift",
+        "virtualization",
+        "virtualization-framework",
+        "windows",
+        "windows-sandbox"
+      ],
+      "pushed_at": "2026-10-26",
+      "created_at": "2025-01-31",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 30965
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "NanmiCoder/cc-haha": {
+      "full_name": "NanmiCoder/cc-haha",
+      "url": "https://github.com/NanmiCoder/cc-haha",
+      "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
+      "stars": 15164,
+      "forks": 8607,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding-agent",
+        "computer-use",
+        "desktop-app",
+        "electron",
+        "llm",
+        "mcp",
+        "react",
+        "typescript"
+      ],
+      "pushed_at": "2026-10-26",
+      "created_at": "2026-03-31",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 15164
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "simular-ai/Agent-S": {
+      "full_name": "simular-ai/Agent-S",
+      "url": "https://github.com/simular-ai/Agent-S",
+      "description": "Agent S: the state-of-the-art open source computer use agents",
+      "stars": 12740,
+      "forks": 1496,
+      "language": "Python",
+      "topics": [
+        "agent-computer-interface",
+        "ai-agents",
+        "computer-automation",
+        "computer-use",
+        "computer-use-agent",
+        "cua",
+        "grounding",
+        "gui-agents",
+        "in-context-reinforcement-learning",
+        "memory",
+        "mllm",
+        "planning",
+        "retrieval-augmented-generation"
+      ],
+      "pushed_at": "2026-10-24",
+      "created_at": "2024-10-09",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 12740
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "microsoft/fara": {
+      "full_name": "microsoft/fara",
+      "url": "https://github.com/microsoft/fara",
+      "description": "Fara1.5 – A family of frontier computer use agent models",
+      "stars": 6222,
+      "forks": 603,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "browser-use",
+        "computer-use",
+        "computer-use-agent",
+        "cua"
+      ],
+      "pushed_at": "2026-09-22",
+      "created_at": "2025-10-29",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 6222
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "the-open-agent/openagent": {
+      "full_name": "the-open-agent/openagent",
+      "url": "https://github.com/the-open-agent/openagent",
+      "description": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+      "stars": 5712,
+      "forks": 669,
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "agi",
+        "chatbot",
+        "chatgpt",
+        "gpt",
+        "harness",
+        "hermes-agent",
+        "knowledge-base",
+        "langchain",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "multi-agent",
+        "openagent",
+        "openai",
+        "openclaw",
+        "rag"
+      ],
+      "pushed_at": "2026-10-25",
+      "created_at": "2020-05-29",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 5712
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "yuruotong1/autoMate": {
+      "full_name": "yuruotong1/autoMate",
+      "url": "https://github.com/yuruotong1/autoMate",
+      "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
+      "stars": 3967,
+      "forks": 488,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "computeruse",
+        "deepseek",
+        "manus",
+        "ollama",
+        "omniparser",
+        "openai",
+        "openmanus",
+        "response",
+        "rpa"
+      ],
+      "pushed_at": "2026-09-18",
+      "created_at": "2024-01-20",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 3967
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "TurixAI/TuriX-CUA": {
+      "full_name": "TurixAI/TuriX-CUA",
+      "url": "https://github.com/TurixAI/TuriX-CUA",
+      "description": "This is the official website for TuriX Computer-use-Agent",
+      "stars": 3173,
+      "forks": 329,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "browser-use",
+        "computer-automation",
+        "computer-use",
+        "computer-use-agent",
+        "cua",
+        "gui-agent",
+        "gui-operator",
+        "mcp",
+        "qwen3-vl"
+      ],
+      "pushed_at": "2026-09-14",
+      "created_at": "2025-08-04",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 3173
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "e2b-dev/open-computer-use": {
+      "full_name": "e2b-dev/open-computer-use",
+      "url": "https://github.com/e2b-dev/open-computer-use",
+      "description": "AI computer use powered by open source LLMs and E2B Desktop Sandbox",
+      "stars": 2389,
+      "forks": 268,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude",
+        "computer-use",
+        "llm"
+      ],
+      "pushed_at": "2026-10-23",
+      "created_at": "2024-10-31",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 2389
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "lahfir/agent-desktop": {
+      "full_name": "lahfir/agent-desktop",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+      "stars": 1822,
+      "forks": 129,
+      "language": "Rust",
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "pushed_at": "2026-10-25",
+      "created_at": "2026-02-19",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1822
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "AMAP-ML/LongHorizon-Harness": {
+      "full_name": "AMAP-ML/LongHorizon-Harness",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "stars": 1778,
+      "forks": 189,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli",
+        "codex",
+        "codex-desktop",
+        "codex-plugin",
+        "cua",
+        "deepseek-harness",
+        "gui",
+        "harness",
+        "long-horizon",
+        "long-horizon-agents",
+        "longhorizon-harness",
+        "loop",
+        "loop-engineering"
+      ],
+      "pushed_at": "2026-10-21",
+      "created_at": "2026-08-04",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1778
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "feder-cr/invisible_playwright_mcp": {
+      "full_name": "feder-cr/invisible_playwright_mcp",
+      "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+      "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+      "stars": 882,
+      "forks": 116,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "antidetect-browser",
+        "autonomous-agents",
+        "browser-agent",
+        "browser-automation",
+        "claude-code-plugin",
+        "computer-use",
+        "gemini-cli",
+        "gemini-cli-extension",
+        "job-hunting",
+        "job-search",
+        "llm-agent",
+        "mcp-server",
+        "mcp-tools",
+        "model-context-protocol",
+        "playwright",
+        "stealth-browser",
+        "web-automation",
+        "web-scraping",
+        "webscraping"
+      ],
+      "pushed_at": "2026-10-21",
+      "created_at": "2026-09-29",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 882
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "xlang-ai/OpenCUA": {
+      "full_name": "xlang-ai/OpenCUA",
+      "url": "https://github.com/xlang-ai/OpenCUA",
+      "description": "[NeurIPS 2025 Spotlight] OpenCUA: Open Foundations for Computer-Use Agents",
+      "stars": 868,
+      "forks": 110,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "computer-use-agent",
+        "dataset",
+        "foundation-models",
+        "gui",
+        "vision-language-model"
+      ],
+      "pushed_at": "2026-05-25",
+      "created_at": "2025-06-21",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 868
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "agent-sh/computer-use-linux": {
+      "full_name": "agent-sh/computer-use-linux",
+      "url": "https://github.com/agent-sh/computer-use-linux",
+      "description": "Native Linux desktop control for AI agents (MCP, Pi, CLI) — semantic AT-SPI trees, screenshots, window targeting, and input across GNOME, KDE, Hyprland, niri, COSMIC, i3, and X11.",
+      "stars": 739,
+      "forks": 87,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "cargo",
+        "claude",
+        "codex",
+        "computer-use",
+        "gnome",
+        "hermes",
+        "linux",
+        "llm",
+        "mcp",
+        "npm",
+        "oss",
+        "rust",
+        "shell",
+        "skill",
+        "tools",
+        "wayland",
+        "ydotool"
+      ],
+      "pushed_at": "2026-10-25",
+      "created_at": "2026-05-13",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 739
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "ComputerUseAgent/AutoCua": {
+      "full_name": "ComputerUseAgent/AutoCua",
+      "url": "https://github.com/ComputerUseAgent/AutoCua",
+      "description": "One Computer Use agent for everything (macOS, Windows, Linux, Browser, iOS & Code).",
+      "stars": 646,
+      "forks": 32,
+      "language": "Python",
+      "topics": [
+        "browser-use",
+        "browser-use-agent",
+        "codex",
+        "computer-agent",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "computer-use-linux",
+        "computer-use-preview",
+        "computer-use-windows",
+        "cua",
+        "cua-agent",
+        "ios-automation",
+        "linux-ai",
+        "linux-ai-agent",
+        "linux-ai-automations",
+        "macos-use",
+        "web-use",
+        "windows-ai"
+      ],
+      "pushed_at": "2026-10-25",
+      "created_at": "2026-10-08",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 646
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "Hacker-Valley-Media/Interceptor": {
+      "full_name": "Hacker-Valley-Media/Interceptor",
+      "url": "https://github.com/Hacker-Valley-Media/Interceptor",
+      "description": "Browser automation and computer use for AI agents. One CLI and MCP server for your signed-in browser, native macOS apps, and real iPhones.",
+      "stars": 571,
+      "forks": 83,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-extension",
+        "browser-use",
+        "cli",
+        "computer-use",
+        "desktop-automation",
+        "ios",
+        "iphone",
+        "macos",
+        "mcp",
+        "mcp-server",
+        "ui-automation",
+        "workflow-automation"
+      ],
+      "pushed_at": "2026-10-21",
+      "created_at": "2026-03-18",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 571
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Tongyi-MAI/OpenGCUA": {
+      "full_name": "Tongyi-MAI/OpenGCUA",
+      "url": "https://github.com/Tongyi-MAI/OpenGCUA",
+      "description": "An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.",
+      "stars": 497,
+      "forks": 43,
+      "language": "HTML",
+      "topics": [],
+      "pushed_at": "2026-10-23",
+      "created_at": "2026-10-15",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 497
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "ctoldigital/axuse": {
+      "full_name": "ctoldigital/axuse",
+      "url": "https://github.com/ctoldigital/axuse",
+      "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+      "stars": 488,
+      "forks": 26,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-automation",
+        "ai-agents",
+        "browser-automation",
+        "browser-use",
+        "cdp",
+        "chrome-devtools-protocol",
+        "computer-use",
+        "cua",
+        "mcp",
+        "model-context-protocol",
+        "rpa",
+        "web-automation"
+      ],
+      "pushed_at": "2026-10-24",
+      "created_at": "2026-10-14",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 488
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "testdriverai/testdriverai": {
+      "full_name": "testdriverai/testdriverai",
+      "url": "https://github.com/testdriverai/testdriverai",
+      "description": "Computer-Use SDK for E2E QA Testing",
+      "stars": 464,
+      "forks": 39,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "agentic-coding",
+        "ai",
+        "ai-agent",
+        "ai-testing",
+        "ai-tools",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "codex",
+        "cypress",
+        "playwright",
+        "selenium",
+        "testing-framework",
+        "testing-library",
+        "testing-tool"
+      ],
+      "pushed_at": "2026-09-21",
+      "created_at": "2024-08-25",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 464
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "xlang-ai/OSWorld-V2": {
+      "full_name": "xlang-ai/OSWorld-V2",
+      "url": "https://github.com/xlang-ai/OSWorld-V2",
+      "description": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+      "stars": 384,
+      "forks": 58,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "benchmark",
+        "computer-use-agent",
+        "cua",
+        "gui",
+        "language-model",
+        "large-action-model",
+        "llm",
+        "multimodal",
+        "natural-language-processing",
+        "reinforcement-learnin",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-23",
+      "created_at": "2025-10-09",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 384
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "mrpulor-gh/nuphus-mcp": {
+      "full_name": "mrpulor-gh/nuphus-mcp",
+      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio). Not a DSH plugin — DSH users install dsh-nuphus-mcp.",
+      "stars": 329,
+      "forks": 38,
+      "language": "Rust",
+      "topics": [
+        "ai-agent",
+        "browser-automation",
+        "chrome-automation",
+        "computer-use",
+        "computer-vision",
+        "desktop-automation",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "ocr",
+        "rust"
+      ],
+      "pushed_at": "2026-10-20",
+      "created_at": "2026-08-01",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 329
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "MoonshotAI/Kimi-K2.5": {
+      "full_name": "MoonshotAI/Kimi-K2.5",
+      "url": "https://github.com/MoonshotAI/Kimi-K2.5",
+      "description": "Open Visual Agentic Intelligence",
+      "stars": 2316,
+      "forks": 326,
+      "language": "",
+      "topics": [],
+      "pushed_at": "2026-08-06",
+      "created_at": "2026-01-30",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 2316
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "digiteinfotech/kairon": {
+      "full_name": "digiteinfotech/kairon",
+      "url": "https://github.com/digiteinfotech/kairon",
+      "description": "Agentic AI platform that harnesses Visual Agents Chaining to build proactive digital assistants",
+      "stars": 282,
+      "forks": 86,
+      "language": "Python",
+      "topics": [
+        "bot",
+        "bot-framework",
+        "botkit",
+        "bots",
+        "chatbot",
+        "chatbot-framework",
+        "chatbots",
+        "conversational-agents",
+        "conversational-ai",
+        "conversational-bots",
+        "gpt-3-5-turbo",
+        "llm",
+        "machine-learning",
+        "machine-learning-library",
+        "natural-language-understanding",
+        "nlp",
+        "nlu",
+        "rasa",
+        "rasa-nlu",
+        "spacy"
+      ],
+      "pushed_at": "2026-10-24",
+      "created_at": "2020-04-16",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 282
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "uclanlp/OpenVLHarness": {
+      "full_name": "uclanlp/OpenVLHarness",
+      "url": "https://github.com/uclanlp/OpenVLHarness",
+      "description": "Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory",
+      "stars": 255,
+      "forks": 5,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-22",
+      "created_at": "2026-10-15",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 255
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "chekusu/yomado": {
+      "full_name": "chekusu/yomado",
+      "url": "https://github.com/chekusu/yomado",
+      "description": "Native macOS virtual displays for visual agents, with a skill to set up and manage their work screens.",
+      "stars": 196,
+      "forks": 14,
+      "language": "Objective-C",
+      "topics": [],
+      "pushed_at": "2026-10-24",
+      "created_at": "2026-10-10",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 196
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "AngusKit/AngusAI": {
+      "full_name": "AngusKit/AngusAI",
+      "url": "https://github.com/AngusKit/AngusAI",
+      "description": "Enterprise AI agent development platform — visual agent builder, on-demand knowledge/tool mounting, Playground validation, and one-click publish. Self-hostable.",
+      "stars": 91,
+      "forks": 7,
+      "language": "",
+      "topics": [
+        "agent-builder",
+        "ai-agent",
+        "ai-platform",
+        "llm",
+        "low-code",
+        "rag",
+        "self-hosted"
+      ],
+      "pushed_at": "2026-09-26",
+      "created_at": "2025-02-25",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 91
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "likaixin2000/ScreenSpot-Pro-GUI-Grounding": {
+      "full_name": "likaixin2000/ScreenSpot-Pro-GUI-Grounding",
+      "url": "https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding",
+      "description": "GUI Grounding for Professional High-Resolution Computer Use",
+      "stars": 398,
+      "forks": 56,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-06-17",
+      "created_at": "2024-12-19",
+      "archived": false,
+      "categories": [
+        "agentic-vision"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 398
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "TeleAI-UAGI/telemem": {
+      "full_name": "TeleAI-UAGI/telemem",
+      "url": "https://github.com/TeleAI-UAGI/telemem",
+      "description": "TeleMem is a high-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning.",
+      "stars": 494,
+      "forks": 37,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agents",
+        "character-memory",
+        "conversational-ai",
+        "faiss",
+        "llm",
+        "long-term-memory",
+        "mcp",
+        "mem0",
+        "memory",
+        "model-context-protocol",
+        "multimodal",
+        "rag",
+        "semantic-search",
+        "video-understanding"
+      ],
+      "pushed_at": "2026-10-23",
+      "created_at": "2025-12-05",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 494
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "LJungang/Awesome-Video-Reasoning-Landscape": {
+      "full_name": "LJungang/Awesome-Video-Reasoning-Landscape",
+      "url": "https://github.com/LJungang/Awesome-Video-Reasoning-Landscape",
+      "description": "🔥An open-source survey of the latest video reasoning tasks, paradigms, and benchmarks.",
+      "stars": 194,
+      "forks": 9,
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "awesome",
+        "benchmarks",
+        "chain-of-frames",
+        "chain-of-thought",
+        "large-language-models",
+        "multimodal-large-language-models",
+        "omni",
+        "paper-list",
+        "real-time-video-understanding",
+        "streaming-video-reasoning",
+        "streaming-video-understanding",
+        "think-with-video",
+        "video-generation",
+        "video-reasoning",
+        "world-model"
+      ],
+      "pushed_at": "2026-09-29",
+      "created_at": "2024-10-11",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 194
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "egolife-ai/Ego-R1": {
+      "full_name": "egolife-ai/Ego-R1",
+      "url": "https://github.com/egolife-ai/Ego-R1",
+      "description": "[TPAMI 2026] Ego-R1: Agentic Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning",
+      "stars": 170,
+      "forks": 3,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-06-10",
+      "created_at": "2025-06-02",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 170
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "marinero4972/Open-o3-Video": {
+      "full_name": "marinero4972/Open-o3-Video",
+      "url": "https://github.com/marinero4972/Open-o3-Video",
+      "description": "[ICML 2026] Official implementation of \"Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence\"",
+      "stars": 164,
+      "forks": 7,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-14",
+      "created_at": "2025-10-23",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 164
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "wgcyeo/WorldMM": {
+      "full_name": "wgcyeo/WorldMM",
+      "url": "https://github.com/wgcyeo/WorldMM",
+      "description": "[CVPR 2026 Highlight] WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning",
+      "stars": 130,
+      "forks": 11,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "llm",
+        "memory",
+        "multimodal",
+        "video-reasoning",
+        "video-understanding"
+      ],
+      "pushed_at": "2026-07-29",
+      "created_at": "2025-12-02",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 130
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "FeiElysia/Tempo": {
+      "full_name": "FeiElysia/Tempo",
+      "url": "https://github.com/FeiElysia/Tempo",
+      "description": "Tempo: Small Vision-Language Models are Smart Compressors for Long Video Understanding, ECCV 2026",
+      "stars": 86,
+      "forks": 4,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-07-26",
+      "created_at": "2026-04-08",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 86
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Mark12Ding/Dispider": {
+      "full_name": "Mark12Ding/Dispider",
+      "url": "https://github.com/Mark12Ding/Dispider",
+      "description": "[CVPR 2025]Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction",
+      "stars": 185,
+      "forks": 13,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-08-14",
+      "created_at": "2024-12-16",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 185
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "facebookresearch/pytorchvideo": {
+      "full_name": "facebookresearch/pytorchvideo",
+      "url": "https://github.com/facebookresearch/pytorchvideo",
+      "description": "A deep learning library for video understanding research.",
+      "stars": 3571,
+      "forks": 426,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-16",
+      "created_at": "2021-03-09",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 3571
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "HKUDS/VideoAgent": {
+      "full_name": "HKUDS/VideoAgent",
+      "url": "https://github.com/HKUDS/VideoAgent",
+      "description": "[EMNLP2026] \"VideoAgent: All-in-One Agentic Framework for Video Understanding and Editing, and Remaking\"",
+      "stars": 1973,
+      "forks": 248,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "audio-editing",
+        "audio-understanding",
+        "llm-agents",
+        "notebooklm",
+        "podcast",
+        "video-editing",
+        "video-understanding"
+      ],
+      "pushed_at": "2026-07-22",
+      "created_at": "2025-07-16",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1973
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "bytedance/Lance": {
+      "full_name": "bytedance/Lance",
+      "url": "https://github.com/bytedance/Lance",
+      "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
+      "stars": 1361,
+      "forks": 92,
+      "language": "Python",
+      "topics": [
+        "image-editing",
+        "image-generation",
+        "image-understanding",
+        "unified-multimodal-models",
+        "video-generation",
+        "video-understanding"
+      ],
+      "pushed_at": "2026-07-14",
+      "created_at": "2026-05-15",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 1361
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OpenMOSS/MOSS-VL": {
+      "full_name": "OpenMOSS/MOSS-VL",
+      "url": "https://github.com/OpenMOSS/MOSS-VL",
+      "description": "An open-weight 11B model series for long-form and real-time video understanding",
+      "stars": 792,
+      "forks": 43,
+      "language": "C++",
+      "topics": [
+        "llms",
+        "long-video-understanding",
+        "multimodal",
+        "multimodal-ai",
+        "real-time-ai",
+        "streaming-video",
+        "video-question-answering",
+        "video-understanding",
+        "video-understanding-vlm",
+        "vision",
+        "vision-language",
+        "vision-language-model",
+        "vision-language-models",
+        "vision-llm",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-14",
+      "created_at": "2026-04-08",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 792
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "bytedance/vidi": {
+      "full_name": "bytedance/vidi",
+      "url": "https://github.com/bytedance/vidi",
+      "description": "The official repo for \"Vidi: Large Multimodal Models for Video Understanding and Editing\"",
+      "stars": 661,
+      "forks": 46,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-08-03",
+      "created_at": "2025-02-08",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 661
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "sotayang/Awesome-Streaming-Video-Understanding": {
+      "full_name": "sotayang/Awesome-Streaming-Video-Understanding",
+      "url": "https://github.com/sotayang/Awesome-Streaming-Video-Understanding",
+      "description": "🔥🔥🔥 [Awesome] Latest Papers, Codes & Datasets on Streaming / Online Video Understanding — Building Always-on, Real-time Video AI 🤖",
+      "stars": 481,
+      "forks": 30,
+      "language": "",
+      "topics": [
+        "online-video-understanding",
+        "streaming-video-understanding",
+        "video-llms"
+      ],
+      "pushed_at": "2026-08-05",
+      "created_at": "2025-12-04",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 481
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "MugheesMehdi07/langvio": {
+      "full_name": "MugheesMehdi07/langvio",
+      "url": "https://github.com/MugheesMehdi07/langvio",
+      "description": " A powerful AI library that bridges Large Language Models (LLMs) with video processing frameworks like YOLO, enabling seamless integration of vision and language for advanced video understanding, object detection, and contextual analysis. ",
+      "stars": 425,
+      "forks": 60,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-23",
+      "created_at": "2025-04-01",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 425
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "google-deepmind/videoprism": {
+      "full_name": "google-deepmind/videoprism",
+      "url": "https://github.com/google-deepmind/videoprism",
+      "description": "Official repository for \"VideoPrism: A Foundational Visual Encoder for Video Understanding\" (ICML 2024)",
+      "stars": 400,
+      "forks": 42,
+      "language": "Python",
+      "topics": [
+        "self-supervised-learning",
+        "video-foundation-model",
+        "vision-language-model",
+        "vision-transformer"
+      ],
+      "pushed_at": "2026-10-20",
+      "created_at": "2025-05-29",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 400
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "MME-Benchmarks/Video-MME-v2": {
+      "full_name": "MME-Benchmarks/Video-MME-v2",
+      "url": "https://github.com/MME-Benchmarks/Video-MME-v2",
+      "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
+      "stars": 365,
+      "forks": 3,
+      "language": "Python",
+      "topics": [
+        "large-language-models",
+        "large-vision-language-models",
+        "multimodal-large-language-models",
+        "video",
+        "video-mme"
+      ],
+      "pushed_at": "2026-08-05",
+      "created_at": "2026-04-03",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 365
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "nv-tlabs/PixelUMM": {
+      "full_name": "nv-tlabs/PixelUMM",
+      "url": "https://github.com/nv-tlabs/PixelUMM",
+      "description": "Encoder-Free Unified Image and Video Understanding and Generation",
+      "stars": 296,
+      "forks": 10,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-02",
+      "created_at": "2026-09-04",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 296
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "mbzuai-oryx/VideoGPT-plus": {
+      "full_name": "mbzuai-oryx/VideoGPT-plus",
+      "url": "https://github.com/mbzuai-oryx/VideoGPT-plus",
+      "description": "Official Repository of paper VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding",
+      "stars": 295,
+      "forks": 19,
+      "language": "Python",
+      "topics": [
+        "chatbot",
+        "clip",
+        "dual-encoder",
+        "gpt4",
+        "gpt4o",
+        "image-encoder",
+        "llama3",
+        "llava",
+        "multimodal",
+        "phi-3-mini",
+        "vicuna",
+        "video-chatbot",
+        "video-conversation",
+        "video-encoder",
+        "vision-language",
+        "vision-language-pretraining"
+      ],
+      "pushed_at": "2026-09-05",
+      "created_at": "2024-06-13",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 295
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "MCG-NJU/VideoJev": {
+      "full_name": "MCG-NJU/VideoJev",
+      "url": "https://github.com/MCG-NJU/VideoJev",
+      "description": "VideoJev: System One Model for Video Understanding and Interaction",
+      "stars": 249,
+      "forks": 10,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-18",
+      "created_at": "2026-10-08",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 249
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "PolyX-Research/Response-G1": {
+      "full_name": "PolyX-Research/Response-G1",
+      "url": "https://github.com/PolyX-Research/Response-G1",
+      "description": "[ACL 2026] Official Implementation of Response-G1: Explicit Scene Graph Modeling for Proactive Streaming Video Understanding",
+      "stars": 238,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-05-26",
+      "created_at": "2026-04-19",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 238
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "OpenMOSS/MOSS-Video-Preview": {
+      "full_name": "OpenMOSS/MOSS-Video-Preview",
+      "url": "https://github.com/OpenMOSS/MOSS-Video-Preview",
+      "description": "An 11B model for real-time video understanding with gated cross-attention and streaming inference",
+      "stars": 173,
+      "forks": 5,
+      "language": "Python",
+      "topics": [
+        "multimodal",
+        "streaming-video",
+        "video-understanding",
+        "vision-language-model"
+      ],
+      "pushed_at": "2026-07-16",
+      "created_at": "2026-03-16",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 173
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "sotayang/LiveStar": {
+      "full_name": "sotayang/LiveStar",
+      "url": "https://github.com/sotayang/LiveStar",
+      "description": "[NeurIPS'2025] Official repository for \"LiveStar: Live Streaming Assistant for Real-World Online Video Understanding\"",
+      "stars": 159,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "multi-modal-large-language-modals",
+        "online-video-understanding",
+        "streaming-video-understanding",
+        "video-llms"
+      ],
+      "pushed_at": "2026-07-03",
+      "created_at": "2025-05-06",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 159
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Xuchen-Li/llm-arxiv-daily": {
+      "full_name": "Xuchen-Li/llm-arxiv-daily",
+      "url": "https://github.com/Xuchen-Li/llm-arxiv-daily",
+      "description": "Automatically update arXiv papers about LLM Reasoning, LLM Evaluation, LLM & MLLM and Video Understanding using Github Actions.",
+      "stars": 146,
+      "forks": 14,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-19",
+      "created_at": "2024-12-20",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 146
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "sotayang/SVBench": {
+      "full_name": "sotayang/SVBench",
+      "url": "https://github.com/sotayang/SVBench",
+      "description": "[ICLR'2025 Spotlight] Official repository for \"SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding\"",
+      "stars": 123,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "multi-modal-large-language-modals",
+        "online-video-understanding",
+        "streaming-video-understanding",
+        "video-llms"
+      ],
+      "pushed_at": "2026-07-02",
+      "created_at": "2024-08-16",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 123
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "gaotiexinqu/VideoSeeker": {
+      "full_name": "gaotiexinqu/VideoSeeker",
+      "url": "https://github.com/gaotiexinqu/VideoSeeker",
+      "description": "VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation",
+      "stars": 122,
+      "forks": 7,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-05-20",
+      "created_at": "2026-05-13",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 122
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "cambrian-mllm/cambrian-p": {
+      "full_name": "cambrian-mllm/cambrian-p",
+      "url": "https://github.com/cambrian-mllm/cambrian-p",
+      "description": "Cambrian-P: Pose-Grounded Video Understanding",
+      "stars": 117,
+      "forks": 4,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-07-28",
+      "created_at": "2026-05-21",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 117
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "yunlong10/BVB": {
+      "full_name": "yunlong10/BVB",
+      "url": "https://github.com/yunlong10/BVB",
+      "description": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
+      "stars": 114,
+      "forks": 7,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-23",
+      "created_at": "2026-03-17",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 114
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "haowei-freesky/HERMES": {
+      "full_name": "haowei-freesky/HERMES",
+      "url": "https://github.com/haowei-freesky/HERMES",
+      "description": "Official Repository for paper \"HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding\" [ACL 2026]",
+      "stars": 109,
+      "forks": 9,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-05-08",
+      "created_at": "2026-01-20",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 109
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "mll-lab-nu/TStar": {
+      "full_name": "mll-lab-nu/TStar",
+      "url": "https://github.com/mll-lab-nu/TStar",
+      "description": "T* keyframe search for long-form video understanding (CVPR 2025) + LV-Haystack temporal search benchmark code",
+      "stars": 99,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "keyframe-selection",
+        "long-video",
+        "temporal-search",
+        "video-question-answering",
+        "video-understanding",
+        "vision-language-models"
+      ],
+      "pushed_at": "2026-08-23",
+      "created_at": "2024-11-17",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 99
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "BBBBchan/DeltaStreamer": {
+      "full_name": "BBBBchan/DeltaStreamer",
+      "url": "https://github.com/BBBBchan/DeltaStreamer",
+      "description": "DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding",
+      "stars": 88,
+      "forks": 1,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-10-22",
+      "created_at": "2026-10-09",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 88
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "chakravarthi589/Video-Question-Answering_Resources": {
+      "full_name": "chakravarthi589/Video-Question-Answering_Resources",
+      "url": "https://github.com/chakravarthi589/Video-Question-Answering_Resources",
+      "description": "Video Question Answering | Video QA | VQA",
+      "stars": 98,
+      "forks": 13,
+      "language": "",
+      "topics": [
+        "aaai",
+        "acm",
+        "arxiv-papers",
+        "cvpr",
+        "eccv",
+        "iccv",
+        "ieee",
+        "neurips",
+        "video-query",
+        "video-question-answering",
+        "video-question-answering-dataset",
+        "video-questions",
+        "vqa",
+        "vqa-dataset",
+        "wacv"
+      ],
+      "pushed_at": "2026-06-12",
+      "created_at": "2024-10-10",
+      "archived": false,
+      "categories": [
+        "video-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 98
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "zai-org/GLM-V": {
+      "full_name": "zai-org/GLM-V",
+      "url": "https://github.com/zai-org/GLM-V",
+      "description": "GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
+      "stars": 2403,
+      "forks": 191,
+      "language": "Python",
+      "topics": [
+        "image2text",
+        "reasoning",
+        "video-understanding",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-23",
+      "created_at": "2025-06-28",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 2403
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models": {
+      "full_name": "HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models",
+      "url": "https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models",
+      "description": "The development and future prospects of large multimodal reasoning models.",
+      "stars": 620,
+      "forks": 23,
+      "language": "",
+      "topics": [],
+      "pushed_at": "2026-08-19",
+      "created_at": "2025-04-20",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 620
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "tongjingqi/Thinking-with-Video": {
+      "full_name": "tongjingqi/Thinking-with-Video",
+      "url": "https://github.com/tongjingqi/Thinking-with-Video",
+      "description": "We introduce 'Thinking with Video', a new paradigm leveraging video generation for multimodal reasoning. Our VideoThinkBench shows that Sora-2 surpasses GPT5 by 10% on eyeballing puzzles and reaches 69% accuracy on MMMU.",
+      "stars": 320,
+      "forks": 6,
+      "language": "Python",
+      "topics": [
+        "multimodal-reasoning",
+        "sora",
+        "sora2",
+        "video-generation"
+      ],
+      "pushed_at": "2026-08-23",
+      "created_at": "2025-11-06",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 320
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "The-Martyr/Awesome-Multimodal-Reasoning": {
+      "full_name": "The-Martyr/Awesome-Multimodal-Reasoning",
+      "url": "https://github.com/The-Martyr/Awesome-Multimodal-Reasoning",
+      "description": "Latest Advances on (RL based) Multimodal Reasoning and Generation in Multimodal LLMs",
+      "stars": 106,
+      "forks": 13,
+      "language": "",
+      "topics": [
+        "agent",
+        "chain-of-thought",
+        "cot",
+        "image-generation",
+        "image-reasoning",
+        "image-understanding",
+        "large-language-models",
+        "llm",
+        "mllm",
+        "multimodal-learning",
+        "multimodal-reasoning",
+        "reinforcement-learning",
+        "rl",
+        "video-generation",
+        "video-reasoning",
+        "video-understanding",
+        "vlm"
+      ],
+      "pushed_at": "2026-10-19",
+      "created_at": "2025-02-16",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 106
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "gokayfem/ComfyUI_VLM_nodes": {
+      "full_name": "gokayfem/ComfyUI_VLM_nodes",
+      "url": "https://github.com/gokayfem/ComfyUI_VLM_nodes",
+      "description": "ComfyUI nodes for vision-language models: Qwen3-VL, Moondream 3, Florence-2, SmolVLM2, InternVL, Gemma 3, MiniCPM-V. Plus open-vocabulary detection, SAM2/SAM3 segmentation, video temporal reasoning, GGUF via llama.cpp, and hosted LLM/VLM APIs.",
+      "stars": 592,
+      "forks": 62,
+      "language": "Python",
+      "topics": [
+        "comfyui",
+        "custom-nodes",
+        "florence-2",
+        "gguf",
+        "grounding-dino",
+        "image-captioning",
+        "img2text",
+        "joytag",
+        "llama-cpp",
+        "llava",
+        "llm",
+        "mllm",
+        "moondream",
+        "nodes",
+        "object-detection",
+        "qwen3-vl",
+        "sam2",
+        "segmentation",
+        "video-understanding",
+        "vlm"
+      ],
+      "pushed_at": "2026-08-08",
+      "created_at": "2024-01-24",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 592
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "vllm-project/vllm-omni": {
+      "full_name": "vllm-project/vllm-omni",
+      "url": "https://github.com/vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "stars": 7352,
+      "forks": 1968,
+      "language": "Python",
+      "topics": [
+        "audio-generation",
+        "diffusion",
+        "image-generation",
+        "inference",
+        "model-serving",
+        "multimodal",
+        "pytorch",
+        "transformer",
+        "video-generation",
+        "world-model"
+      ],
+      "pushed_at": "2026-10-26",
+      "created_at": "2025-09-11",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 7352
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "NVlabs/OmniVinci": {
+      "full_name": "NVlabs/OmniVinci",
+      "url": "https://github.com/NVlabs/OmniVinci",
+      "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
+      "stars": 685,
+      "forks": 56,
+      "language": "Python",
+      "topics": [
+        "audio-language-model",
+        "deep-learning",
+        "large-language-models",
+        "multimodal-large-language-models",
+        "vision-language-model"
+      ],
+      "pushed_at": "2026-08-31",
+      "created_at": "2025-09-24",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 685
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "redai-studio/Relax": {
+      "full_name": "redai-studio/Relax",
+      "url": "https://github.com/redai-studio/Relax",
+      "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale",
+      "stars": 655,
+      "forks": 183,
+      "language": "Python",
+      "topics": [
+        "agentic-rl",
+        "distributed-training",
+        "grpo",
+        "multi-agent",
+        "multimodal",
+        "post-training",
+        "ray-serve",
+        "reinforcement-learning",
+        "rlhf"
+      ],
+      "pushed_at": "2026-10-26",
+      "created_at": "2026-04-13",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 655
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "opendilab/LightRFT": {
+      "full_name": "opendilab/LightRFT",
+      "url": "https://github.com/opendilab/LightRFT",
+      "description": "LightRFT: Light, Efficient, Omni-modal & Reward-model Driven Reinforcement Fine-Tuning Framework",
+      "stars": 392,
+      "forks": 12,
+      "language": "Python",
+      "topics": [
+        "dapo",
+        "grpo",
+        "llm",
+        "llm-training",
+        "multi-modal",
+        "reinforcement-learning",
+        "reward-model",
+        "rft",
+        "vlm"
+      ],
+      "pushed_at": "2026-09-07",
+      "created_at": "2025-12-23",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 392
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "Livioni/OmniVGGT-official": {
+      "full_name": "Livioni/OmniVGGT-official",
+      "url": "https://github.com/Livioni/OmniVGGT-official",
+      "description": "[CVPR 2026 Hightlight] OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer",
+      "stars": 378,
+      "forks": 33,
+      "language": "Python",
+      "topics": [
+        "3d-reconstruction",
+        "spatial-foundation-model"
+      ],
+      "pushed_at": "2026-05-21",
+      "created_at": "2025-11-05",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 378
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "TaoLiveAIGC/TLive-Omni": {
+      "full_name": "TaoLiveAIGC/TLive-Omni",
+      "url": "https://github.com/TaoLiveAIGC/TLive-Omni",
+      "description": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
+      "stars": 339,
+      "forks": 14,
+      "language": "Python",
+      "topics": [
+        "audio-understanding",
+        "large-language-models",
+        "multimodal-large-language-models",
+        "omni",
+        "omni-modal",
+        "omni-modal-video-understanding",
+        "video-understanding"
+      ],
+      "pushed_at": "2026-08-24",
+      "created_at": "2026-08-14",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 339
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "Omni-Scientist/OmniScientist": {
+      "full_name": "Omni-Scientist/OmniScientist",
+      "url": "https://github.com/Omni-Scientist/OmniScientist",
+      "description": "An Omni-Modal, Omni-Discipline AI Scientist",
+      "stars": 172,
+      "forks": 20,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-scientist",
+        "llm",
+        "research",
+        "skill"
+      ],
+      "pushed_at": "2026-09-26",
+      "created_at": "2026-08-16",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 172
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "Tsinghua-MARS-Lab/OMG": {
+      "full_name": "Tsinghua-MARS-Lab/OMG",
+      "url": "https://github.com/Tsinghua-MARS-Lab/OMG",
+      "description": "Official repository for \"OMG: Omni-Modal Motion Generation for Generalist Humanoid Control\", https://arxiv.org/abs/2606.10340.",
+      "stars": 123,
+      "forks": 10,
+      "language": "Python",
+      "topics": [
+        "general-humanoid-control",
+        "humanoid",
+        "humanoid-control",
+        "motion-generation",
+        "multi-modal-learning",
+        "robot-foundation-models",
+        "robot-learning"
+      ],
+      "pushed_at": "2026-10-22",
+      "created_at": "2026-06-08",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 123
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "PolyU-VCLab/OmniCompass": {
+      "full_name": "PolyU-VCLab/OmniCompass",
+      "url": "https://github.com/PolyU-VCLab/OmniCompass",
+      "description": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+      "stars": 117,
+      "forks": 1,
+      "language": "Python",
+      "topics": [
+        "omni-modal-video-understanding",
+        "question-answering",
+        "temporal-grounding",
+        "video-understanding",
+        "vision-language-models"
+      ],
+      "pushed_at": "2026-10-23",
+      "created_at": "2026-10-06",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 117
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "THU-BPM/Omni-SafetyBench": {
+      "full_name": "THU-BPM/Omni-SafetyBench",
+      "url": "https://github.com/THU-BPM/Omni-SafetyBench",
+      "description": "[ACM MM 2026] Code for paper \"Omni-SafetyBench: A Benchmark for Safety Evaluation of Audio-Visual Large Language Models\".",
+      "stars": 116,
+      "forks": 4,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "evaluation",
+        "large-language-models",
+        "llm",
+        "ollm",
+        "omni-modal",
+        "safety",
+        "trustworthy-ai"
+      ],
+      "pushed_at": "2026-08-26",
+      "created_at": "2025-08-10",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 116
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "ZiiJianLiu/Omni-Woodpecker": {
+      "full_name": "ZiiJianLiu/Omni-Woodpecker",
+      "url": "https://github.com/ZiiJianLiu/Omni-Woodpecker",
+      "description": "Official implementation of \"Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs\"",
+      "stars": 97,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "hallucination-mitigation",
+        "omni-modal"
+      ],
+      "pushed_at": "2026-10-26",
+      "created_at": "2026-09-01",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 97
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": true
+    },
+    "HarryHsing/OmniAgent": {
+      "full_name": "HarryHsing/OmniAgent",
+      "url": "https://github.com/HarryHsing/OmniAgent",
+      "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception — a 7B agent that beats Qwen2.5-VL-72B with 73% fewer frames on LVBench.",
+      "stars": 80,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "audio-visual",
+        "icml2026",
+        "llm-agent",
+        "long-video-understanding",
+        "mllm",
+        "multimodal",
+        "multimodal-llm",
+        "omni-modal",
+        "qwen",
+        "reinforcement-learning",
+        "temporal-grounding",
+        "video-question-answering",
+        "video-understanding",
+        "vision-language-model"
+      ],
+      "pushed_at": "2026-09-18",
+      "created_at": "2026-06-11",
+      "archived": false,
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 80
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "HVision-NKU/GlimpsePrune": {
+      "full_name": "HVision-NKU/GlimpsePrune",
+      "url": "https://github.com/HVision-NKU/GlimpsePrune",
+      "description": "[TCSVT] Official repository of the paper \"A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models\"",
+      "stars": 103,
+      "forks": 2,
+      "language": "Python",
+      "topics": [
+        "inference-efficiency",
+        "lvlms",
+        "mllms",
+        "token-compression",
+        "visual-token-pruning"
+      ],
+      "pushed_at": "2026-06-12",
+      "created_at": "2025-08-02",
+      "archived": false,
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 103
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    },
+    "MINT-SJTU/VLA-Pruner": {
+      "full_name": "MINT-SJTU/VLA-Pruner",
+      "url": "https://github.com/MINT-SJTU/VLA-Pruner",
+      "description": "The official implementation of VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference.",
+      "stars": 86,
+      "forks": 6,
+      "language": "Python",
+      "topics": [],
+      "pushed_at": "2026-06-04",
+      "created_at": "2025-11-24",
+      "archived": false,
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "stars": 86
+        }
+      ],
+      "delta_7d": null,
+      "delta_30d": null,
+      "is_new": false
+    }
+  }
+}

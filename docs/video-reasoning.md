@@ -57,12 +57,12 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2024-05-31 | **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis** | Chaoyou Fu, Yuhan Dai et al. | 长视频理解的标杆评测,确立了按时长分档报告的方法论 | [📄 2405.21075](https://arxiv.org/abs/2405.21075) |
-| 2023-06-08 | **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** | Muhammad Maaz, Hanoona Rasheed et al. | 视频对话模型的开山之作,理解'视频 LLM'范式从这里开始 | [📄 2306.05424](https://arxiv.org/abs/2306.05424) |
-| 2023-11-28 | **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark** | Kunchang Li, Yali Wang et al. | 把时序理解拆成 20 类细粒度任务,测出'是否真在看顺序' | [📄 2311.17005](https://arxiv.org/abs/2311.17005) |
-| 2024-08-19 | **LongVILA: Scaling Long-Context Visual Language Models for Long Videos** | Yukang Chen, Fuzhao Xue et al. | 长上下文视频建模的系统性工程:从训练并行到数据配比 | [📄 2408.10188](https://arxiv.org/abs/2408.10188) |
-| 2025-01-23 | **Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos** | Kairui Hu, Penghao Wu et al. | 视频中的知识获取评测,把'看视频学习'单独量化 | [📄 2501.13826](https://arxiv.org/abs/2501.13826) |
-| 2024-03-18 | **VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding** | Yue Fan, Xiaojian Ma et al. | 记忆增强的视频 agent:主动检索关键帧而非全量喂入 | [📄 2403.11481](https://arxiv.org/abs/2403.11481) |
+| 2024-05-31 | **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis** | Chaoyou Fu, Yuhan Dai et al. | 长视频理解的标杆评测，确立了按时长分档报告的方法论 | [📄 2405.21075](https://arxiv.org/abs/2405.21075) |
+| 2023-06-08 | **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** | Muhammad Maaz, Hanoona Rasheed et al. | 视频对话模型的开山之作，理解'视频 LLM'范式从这里开始 | [📄 2306.05424](https://arxiv.org/abs/2306.05424) |
+| 2023-11-28 | **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark** | Kunchang Li, Yali Wang et al. | 把时序理解拆成 20 类细粒度任务，测出'是否真在看顺序' | [📄 2311.17005](https://arxiv.org/abs/2311.17005) |
+| 2024-08-19 | **LongVILA: Scaling Long-Context Visual Language Models for Long Videos** | Yukang Chen, Fuzhao Xue et al. | 长上下文视频建模的系统性工程：从训练并行到数据配比 | [📄 2408.10188](https://arxiv.org/abs/2408.10188) |
+| 2025-01-23 | **Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos** | Kairui Hu, Penghao Wu et al. | 视频中的知识获取评测，把'看视频学习'单独量化 | [📄 2501.13826](https://arxiv.org/abs/2501.13826) |
+| 2024-03-18 | **VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding** | Yue Fan, Xiaojian Ma et al. | 记忆增强的视频 agent：主动检索关键帧而非全量喂入 | [📄 2403.11481](https://arxiv.org/abs/2403.11481) |
 <!-- table:end classics -->
 
 ## 6. 📄 自动跟踪的最新论文

@@ -29,7 +29,7 @@ from common import (
     DOCS,
     GITHUB_API,
     http_get,
-    insert_table_rows,
+    replace_table_body,
     load_config,
     log,
     md_escape,
@@ -161,6 +161,7 @@ def main() -> int:
     parser.add_argument("--top", type=int, default=60, help="写入文档的仓库数量")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--skip-search", action="store_true", help="只刷新种子仓库")
+    parser.add_argument("--offline", action="store_true", help="不发请求，只用 data/repos.json 重渲染榜单")
     args = parser.parse_args()
 
     config = load_config()
@@ -195,8 +196,8 @@ def main() -> int:
         return True
 
     # 1) 种子仓库（逐个精确校验）
-    log("━━ 种子仓库校验 ━━")
-    for seed in config.get("github_seed", []):
+    log("━━ 种子仓库校验 ━━" if not args.offline else "━━ 离线模式：跳过抓取，仅重渲染 ━━")
+    for seed in ([] if args.offline else config.get("github_seed", [])):
         full_name = seed["full_name"]
         category = seed.get("category", "")
         data = fetch_repo(full_name)
@@ -210,7 +211,7 @@ def main() -> int:
 
     # 2) 关键词搜索（未认证限流 10 次/分钟，故每次之间 sleep）
     dropped = 0
-    if not args.skip_search:
+    if not args.offline and not args.skip_search:
         for cat in config["categories"]:
             for query in cat.get("github_queries", []):
                 log(f"━━ 搜索 [{cat['id']}] {query} ━━")
@@ -265,9 +266,10 @@ def main() -> int:
     rows.sort(key=sort_key, reverse=True)
     top = rows[: args.top]
 
-    table_rows = [(r["full_name"], render_row(i + 1, r)) for i, r in enumerate(top)]
-    inserted = insert_table_rows(PROJECTS_DOC, "repos", table_rows, max_rows=args.top, dry_run=args.dry_run)
-    log(f"写入 {PROJECTS_DOC.name}: {inserted} 行（榜单按 7 日增速排序）")
+    # 榜单是全量快照：排名每次都会变，必须整表重写而不是增量追加
+    table_rows = [render_row(i + 1, r) for i, r in enumerate(top)]
+    written = replace_table_body(PROJECTS_DOC, "repos", table_rows, dry_run=args.dry_run)
+    log(f"写入 {PROJECTS_DOC.name}: {written} 行（榜单按 7 日增速排序）")
 
     if not args.dry_run:
         store["updated"] = today_utc().strftime("%Y-%m-%dT%H:%M:%SZ")

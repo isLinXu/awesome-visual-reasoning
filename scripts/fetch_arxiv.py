@@ -227,7 +227,8 @@ def render_row(paper: Dict[str, Any], category_id: str) -> Tuple[str, str]:
         meta.append("🤗")
 
     row = f"| {date} | **{title}** | {authors} | {contribution} | {link} {' '.join(meta)} |".rstrip()
-    return paper["arxiv_id"], row
+    # 用完整 URL 作去重键：arXiv ID 之间存在前缀关系（2610.1056 / 2610.10563）
+    return f"(https://arxiv.org/abs/{paper['arxiv_id']})", row
 
 
 # ─── 主流程 ────────────────────────────────────────────────────────────────
@@ -329,7 +330,7 @@ def main() -> int:
                     "categories": sorted(set(record.get("categories", []) + [cat_id])),
                     "score": max(float(record.get("score", 0)), float(p.get("score", 0))),
                     "primary_category": p.get("primary_category", ""),
-                    "first_seen": record.get("first_seen") or today_str,
+                    "first_seen": record.get("first_seen") or (p.get("published") or today_str),
                 }
             )
             known[p["arxiv_id"]] = record

@@ -53,12 +53,12 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2024-04-11 | **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** | Tianbao Xie, Danyang Zhang et al. | 真实操作系统任务基准,定义了 computer-use agent 的评测范式 | [📄 2404.07972](https://arxiv.org/abs/2404.07972) |
-| 2024-08-01 | **OmniParser for Pure Vision Based GUI Agent** | Yadong Lu, Jianwei Yang et al. | 用视觉解析替代 DOM/无障碍树,GUI 视觉 agent 的关键基础设施 | [📄 2408.00203](https://arxiv.org/abs/2408.00203) |
-| 2025-01-21 | **UI-TARS: Pioneering Automated GUI Interaction with Native Agents** | Yujia Qin, Yining Ye et al. | 端到端 GUI agent 的代表性工作,统一感知- grounding-行动 | [📄 2501.12326](https://arxiv.org/abs/2501.12326) |
-| 2023-12-14 | **CogAgent: A Visual Language Model for GUI Agents** | Wenyi Hong, Weihan Wang et al. | 早期 GUI 视觉 agent 的代表,确立了高分辨率屏幕理解的必要性 | [📄 2312.08914](https://arxiv.org/abs/2312.08914) |
-| 2024-11-26 | **ShowUI: One Vision-Language-Action Model for GUI Visual Agent** | Kevin Qinghong Lin, Linjie Li et al. | 轻量视觉-语言-行动模型,展示 UI 引导的 token 选择策略 | [📄 2411.17465](https://arxiv.org/abs/2411.17465) |
-| 2024-03-19 | **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models** | Zuyan Liu, Yuhao Dong et al. | 按需放大局部区域的交互式视觉推理,'主动看'的最早范式之一 | [📄 2403.12966](https://arxiv.org/abs/2403.12966) |
+| 2024-04-11 | **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** | Tianbao Xie, Danyang Zhang et al. | 真实操作系统任务基准，定义了 computer-use agent 的评测范式 | [📄 2404.07972](https://arxiv.org/abs/2404.07972) |
+| 2024-08-01 | **OmniParser for Pure Vision Based GUI Agent** | Yadong Lu, Jianwei Yang et al. | 用视觉解析替代 DOM/无障碍树，GUI 视觉 agent 的关键基础设施 | [📄 2408.00203](https://arxiv.org/abs/2408.00203) |
+| 2025-01-21 | **UI-TARS: Pioneering Automated GUI Interaction with Native Agents** | Yujia Qin, Yining Ye et al. | 端到端 GUI agent 的代表性工作，统一感知- grounding-行动 | [📄 2501.12326](https://arxiv.org/abs/2501.12326) |
+| 2023-12-14 | **CogAgent: A Visual Language Model for GUI Agents** | Wenyi Hong, Weihan Wang et al. | 早期 GUI 视觉 agent 的代表，确立了高分辨率屏幕理解的必要性 | [📄 2312.08914](https://arxiv.org/abs/2312.08914) |
+| 2024-11-26 | **ShowUI: One Vision-Language-Action Model for GUI Visual Agent** | Kevin Qinghong Lin, Linjie Li et al. | 轻量视觉-语言-行动模型，展示 UI 引导的 token 选择策略 | [📄 2411.17465](https://arxiv.org/abs/2411.17465) |
+| 2024-03-19 | **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models** | Zuyan Liu, Yuhao Dong et al. | 按需放大局部区域的交互式视觉推理，'主动看'的最早范式之一 | [📄 2403.12966](https://arxiv.org/abs/2403.12966) |
 <!-- table:end classics -->
 
 ## 6. 📄 自动跟踪的最新论文

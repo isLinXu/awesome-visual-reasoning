@@ -86,10 +86,11 @@ categories:
       - 'all:"thinking with images" OR all:"think with images"'
       - 'all:"implicit reasoning" AND (all:vision OR all:multimodal)'
     github_queries:
-      - '"latent visual reasoning" in:name,description,readme'
-      - '"latent reasoning" multimodal in:name,description,readme'
-      - '"latent chain of thought" in:name,description,readme'
-      - '"thinking with images" in:name,description,readme'
+      - '"latent visual reasoning" in:name,description,topics'
+      - '"latent reasoning" multimodal in:name,description,topics'
+      - '"latent chain of thought" in:name,description,topics'
+      - '"thinking with images" in:name,description,topics'
+      - '"latent reasoning" in:name,description,topics'
     # 奠基/必读：按 arXiv ID 精确校验（expect 用于防止 ID 漂移到别的论文）
     classics:
       - {id: "2412.06769", expect: "coconut", note: "连续隐空间推理的开创性工作：用隐状态替代文本 CoT，是本赛道一切工作的起点"}
@@ -138,10 +139,10 @@ categories:
       - 'all:"image search" AND all:agent AND all:reasoning'
       - 'all:"visual planning" AND (all:agent OR all:embodied)'
     github_queries:
-      - '"gui agent" in:name,description,readme'
-      - '"computer use" agent in:name,description,readme'
-      - '"visual agent" in:name,description,readme'
-      - '"gui grounding" in:name,description,readme'
+      - '"gui agent" in:name,description,topics'
+      - '"computer use" agent in:name,description,topics'
+      - '"visual agent" in:name,description,topics'
+      - '"gui grounding" in:name,description,topics'
     classics:
       - {id: "2404.07972", expect: "osworld", note: "真实操作系统任务基准，定义了 computer-use agent 的评测范式"}
       - {id: "2408.00203", expect: "omniparser", note: "用视觉解析替代 DOM/无障碍树，GUI 视觉 agent 的关键基础设施"}
@@ -189,9 +190,11 @@ categories:
       - 'all:"video question answering" AND all:reasoning'
       - 'all:"video agent" OR all:"video retrieval" AND all:reasoning'
     github_queries:
-      - '"video reasoning" in:name,description,readme'
-      - '"long video" understanding in:name,description,readme'
-      - '"video llm" in:name,description,readme'
+      - '"video reasoning" in:name,description,topics'
+      - '"long video" understanding in:name,description,topics'
+      - '"video llm" in:name,description,topics'
+      - '"video understanding" in:name,description,topics'
+      - '"video qa" in:name,description,topics'
     classics:
       - {id: "2405.21075", expect: "video-mme", note: "长视频理解的标杆评测，确立了按时长分档报告的方法论"}
       - {id: "2306.05424", expect: "video-chatgpt", note: "视频对话模型的开山之作，理解'视频 LLM'范式从这里开始"}
@@ -208,6 +211,8 @@ categories:
         - "video question answering"
       medium:
         - "video llm"
+        - "video understanding"
+        - "video-language"
         - "streaming video"
         - "event localization"
         - "video agent"
@@ -236,9 +241,9 @@ categories:
       - 'all:"process reward" AND (all:multimodal OR all:visual)'
       - 'all:"interleaved" AND all:multimodal AND all:reasoning'
     github_queries:
-      - '"multimodal reasoning" in:name,description,readme'
-      - '"vision language model" reasoning in:name,description,readme'
-      - 'omni-modal in:name,description,readme'
+      - '"multimodal reasoning" in:name,description,topics'
+      - '"vision language model" reasoning in:name,description,topics'
+      - 'omni-modal in:name,description,topics'
     classics:
       - {id: "2311.16502", expect: "mmmu", note: "学科级多模态推理基准，几乎所有 VLM 都会报的分数"}
       - {id: "2310.02255", expect: "mathvista", note: "视觉数学推理基准，第一次系统性地把'看图算数'单独拎出来测"}
@@ -282,8 +287,9 @@ categories:
       - 'all:"efficient multimodal" AND (all:reasoning OR all:inference)'
       - 'all:"overthinking" AND (all:multimodal OR all:visual OR all:vision)'
     github_queries:
-      - '"visual token" compression in:name,description,readme'
-      - '"token pruning" multimodal in:name,description,readme'
+      - '"visual token" compression in:name,description,topics'
+      - '"token pruning" multimodal in:name,description,topics'
+      - '"visual token" in:name,description,topics'
     classics:
       - {id: "2403.06764", expect: "image is worth 1/2 tokens", note: "视觉 token 剪枝的开创性工作：图像 token 的注意力极稀疏，砍掉大部分几乎不掉点"}
       - {id: "2403.15388", expect: "prumerge", note: "自适应 token 归并，把'压多少'交给数据决定而非固定比例"}

@@ -51,11 +51,11 @@ SFT（图文指令）
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2023-11-27 | **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI** | Xiang Yue, Yuansheng Ni et al. | 学科级多模态推理基准,几乎所有 VLM 都会报的分数 | [📄 2311.16502](https://arxiv.org/abs/2311.16502) |
-| 2023-10-03 | **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts** | Pan Lu, Hritik Bansal et al. | 视觉数学推理基准,第一次系统性地把'看图算数'单独拎出来测 | [📄 2310.02255](https://arxiv.org/abs/2310.02255) |
-| 2024-04-18 | **BLINK: Multimodal Large Language Models Can See but Not Perceive** | Xingyu Fu, Yushi Hu et al. | 揭示 VLM 视觉感知短板的经典分析:人类一眼就会,模型却错 | [📄 2404.12390](https://arxiv.org/abs/2404.12390) |
-| 2024-06-26 | **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** | Zirui Wang, Mengzhou Xia et al. | 真实论文图表理解,专打细粒度科学图表读取 | [📄 2406.18521](https://arxiv.org/abs/2406.18521) |
-| 2024-03-14 | **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training** | Brandon McKinzie, Zhe Gan et al. | 系统消融多模态预训练的配方,理解'为什么这样训'必读 | [📄 2403.09611](https://arxiv.org/abs/2403.09611) |
+| 2023-11-27 | **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI** | Xiang Yue, Yuansheng Ni et al. | 学科级多模态推理基准，几乎所有 VLM 都会报的分数 | [📄 2311.16502](https://arxiv.org/abs/2311.16502) |
+| 2023-10-03 | **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts** | Pan Lu, Hritik Bansal et al. | 视觉数学推理基准，第一次系统性地把'看图算数'单独拎出来测 | [📄 2310.02255](https://arxiv.org/abs/2310.02255) |
+| 2024-04-18 | **BLINK: Multimodal Large Language Models Can See but Not Perceive** | Xingyu Fu, Yushi Hu et al. | 揭示 VLM 视觉感知短板的经典分析：人类一眼就会，模型却错 | [📄 2404.12390](https://arxiv.org/abs/2404.12390) |
+| 2024-06-26 | **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** | Zirui Wang, Mengzhou Xia et al. | 真实论文图表理解，专打细粒度科学图表读取 | [📄 2406.18521](https://arxiv.org/abs/2406.18521) |
+| 2024-03-14 | **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training** | Brandon McKinzie, Zhe Gan et al. | 系统消融多模态预训练的配方，理解'为什么这样训'必读 | [📄 2403.09611](https://arxiv.org/abs/2403.09611) |
 <!-- table:end classics -->
 
 ## 5. 📄 自动跟踪的最新论文

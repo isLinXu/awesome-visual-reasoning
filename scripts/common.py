@@ -12,7 +12,6 @@ import os
 import re
 import sys
 import time
-import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
@@ -117,7 +116,9 @@ def http_get(
 # ─── 文本处理 ──────────────────────────────────────────────────────────────
 
 def clean_text(text: str) -> str:
-    text = unicodedata.normalize("NFKC", text or "")
+    """收敛空白。注意不要做 NFKC 归一化——它会把中文全角标点（，：）压成半角，
+    而本仓库大量正文是中文，压完读起来很别扭。"""
+    text = (text or "").replace("\u3000", " ").replace("\xa0", " ")
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
@@ -264,6 +265,8 @@ def insert_table_rows(
 
     inserted: List[str] = []
     for key, row in rows:
+        # key 必须是行内独一无二的片段（如 "[**owner/repo**]"），不能用裸名字：
+        # "bytedance/UI-TARS" 是 "bytedance/UI-TARS-desktop" 的子串，裸名字会误判成重复。
         if key and any(key in ln for ln in body):
             continue
         if any(key in ln for ln in inserted):
@@ -287,6 +290,36 @@ def insert_table_rows(
     return len(inserted)
 
 
+def replace_table_body(
+    doc_path: Path, table_id: str, rows: List[str], *, dry_run: bool = False
+) -> int:
+    """整表重写（榜单类用：每次都是全量快照，排名会变，不能增量追加）。"""
+    if not doc_path.exists():
+        warn(f"文档不存在，跳过: {doc_path}")
+        return 0
+    content = doc_path.read_text(encoding="utf-8")
+    start_marker, end_marker = _START.format(table_id), _END.format(table_id)
+    start = content.find(start_marker)
+    end = content.find(end_marker, start) if start != -1 else -1
+    if start == -1 or end == -1:
+        warn(f"{doc_path.name} 缺少表格标记 {table_id}")
+        return 0
+
+    block = content[start + len(start_marker) : end]
+    lines = [ln for ln in block.split("\n") if ln.strip().startswith("|")]
+    if len(lines) < 2:
+        warn(f"{doc_path.name} 表格 {table_id} 缺少表头")
+        return 0
+    header, separator = lines[0], lines[1]
+
+    new_block = "\n" + "\n".join([header, separator] + rows) + "\n"
+    if not dry_run:
+        doc_path.write_text(
+            content[: start + len(start_marker)] + new_block + content[end:], encoding="utf-8"
+        )
+    return len(rows)
+
+
 def replace_marked(content: str, marker: str, value: str) -> str:
     """替换 <!--STATS:xxx-->旧值<!--/STATS:xxx--> 之间的内容。"""
     pattern = re.compile(
@@ -296,13 +329,16 @@ def replace_marked(content: str, marker: str, value: str) -> str:
     return pattern.sub(lambda m: m.group(1) + value + m.group(3), content)
 
 
-def count_table_rows(doc_path: Path) -> int:
-    """统计文档里所有标记表格的数据行数（用于统计徽章）。"""
+def count_table_rows(doc_path: Path, table_id: Optional[str] = None) -> int:
+    """统计数据行数。table_id 为空则统计文档内所有标记表格。"""
     if not doc_path.exists():
         return 0
     content = doc_path.read_text(encoding="utf-8")
     total = 0
-    for m in re.finditer(r"<!-- table:start (\S+) -->(.*?)<!-- table:end \1 -->", content, re.S):
+    pattern = r"<!-- table:start (\S+) -->(.*?)<!-- table:end \1 -->"
+    for m in re.finditer(pattern, content, re.S):
+        if table_id and m.group(1) != table_id:
+            continue
         lines = [ln for ln in m.group(2).split("\n") if ln.strip().startswith("|")]
         total += max(0, len(lines) - 2)
     return total

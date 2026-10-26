@@ -439,7 +439,7 @@ def render_spark(theme_name: str, theme: Dict[str, str], d: Dict[str, Any], trac
         out.append(f'<circle cx="{pts[-1][0]:.1f}" cy="{pts[-1][1]:.1f}" r="3.4" fill="{color}"/>')
 
     out.append(f'<text x="{pad_l}" y="14" font-size="11" fill="{theme["muted"]}">'
-               f"近 {len(weeks)} 周本赛道新增 · 峰值 {peak} 篇/周</text>")
+               f"近 {len(weeks)} 周本赛道论文发布 · 峰值 {peak} 篇/周</text>")
     out.append(f'<text x="{W - pad_r}" y="14" font-size="11" text-anchor="end" '
                f'fill="{theme["muted"]}">{weeks[0]:%m/%d} → {weeks[-1]:%m/%d}</text>')
 

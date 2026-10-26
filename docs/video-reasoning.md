@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-video-reasoning-dark.svg">
-  <img src="../assets/spark-video-reasoning-light.svg" alt="Video Reasoning 近 12 周论文发布趋势" width="900">
+  <img src="../assets/spark-video-reasoning-light.svg" alt="Video Reasoning 近 12 周论文发布趋势">
 </picture>
 
 [← 智能体视觉](agentic-vision.md) · [返回总览](../README.md) · [多模态推理底座 →](multimodal-reasoning.md)

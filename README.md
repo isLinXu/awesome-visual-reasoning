@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Awesome Visual Reasoning — 模型是怎么在视觉上思考的" width="1200">
+  <img src="assets/banner-light.svg" alt="Awesome Visual Reasoning — 模型是怎么在视觉上思考的">
 </picture>
 
 **自动跟踪「模型怎么在视觉上思考」的开源情报站。**
@@ -70,7 +70,15 @@
 | 🌐 **Multimodal Reasoning** | 上面三条赛道共用的地基 | [multimodal-reasoning.md](docs/multimodal-reasoning.md) | 5 | <!--STATS:cat_multimodal-reasoning-->200<!--/STATS:cat_multimodal-reasoning--> 篇 |
 | ⚡ **Efficient Visual Reasoning** | 想得起，也想得便宜 | [efficient-visual-reasoning.md](docs/efficient-visual-reasoning.md) | 3 | <!--STATS:cat_efficient-visual-reasoning-->89<!--/STATS:cat_efficient-visual-reasoning--> 篇 |
 
-其他入口：**[🚀 项目雷达](docs/projects.md)**（按 7 日 star 增速排）· **[📬 自动周报](docs/digest.md)**
+## 怎么用
+
+| 你想…… | 去哪 |
+| :-- | :-- |
+| 30 秒知道最近在发生什么 | [📬 自动周报](docs/digest.md)——每周新论文按赛道分组，带一句话贡献 |
+| 搞懂某条赛道的核心问题 | 上面五个赛道文档，每篇开头都有「必读」清单，按 arXiv ID 校验过 |
+| 找能直接跑的项目 | [🚀 项目雷达](docs/projects.md)，按 7 日 star 增速排，附语言与赛道 |
+| 追最新论文 | 各赛道文档的论文表，按发布日期倒序，点标题直达 arXiv |
+| 自己搭一份类似的跟踪 | 看「快速开始」，改 `config/taxonomy.yml` 就能换方向，不用动代码 |
 
 ## 现在什么情况
 
@@ -79,12 +87,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/trend-dark.svg">
-  <img src="assets/trend-light.svg" alt="近 12 周论文发布趋势，按赛道堆叠" width="1200">
+  <img src="assets/trend-light.svg" alt="近 12 周论文发布趋势，按赛道堆叠">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/distribution-dark.svg">
-  <img src="assets/distribution-light.svg" alt="五条赛道的论文占比" width="1200">
+  <img src="assets/distribution-light.svg" alt="五条赛道的论文占比">
 </picture>
 
 看图能读出三件事：

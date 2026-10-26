@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-agentic-vision-dark.svg">
-  <img src="../assets/spark-agentic-vision-light.svg" alt="Agentic Vision 近 12 周论文发布趋势" width="900">
+  <img src="../assets/spark-agentic-vision-light.svg" alt="Agentic Vision 近 12 周论文发布趋势">
 </picture>
 
 [← 潜在视觉推理](latent-visual-reasoning.md) · [返回总览](../README.md) · [视频推理 →](video-reasoning.md)

@@ -23,7 +23,7 @@ import argparse
 import re
 import sys
 from collections import Counter, defaultdict
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
@@ -124,6 +124,19 @@ def week_start(d: datetime) -> datetime:
     return (d - timedelta(days=d.weekday())).replace(hour=0, minute=0, second=0, microsecond=0)
 
 
+def daily_velocity(rec: Dict[str, Any]) -> float:
+    """日均 star 增速 = 总 star / 仓库存活天数（与 track_github.py 同一口径）。"""
+    created = rec.get("created_at") or ""
+    if len(created) != 10:
+        return 0.0
+    try:
+        born = datetime.strptime(created, "%Y-%m-%d")
+    except ValueError:
+        return 0.0
+    age = max((datetime.now(timezone.utc).replace(tzinfo=None) - born).days, 1)
+    return int(rec.get("stars") or 0) / age
+
+
 def load_data(weeks: int) -> Dict[str, Any]:
     config = load_config()
     cats = config["categories"]
@@ -154,11 +167,29 @@ def load_data(weeks: int) -> Dict[str, Any]:
     if per_week:
         last = max(per_week)
     else:
-        last = week_start(datetime.utcnow())
+        last = week_start(datetime.now(timezone.utc).replace(tzinfo=None))
     all_weeks = [last - timedelta(weeks=i) for i in range(weeks - 1, -1, -1)]
     series = {w: per_week.get(w, Counter()) for w in all_weeks}
 
     stars_total = sum(int(r.get("stars") or 0) for r in repos.values())
+
+    # 项目增速榜：有真实 7 日增量就用它，否则用日均速度折算（与 track_github 的排序口径一致）
+    ranking: List[Dict[str, Any]] = []
+    for name, rec in repos.items():
+        d7 = rec.get("delta_7d")
+        vel = daily_velocity(rec)
+        effective = d7 if d7 is not None else vel * 7
+        ranking.append(
+            {
+                "name": name,
+                "stars": int(rec.get("stars") or 0),
+                "delta": int(round(effective)),
+                "measured": d7 is not None,
+                "track": (rec.get("categories") or [""])[0],
+            }
+        )
+    ranking.sort(key=lambda r: (r["delta"], r["stars"]), reverse=True)
+
     return {
         "order": order,
         "names": names,
@@ -169,6 +200,7 @@ def load_data(weeks: int) -> Dict[str, Any]:
         "track_total": track_total,
         "weeks": all_weeks,
         "series": series,
+        "ranking": ranking,
     }
 
 
@@ -341,7 +373,41 @@ def render_distribution(theme_name: str, theme: Dict[str, str], d: Dict[str, Any
     return "\n".join(out)
 
 
-# ── 图表 4：单赛道迷你趋势线 ──────────────────────────────────────────────────
+# ── 图表 4：项目增速榜（横向条形） ────────────────────────────────────────────
+def render_ranking(theme_name: str, theme: Dict[str, str], d: Dict[str, Any], top: int = 12) -> str:
+    rows = d["ranking"][:top]
+    W = 1200
+    row_h = 30
+    top_pad = 62
+    H = top_pad + len(rows) * row_h + 14
+    name_w = 240
+    bar_x = 24 + name_w
+    bar_w = W - bar_x - 130
+
+    peak = max((r["delta"] for r in rows), default=1) or 1
+    out = svg_open(W, H, theme, "项目 star 增速榜")
+    out.append(f'<text x="24" y="30" font-size="16" font-weight="600" fill="{theme["fg"]}">'
+               f"项目 star 增速 Top {len(rows)}</text>")
+    out.append(f'<text x="24" y="50" font-size="12" fill="{theme["muted"]}">'
+               f"快照满 7 天后为实测增量；不足 7 天按日均速度折算（与项目雷达表格同口径）</text>")
+
+    for i, r in enumerate(rows):
+        y = top_pad + i * row_h
+        color = TRACK_COLORS.get(r["track"], theme["muted"])
+        out.append(f'<text x="24" y="{y + 17}" font-size="12" fill="{theme["fg"]}">'
+                   f'{esc(truncate(r["name"], name_w - 12, 12))}</text>')
+        out.append(f'<rect x="{bar_x}" y="{y + 6}" width="{bar_w}" height="16" rx="5" '
+                   f'fill="{theme["grid"]}" fill-opacity="0.5"/>')
+        w = max(bar_w * r["delta"] / peak, 3)
+        out.append(f'<rect x="{bar_x}" y="{y + 6}" width="{w:.1f}" height="16" rx="5" fill="{color}"/>')
+        out.append(f'<text x="{W - 24}" y="{y + 17}" font-size="12" font-weight="600" '
+                   f'text-anchor="end" fill="{theme["fg"]}">+{r["delta"]:,}</text>')
+
+    out += svg_close()
+    return "\n".join(out)
+
+
+# ── 图表 5：单赛道迷你趋势线 ──────────────────────────────────────────────────
 def render_spark(theme_name: str, theme: Dict[str, str], d: Dict[str, Any], track_id: str) -> str:
     W, H = 900, 96
     pad_l, pad_r, pad_t, pad_b = 8, 8, 22, 20
@@ -400,6 +466,7 @@ def main() -> int:
         jobs.append((f"banner-{theme_name}.svg", render_banner(theme_name, theme, d)))
         jobs.append((f"trend-{theme_name}.svg", render_trend(theme_name, theme, d)))
         jobs.append((f"distribution-{theme_name}.svg", render_distribution(theme_name, theme, d)))
+        jobs.append((f"ranking-{theme_name}.svg", render_ranking(theme_name, theme, d)))
         for tid in d["order"]:
             jobs.append((f"spark-{tid}-{theme_name}.svg", render_spark(theme_name, theme, d, tid)))
 
@@ -442,7 +509,7 @@ def sync_docs(d: Dict[str, Any], dry_run: bool = False) -> int:
         block = (
             "<picture>\n"
             f'  <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-{cid}-dark.svg">\n'
-            f'  <img src="../assets/spark-{cid}-light.svg" alt="{cat["name"]} 近 12 周论文发布趋势" width="900">\n'
+            f'  <img src="../assets/spark-{cid}-light.svg" alt="{cat["name"]} 近 12 周论文发布趋势">\n'
             "</picture>\n\n"
         )
         # 插在导航行（以 [← 开头）之前，保持"标题 → 定位 → 图 → 导航"的顺序

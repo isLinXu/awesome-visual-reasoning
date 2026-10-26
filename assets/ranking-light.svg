@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="436" viewBox="0 0 1200 436" role="img" aria-label="项目 star 增速榜">
+<title>项目 star 增速榜</title>
+<rect width="1200" height="436" fill="#FFFFFF"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Roboto, sans-serif">
+<text x="24" y="30" font-size="16" font-weight="600" fill="#0F172A">项目 star 增速 Top 12</text>
+<text x="24" y="50" font-size="12" fill="#64748B">快照满 7 天后为实测增量；不足 7 天按日均速度折算（与项目雷达表格同口径）</text>
+<text x="24" y="79" font-size="12" fill="#0F172A">alibaba/page-agent</text>
+<rect x="264" y="68" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="68" width="806.0" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+520</text>
+<text x="24" y="109" font-size="12" fill="#0F172A">bytedance/UI-TARS-desktop</text>
+<rect x="264" y="98" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="98" width="663.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+428</text>
+<text x="24" y="139" font-size="12" fill="#0F172A">trycua/cua</text>
+<rect x="264" y="128" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="128" width="531.6" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+343</text>
+<text x="24" y="169" font-size="12" fill="#0F172A">Tongyi-MAI/OpenGCUA</text>
+<rect x="264" y="158" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="158" width="492.9" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+318</text>
+<text x="24" y="199" font-size="12" fill="#0F172A">ctoldigital/axuse</text>
+<rect x="264" y="188" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="188" width="447.9" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+289</text>
+<text x="24" y="229" font-size="12" fill="#0F172A">ComputerUseAgent/AutoCua</text>
+<rect x="264" y="218" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="218" width="398.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+257</text>
+<text x="24" y="259" font-size="12" fill="#0F172A">microsoft/OmniParser</text>
+<rect x="264" y="248" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="248" width="361.1" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+233</text>
+<text x="24" y="289" font-size="12" fill="#0F172A">OpenBMB/MiniCPM-V</text>
+<rect x="264" y="278" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="278" width="292.9" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+189</text>
+<text x="24" y="319" font-size="12" fill="#0F172A">QwenLM/Qwen3-VL</text>
+<rect x="264" y="308" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="308" width="277.4" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+179</text>
+<text x="24" y="349" font-size="12" fill="#0F172A">uclanlp/OpenVLHarness</text>
+<rect x="264" y="338" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="338" width="255.8" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+165</text>
+<text x="24" y="379" font-size="12" fill="#0F172A">AMAP-ML/LongHorizon-Harness</text>
+<rect x="264" y="368" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="368" width="232.5" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+150</text>
+<text x="24" y="409" font-size="12" fill="#0F172A">bytedance/UI-TARS</text>
+<rect x="264" y="398" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
+<rect x="264" y="398" width="195.3" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+126</text>
+</g>
+</svg>

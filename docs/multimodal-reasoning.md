@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-multimodal-reasoning-dark.svg">
-  <img src="../assets/spark-multimodal-reasoning-light.svg" alt="Multimodal Reasoning 近 12 周论文发布趋势" width="900">
+  <img src="../assets/spark-multimodal-reasoning-light.svg" alt="Multimodal Reasoning 近 12 周论文发布趋势">
 </picture>
 
 [← 视频推理](video-reasoning.md) · [返回总览](../README.md) · [视觉推理效率 →](efficient-visual-reasoning.md)

@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-efficient-visual-reasoning-dark.svg">
-  <img src="../assets/spark-efficient-visual-reasoning-light.svg" alt="Efficient Visual Reasoning 近 12 周论文发布趋势" width="900">
+  <img src="../assets/spark-efficient-visual-reasoning-light.svg" alt="Efficient Visual Reasoning 近 12 周论文发布趋势">
 </picture>
 
 [← 多模态推理底座](multimodal-reasoning.md) · [返回总览](../README.md)

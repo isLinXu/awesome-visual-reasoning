@@ -27,6 +27,15 @@
 
 ## 当前榜单
 
+先看增速，再看明细——条形长度是 7 日 star 增量，颜色是所属赛道：
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/ranking-dark.svg">
+  <img src="../assets/ranking-light.svg" alt="项目 star 增速 Top 12">
+</picture>
+
+完整 60 条含语言、赛道、30 日增量的明细表：
+
 <!-- table:start repos -->
 | 排名 | 项目 | 一句话 | ⭐ | 7 日 Δ | 30 日 Δ | 语言 | 赛道 |
 | --: | :-- | :-- | --: | --: | --: | :-- | :-- |

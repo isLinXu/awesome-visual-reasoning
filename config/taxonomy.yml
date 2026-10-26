@@ -1,0 +1,326 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Awesome Visual Reasoning — 抓取与跟踪配置
+#
+# 所有自动化行为都由这个文件驱动，改这里不需要改代码。
+#   · 新增赛道  = 复制一个 category 块（记得在 docs/ 下建同名文档）
+#   · 调宽/收窄 = 改 arxiv_queries 与 keywords
+#   · 屏蔽噪声  = 加到 negative
+# ─────────────────────────────────────────────────────────────────────────────
+
+meta:
+  repo: "isLinXu/awesome-visual-reasoning"
+  title: "Awesome Visual Reasoning"
+  # 每次抓取回溯的天数（定时任务每天跑，回溯窗口留冗余防止漏抓）
+  lookback_days: 45
+  # 单条查询最多取回多少条
+  arxiv_max_per_query: 80
+  # 论文进入文档的最低相关分（打分规则见 keywords 权重）
+  min_score: 3.0
+  # 每个赛道文档的表格最多保留多少行，超出的老论文只留在 data/papers.json
+  max_rows_per_doc: 200
+  # ── 质量闸门：解决"关键词宽泛 → 收进一堆离题论文" ──
+  filters:
+    # 必须至少命中一个 strong 关键词（只靠 medium/weak 累积凑够分数的不收）
+    require_strong: true
+    # 必须提到视觉模态，否则"token pruning for audio""latent reasoning in text"会漏进来
+    modality_anchors:
+      - image
+      - images
+      - visual
+      - vision
+      - video
+      - multimodal
+      - multi-modal
+      - mllm
+      - vlm
+      - "vision-language"
+      - screenshot
+      - gui
+  # GitHub 跟踪参数
+  github_min_stars: 80
+  github_max_per_query: 30
+  github_history_keep: 90
+
+# 打分权重：命中 strong / medium / weak 关键词时累加
+weights:
+  strong: {title: 6.0, abstract: 3.0}
+  medium: {title: 3.0, abstract: 1.5}
+  weak:   {title: 1.0, abstract: 0.5}
+
+# 任何论文命中 negative 中的词直接丢弃。
+# 目的是剔掉"沾了关键词但其实是别的领域"的工作（音频/情感/推荐/医学影像等），
+# 只保留视觉-语言推理这条主线。
+negative:
+  - "medical image segmentation"
+  - "remote sensing classification"
+  - "emotion recognition"
+  - "speech recognition"
+  - "audio transformer"
+  - "music generation"
+  - "dance generation"
+  - "choreography generation"
+  - "click-through rate"
+  - "recommender system"
+  - "point cloud segmentation"
+  - "image super-resolution"
+  - "image restoration"
+  - "text-to-image generation"
+
+categories:
+  # ── 1. 潜在视觉推理 ────────────────────────────────────────────────────────
+  - id: latent-visual-reasoning
+    name: "Latent Visual Reasoning"
+    zh: "潜在视觉推理"
+    emoji: "🧠"
+    doc: "docs/latent-visual-reasoning.md"
+    intro: >-
+      不再用自然语言写思维链，而是让模型在连续隐空间里"想"——用 latent token、
+      隐式视觉状态承载中间推理。核心矛盾是：隐空间省掉了 decode 开销，却失去了
+      可解释性与监督信号，于是"如何给隐推理加结构/加监督"成了主战场。
+    arxiv_queries:
+      - 'all:"latent visual reasoning"'
+      - 'all:"latent reasoning" AND (all:vision OR all:visual OR all:multimodal)'
+      - 'all:"latent chain-of-thought" OR all:"latent chain of thought"'
+      - 'all:"continuous chain of thought" OR all:"continuous thought"'
+      - 'all:"latent thought" OR all:"latent visual token" OR all:"visual latent"'
+      - 'all:"thinking with images" OR all:"think with images"'
+      - 'all:"implicit reasoning" AND (all:vision OR all:multimodal)'
+    github_queries:
+      - '"latent visual reasoning" in:name,description,readme'
+      - '"latent reasoning" multimodal in:name,description,readme'
+      - '"latent chain of thought" in:name,description,readme'
+      - '"thinking with images" in:name,description,readme'
+    # 奠基/必读：按 arXiv ID 精确校验（expect 用于防止 ID 漂移到别的论文）
+    classics:
+      - {id: "2412.06769", expect: "coconut", note: "连续隐空间推理的开创性工作：用隐状态替代文本 CoT，是本赛道一切工作的起点"}
+      - {id: "2509.24251", expect: "latent visual reasoning", note: "把隐推理正式搬到视觉域的代表作，确立了'隐视觉推理'这一提法"}
+      - {id: "2406.09403", expect: "visual sketchpad", note: "把草图/标注当视觉思维链，隐视觉派最直观的范式"}
+      - {id: "2501.07542", expect: "visualization-of-thought", note: "多模态可视化思维链：先在心里'画出'中间图再推理"}
+      - {id: "2506.23918", expect: "thinking with images", note: "综述：系统梳理'用图像思考'的谱系、方法与开放问题，入门首选"}
+    keywords:
+      strong:
+        - "latent visual reasoning"
+        - "latent chain-of-thought"
+        - "latent chain of thought"
+        - "latent reasoning"
+        - "continuous thought"
+        - "latent thought"
+        - "thinking with images"
+        - "latent visual token"
+      medium:
+        - "latent space"
+        - "implicit reasoning"
+        - "latent representation"
+        - "visual thought"
+        - "coconut"
+        - "latent state"
+      weak:
+        - "multimodal large language model"
+        - "mllm"
+        - "vision-language model"
+
+  # ── 2. 智能体视觉 ──────────────────────────────────────────────────────────
+  - id: agentic-vision
+    name: "Agentic Vision"
+    zh: "智能体视觉"
+    emoji: "🤖"
+    doc: "docs/agentic-vision.md"
+    intro: >-
+      视觉不再只是"看一眼答一句"，而是作为智能体的感知-行动循环：看屏幕、调工具、
+      裁剪放大、多轮搜索、验证后再行动。代表场景是 GUI/computer-use agent、
+      视觉搜索 agent、以及把图像操作当工具调用的 visual tool use。
+    arxiv_queries:
+      - 'all:"agentic vision"'
+      - 'all:"visual agent" OR all:"vision agent" OR all:"visual agents"'
+      - 'all:"gui agent" AND (all:screenshot OR all:vision OR all:visual)'
+      - 'all:"computer use" AND (all:agent OR all:screenshot)'
+      - 'all:"visual tool" OR all:"tool-augmented" AND all:vision'
+      - 'all:"image search" AND all:agent AND all:reasoning'
+      - 'all:"visual planning" AND (all:agent OR all:embodied)'
+    github_queries:
+      - '"gui agent" in:name,description,readme'
+      - '"computer use" agent in:name,description,readme'
+      - '"visual agent" in:name,description,readme'
+      - '"gui grounding" in:name,description,readme'
+    classics:
+      - {id: "2404.07972", expect: "osworld", note: "真实操作系统任务基准，定义了 computer-use agent 的评测范式"}
+      - {id: "2408.00203", expect: "omniparser", note: "用视觉解析替代 DOM/无障碍树，GUI 视觉 agent 的关键基础设施"}
+      - {id: "2501.12326", expect: "ui-tars", note: "端到端 GUI agent 的代表性工作，统一感知- grounding-行动"}
+      - {id: "2312.08914", expect: "cogagent", note: "早期 GUI 视觉 agent 的代表，确立了高分辨率屏幕理解的必要性"}
+      - {id: "2411.17465", expect: "showui", note: "轻量视觉-语言-行动模型，展示 UI 引导的 token 选择策略"}
+      - {id: "2403.12966", expect: "chain-of-spot", note: "按需放大局部区域的交互式视觉推理，'主动看'的最早范式之一"}
+    keywords:
+      strong:
+        - "agentic vision"
+        - "visual agent"
+        - "gui agent"
+        - "computer-use"
+        - "computer use agent"
+        - "visual tool"
+      medium:
+        - "screenshot"
+        - "gui grounding"
+        - "visual search"
+        - "tool use"
+        - "perception-action"
+        - "visual planning"
+        - "multi-turn"
+      weak:
+        - "agent"
+        - "reinforcement learning"
+        - "benchmark"
+
+  # ── 3. 视频推理 ────────────────────────────────────────────────────────────
+  - id: video-reasoning
+    name: "Video Reasoning"
+    zh: "视频推理"
+    emoji: "🎬"
+    doc: "docs/video-reasoning.md"
+    intro: >-
+      从"视频问答"升级为"视频里做因果/时序/长程推理"：事件定位、跨帧指代、
+      长视频记忆压缩、流式在线推理。难点在 token 预算与时间跨度，
+      因此视频侧的 latent 压缩与 agentic 检索高度交叉。
+    arxiv_queries:
+      - 'all:"video reasoning"'
+      - 'all:"long video" AND (all:reasoning OR all:understanding)'
+      - 'all:"video chain-of-thought" OR all:"video cot"'
+      - 'all:"temporal reasoning" AND all:video'
+      - 'all:"streaming video" AND (all:understanding OR all:reasoning)'
+      - 'all:"video question answering" AND all:reasoning'
+      - 'all:"video agent" OR all:"video retrieval" AND all:reasoning'
+    github_queries:
+      - '"video reasoning" in:name,description,readme'
+      - '"long video" understanding in:name,description,readme'
+      - '"video llm" in:name,description,readme'
+    classics:
+      - {id: "2405.21075", expect: "video-mme", note: "长视频理解的标杆评测，确立了按时长分档报告的方法论"}
+      - {id: "2306.05424", expect: "video-chatgpt", note: "视频对话模型的开山之作，理解'视频 LLM'范式从这里开始"}
+      - {id: "2311.17005", expect: "mvbench", note: "把时序理解拆成 20 类细粒度任务，测出'是否真在看顺序'"}
+      - {id: "2408.10188", expect: "longvila", note: "长上下文视频建模的系统性工程：从训练并行到数据配比"}
+      - {id: "2501.13826", expect: "video-mmmu", note: "视频中的知识获取评测，把'看视频学习'单独量化"}
+      - {id: "2403.11481", expect: "videoagent", note: "记忆增强的视频 agent：主动检索关键帧而非全量喂入"}
+    keywords:
+      strong:
+        - "video reasoning"
+        - "video chain-of-thought"
+        - "long video understanding"
+        - "temporal reasoning"
+        - "video question answering"
+      medium:
+        - "video llm"
+        - "streaming video"
+        - "event localization"
+        - "video agent"
+        - "temporal grounding"
+        - "long-context video"
+      weak:
+        - "video"
+        - "multimodal"
+        - "benchmark"
+
+  # ── 4. 多模态推理底座 ──────────────────────────────────────────────────────
+  - id: multimodal-reasoning
+    name: "Multimodal Reasoning"
+    zh: "多模态推理底座"
+    emoji: "🌐"
+    doc: "docs/multimodal-reasoning.md"
+    intro: >-
+      上面三条赛道的公共底座：VLM/MLLM 的推理能力怎么训出来（RLVR、可验证奖励、
+      测试时扩展、过程监督）、怎么评测（MMMU/BLINK/CharXiv 一类）、
+      以及 omni-modal / 任意到任意的统一建模。
+    arxiv_queries:
+      - 'all:"multimodal reasoning" AND (all:"reinforcement learning" OR all:rl)'
+      - 'all:"visual reasoning" AND (all:mllm OR all:"multimodal large language model")'
+      - 'all:"omni-modal" OR all:"any-to-any"'
+      - 'all:"test-time scaling" AND (all:vision OR all:multimodal)'
+      - 'all:"process reward" AND (all:multimodal OR all:visual)'
+      - 'all:"interleaved" AND all:multimodal AND all:reasoning'
+    github_queries:
+      - '"multimodal reasoning" in:name,description,readme'
+      - '"vision language model" reasoning in:name,description,readme'
+      - 'omni-modal in:name,description,readme'
+    classics:
+      - {id: "2311.16502", expect: "mmmu", note: "学科级多模态推理基准，几乎所有 VLM 都会报的分数"}
+      - {id: "2310.02255", expect: "mathvista", note: "视觉数学推理基准，第一次系统性地把'看图算数'单独拎出来测"}
+      - {id: "2404.12390", expect: "blink", note: "揭示 VLM 视觉感知短板的经典分析：人类一眼就会，模型却错"}
+      - {id: "2406.18521", expect: "charxiv", note: "真实论文图表理解，专打细粒度科学图表读取"}
+      - {id: "2403.09611", expect: "mm1", note: "系统消融多模态预训练的配方，理解'为什么这样训'必读"}
+    keywords:
+      strong:
+        - "multimodal reasoning"
+        - "visual reasoning"
+        - "rlvr"
+        - "omni-modal"
+        - "any-to-any"
+      medium:
+        - "reinforcement learning"
+        - "test-time scaling"
+        - "process reward"
+        - "grpo"
+        - "mllm"
+        - "interleaved"
+      weak:
+        - "vision-language"
+        - "benchmark"
+        - "dataset"
+
+  # ── 5. 效率与 token 预算（横切） ───────────────────────────────────────────
+  - id: efficient-visual-reasoning
+    name: "Efficient Visual Reasoning"
+    zh: "视觉推理效率"
+    emoji: "⚡"
+    doc: "docs/efficient-visual-reasoning.md"
+    intro: >-
+      横切赛道：隐推理之所以被提出，很大动力是省掉长文本 CoT 的 decode 成本。
+      这里收录视觉 token 压缩、动态分辨率、thinking budget、早停、
+      小模型蒸馏等让"想得起"又"想得便宜"的工作。
+    arxiv_queries:
+      - 'all:"visual token" AND (all:compression OR all:pruning OR all:reduction)'
+      - 'all:"thinking budget" OR all:"reasoning budget"'
+      - 'all:"dynamic resolution" AND (all:vlm OR all:multimodal)'
+      - 'all:"token pruning" AND (all:vision OR all:visual)'
+      - 'all:"efficient multimodal" AND (all:reasoning OR all:inference)'
+      - 'all:"overthinking" AND (all:multimodal OR all:visual OR all:vision)'
+    github_queries:
+      - '"visual token" compression in:name,description,readme'
+      - '"token pruning" multimodal in:name,description,readme'
+    classics:
+      - {id: "2403.06764", expect: "image is worth 1/2 tokens", note: "视觉 token 剪枝的开创性工作：图像 token 的注意力极稀疏，砍掉大部分几乎不掉点"}
+      - {id: "2403.15388", expect: "prumerge", note: "自适应 token 归并，把'压多少'交给数据决定而非固定比例"}
+      - {id: "2502.10954", expect: "overthinking", note: "测试时学会'停止思考'，多模态过度思考治理的代表"}
+    keywords:
+      strong:
+        - "visual token compression"
+        - "thinking budget"
+        - "token pruning"
+        - "visual token reduction"
+      medium:
+        - "dynamic resolution"
+        - "efficient multimodal"
+        - "overthinking"
+        - "inference cost"
+        - "latency"
+      weak:
+        - "efficient"
+        - "acceleration"
+        - "distillation"
+
+# ─────────────────────────────────────────────────────────────────────────────
+# GitHub 种子仓库：长期跟踪，不受搜索排名影响。
+# 脚本会用 /repos/{full_name} 校验，失效的自动跳过并在日志里提示。
+# ─────────────────────────────────────────────────────────────────────────────
+github_seed:
+  - {full_name: "bytedance/UI-TARS", category: agentic-vision}
+  - {full_name: "bytedance/UI-TARS-desktop", category: agentic-vision}
+  - {full_name: "microsoft/OmniParser", category: agentic-vision}
+  - {full_name: "OpenGVLab/InternVL", category: multimodal-reasoning}
+  - {full_name: "QwenLM/Qwen2.5-VL", category: multimodal-reasoning}
+  - {full_name: "QwenLM/Qwen3-VL", category: multimodal-reasoning}
+  - {full_name: "OpenBMB/MiniCPM-o", category: multimodal-reasoning}
+  - {full_name: "deepseek-ai/DeepSeek-VL2", category: multimodal-reasoning}
+  - {full_name: "xlang-ai/OSWorld", category: agentic-vision}
+  - {full_name: "showlab/ShowUI", category: agentic-vision}
+  - {full_name: "OpenGVLab/Ask-Anything", category: video-reasoning}
+  - {full_name: "mbzuai-oryx/Video-ChatGPT", category: video-reasoning}
+  - {full_name: "NVlabs/VILA", category: multimodal-reasoning}
+  - {full_name: "OpenAdaptAI/OpenAdapt", category: agentic-vision}

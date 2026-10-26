@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T04:11:46Z",
+  "updated": "2026-10-26T07:18:55Z",
   "repos": {
     "bytedance/UI-TARS": {
       "full_name": "bytedance/UI-TARS",
@@ -33,8 +33,8 @@
       "full_name": "bytedance/UI-TARS-desktop",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "stars": 39388,
-      "forks": 3996,
+      "stars": 39392,
+      "forks": 3995,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -74,7 +74,7 @@
       "full_name": "microsoft/OmniParser",
       "url": "https://github.com/microsoft/OmniParser",
       "description": "A simple screen parsing tool towards pure vision based GUI agent",
-      "stars": 25549,
+      "stars": 25551,
       "forks": 2238,
       "language": "Jupyter Notebook",
       "topics": [],
@@ -139,7 +139,7 @@
       "full_name": "QwenLM/Qwen3-VL",
       "url": "https://github.com/QwenLM/Qwen3-VL",
       "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
-      "stars": 20120,
+      "stars": 20119,
       "forks": 1875,
       "language": "Jupyter Notebook",
       "topics": [],
@@ -165,7 +165,7 @@
       "full_name": "OpenBMB/MiniCPM-V",
       "url": "https://github.com/OpenBMB/MiniCPM-V",
       "description": "See, hear, and interact on your local devices.",
-      "stars": 26974,
+      "stars": 26976,
       "forks": 2119,
       "language": "Python",
       "topics": [
@@ -222,7 +222,7 @@
       "full_name": "xlang-ai/OSWorld",
       "url": "https://github.com/xlang-ai/OSWorld",
       "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
-      "stars": 3235,
+      "stars": 3236,
       "forks": 554,
       "language": "Python",
       "topics": [
@@ -295,7 +295,7 @@
       "full_name": "OpenGVLab/Ask-Anything",
       "url": "https://github.com/OpenGVLab/Ask-Anything",
       "description": "[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
-      "stars": 3362,
+      "stars": 3363,
       "forks": 269,
       "language": "Python",
       "topics": [
@@ -629,7 +629,7 @@
       "full_name": "Tongyi-MAI/MAI-UI",
       "url": "https://github.com/Tongyi-MAI/MAI-UI",
       "description": "Qwen-UI-Agent: Towards Next-Generation Real-World Centric Foundation GUI Agent",
-      "stars": 2420,
+      "stars": 2421,
       "forks": 222,
       "language": "Jupyter Notebook",
       "topics": [
@@ -664,7 +664,7 @@
       "full_name": "stepfun-ai/gelab-zero",
       "url": "https://github.com/stepfun-ai/gelab-zero",
       "description": "STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities.",
-      "stars": 2290,
+      "stars": 2291,
       "forks": 199,
       "language": "Python",
       "topics": [
@@ -1150,7 +1150,7 @@
       "full_name": "UniPat-AI/SaaS-Bench",
       "url": "https://github.com/UniPat-AI/SaaS-Bench",
       "description": "Official repository for SaaS-Bench: realistic, locally deployable SaaS workflows for GUI agent evaluation.",
-      "stars": 104,
+      "stars": 105,
       "forks": 14,
       "language": "Python",
       "topics": [],
@@ -1307,8 +1307,8 @@
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "stars": 30965,
-      "forks": 2262,
+      "stars": 30980,
+      "forks": 2265,
       "language": "Rust",
       "topics": [
         "agent",
@@ -1352,8 +1352,8 @@
       "full_name": "NanmiCoder/cc-haha",
       "url": "https://github.com/NanmiCoder/cc-haha",
       "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
-      "stars": 15164,
-      "forks": 8607,
+      "stars": 15167,
+      "forks": 8608,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1393,7 +1393,7 @@
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
       "description": "Agent S: the state-of-the-art open source computer use agents",
-      "stars": 12740,
+      "stars": 12742,
       "forks": 1496,
       "language": "Python",
       "topics": [
@@ -1433,7 +1433,7 @@
       "full_name": "microsoft/fara",
       "url": "https://github.com/microsoft/fara",
       "description": "Fara1.5 – A family of frontier computer use agent models",
-      "stars": 6222,
+      "stars": 6223,
       "forks": 603,
       "language": "Python",
       "topics": [
@@ -1550,7 +1550,7 @@
       "url": "https://github.com/TurixAI/TuriX-CUA",
       "description": "This is the official website for TuriX Computer-use-Agent",
       "stars": 3173,
-      "forks": 329,
+      "forks": 330,
       "language": "Python",
       "topics": [
         "agent",
@@ -1587,7 +1587,7 @@
       "full_name": "e2b-dev/open-computer-use",
       "url": "https://github.com/e2b-dev/open-computer-use",
       "description": "AI computer use powered by open source LLMs and E2B Desktop Sandbox",
-      "stars": 2389,
+      "stars": 2390,
       "forks": 268,
       "language": "Python",
       "topics": [
@@ -1620,7 +1620,7 @@
       "full_name": "lahfir/agent-desktop",
       "url": "https://github.com/lahfir/agent-desktop",
       "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
-      "stars": 1822,
+      "stars": 1823,
       "forks": 129,
       "language": "Rust",
       "topics": [
@@ -1659,7 +1659,7 @@
       "full_name": "AMAP-ML/LongHorizon-Harness",
       "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": 1778,
+      "stars": 1779,
       "forks": 189,
       "language": "Python",
       "topics": [
@@ -1783,7 +1783,7 @@
       "full_name": "agent-sh/computer-use-linux",
       "url": "https://github.com/agent-sh/computer-use-linux",
       "description": "Native Linux desktop control for AI agents (MCP, Pi, CLI) — semantic AT-SPI trees, screenshots, window targeting, and input across GNOME, KDE, Hyprland, niri, COSMIC, i3, and X11.",
-      "stars": 739,
+      "stars": 740,
       "forks": 87,
       "language": "Rust",
       "topics": [
@@ -1829,8 +1829,8 @@
       "full_name": "ComputerUseAgent/AutoCua",
       "url": "https://github.com/ComputerUseAgent/AutoCua",
       "description": "One Computer Use agent for everything (macOS, Windows, Linux, Browser, iOS & Code).",
-      "stars": 646,
-      "forks": 32,
+      "stars": 655,
+      "forks": 33,
       "language": "Python",
       "topics": [
         "browser-use",
@@ -1875,7 +1875,7 @@
       "full_name": "Hacker-Valley-Media/Interceptor",
       "url": "https://github.com/Hacker-Valley-Media/Interceptor",
       "description": "Browser automation and computer use for AI agents. One CLI and MCP server for your signed-in browser, native macOS apps, and real iPhones.",
-      "stars": 571,
+      "stars": 572,
       "forks": 83,
       "language": "TypeScript",
       "topics": [
@@ -1922,7 +1922,7 @@
       "forks": 43,
       "language": "HTML",
       "topics": [],
-      "pushed_at": "2026-10-23",
+      "pushed_at": "2026-10-26",
       "created_at": "2026-10-15",
       "archived": false,
       "categories": [
@@ -1944,7 +1944,7 @@
       "full_name": "ctoldigital/axuse",
       "url": "https://github.com/ctoldigital/axuse",
       "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
-      "stars": 488,
+      "stars": 495,
       "forks": 26,
       "language": "JavaScript",
       "topics": [
@@ -2028,7 +2028,7 @@
       "full_name": "xlang-ai/OSWorld-V2",
       "url": "https://github.com/xlang-ai/OSWorld-V2",
       "description": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
-      "stars": 384,
+      "stars": 385,
       "forks": 58,
       "language": "Python",
       "topics": [
@@ -2179,7 +2179,7 @@
       "full_name": "uclanlp/OpenVLHarness",
       "url": "https://github.com/uclanlp/OpenVLHarness",
       "description": "Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory",
-      "stars": 255,
+      "stars": 258,
       "forks": 5,
       "language": "Python",
       "topics": [],
@@ -2795,7 +2795,7 @@
       "full_name": "nv-tlabs/PixelUMM",
       "url": "https://github.com/nv-tlabs/PixelUMM",
       "description": "Encoder-Free Unified Image and Video Understanding and Generation",
-      "stars": 296,
+      "stars": 297,
       "forks": 10,
       "language": "Python",
       "topics": [],
@@ -2864,7 +2864,7 @@
       "full_name": "MCG-NJU/VideoJev",
       "url": "https://github.com/MCG-NJU/VideoJev",
       "description": "VideoJev: System One Model for Video Understanding and Interaction",
-      "stars": 249,
+      "stars": 251,
       "forks": 10,
       "language": "Python",
       "topics": [],
@@ -3421,8 +3421,8 @@
       "full_name": "vllm-project/vllm-omni",
       "url": "https://github.com/vllm-project/vllm-omni",
       "description": "A framework for efficient model inference with omni-modality models",
-      "stars": 7352,
-      "forks": 1968,
+      "stars": 7354,
+      "forks": 1969,
       "language": "Python",
       "topics": [
         "audio-generation",
@@ -3526,7 +3526,7 @@
       "full_name": "opendilab/LightRFT",
       "url": "https://github.com/opendilab/LightRFT",
       "description": "LightRFT: Light, Efficient, Omni-modal & Reward-model Driven Reinforcement Fine-Tuning Framework",
-      "stars": 392,
+      "stars": 391,
       "forks": 12,
       "language": "Python",
       "topics": [
@@ -3691,7 +3691,7 @@
       "full_name": "PolyU-VCLab/OmniCompass",
       "url": "https://github.com/PolyU-VCLab/OmniCompass",
       "description": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
-      "stars": 117,
+      "stars": 118,
       "forks": 1,
       "language": "Python",
       "topics": [

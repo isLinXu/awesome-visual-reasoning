@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T04:14:13Z",
+  "updated": "2026-10-26T07:16:20Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -812,7 +812,7 @@
         "agentic-vision"
       ],
       "score": 8.0,
-      "primary_category": "cs.CV",
+      "primary_category": "",
       "first_seen": "2026-10-14"
     },
     "2610.22408": {
@@ -1021,7 +1021,7 @@
         "agentic-vision"
       ],
       "score": 7.0,
-      "primary_category": "cs.CV",
+      "primary_category": "",
       "first_seen": "2026-10-08"
     },
     "2610.11963": {
@@ -2649,7 +2649,7 @@
         "video-reasoning"
       ],
       "score": 4.5,
-      "primary_category": "cs.CV",
+      "primary_category": "",
       "first_seen": "2026-10-18"
     },
     "2610.25309": {

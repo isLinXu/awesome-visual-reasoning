@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T07:25:12Z",
+  "updated": "2026-10-26T08:02:20Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -5162,13 +5162,13 @@
     },
     "2610.01352": {
       "title": "MMVistaReason: Toward Open-Data and Post-Training Recipes for Multimodal Reasoning",
-      "published": "2026-10-01",
+      "published": "2026-10-22",
       "url": "https://arxiv.org/abs/2610.01352",
       "categories": [
         "multimodal-reasoning"
       ],
       "score": 6.5,
-      "primary_category": "cs.CV",
+      "primary_category": "",
       "first_seen": "2026-10-01"
     },
     "2610.02148": {

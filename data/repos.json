@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T07:27:49Z",
+  "updated": "2026-10-26T08:04:56Z",
   "repos": {
     "bytedance/UI-TARS": {
       "full_name": "bytedance/UI-TARS",
@@ -35,7 +35,7 @@
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "stars": 39392,
-      "forks": 3995,
+      "forks": 3996,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -143,8 +143,8 @@
       "full_name": "QwenLM/Qwen3-VL",
       "url": "https://github.com/QwenLM/Qwen3-VL",
       "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
-      "stars": 20120,
-      "forks": 1875,
+      "stars": 20121,
+      "forks": 1876,
       "language": "Jupyter Notebook",
       "topics": [],
       "pushed_at": "2026-01-30",
@@ -170,7 +170,7 @@
       "full_name": "OpenBMB/MiniCPM-V",
       "url": "https://github.com/OpenBMB/MiniCPM-V",
       "description": "See, hear, and interact on your local devices.",
-      "stars": 26976,
+      "stars": 26975,
       "forks": 2119,
       "language": "Python",
       "topics": [
@@ -608,7 +608,7 @@
       "full_name": "X-PLUG/MobileAgent",
       "url": "https://github.com/X-PLUG/MobileAgent",
       "description": " Mobile-Agent: The Powerful GUI Agent Family",
-      "stars": 9329,
+      "stars": 9330,
       "forks": 935,
       "language": "Python",
       "topics": [
@@ -1155,7 +1155,7 @@
       "full_name": "Tencent/UI-Mate",
       "url": "https://github.com/Tencent/UI-Mate",
       "description": "Advancing Foundation GUI Agents with In-Context Demonstrations",
-      "stars": 111,
+      "stars": 112,
       "forks": 11,
       "language": "JavaScript",
       "topics": [
@@ -1179,7 +1179,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 1.52
+      "velocity": 1.53
     },
     "UniPat-AI/SaaS-Bench": {
       "full_name": "UniPat-AI/SaaS-Bench",
@@ -1347,7 +1347,7 @@
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "stars": 30980,
+      "stars": 30983,
       "forks": 2265,
       "language": "Rust",
       "topics": [
@@ -1387,13 +1387,13 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 48.94
+      "velocity": 48.95
     },
     "simular-ai/Agent-S": {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
       "description": "Agent S: the state-of-the-art open source computer use agents",
-      "stars": 12742,
+      "stars": 12744,
       "forks": 1496,
       "language": "Python",
       "topics": [
@@ -1745,7 +1745,7 @@
       "full_name": "ComputerUseAgent/AutoCua",
       "url": "https://github.com/ComputerUseAgent/AutoCua",
       "description": "One Computer Use agent for everything (macOS, Windows, Linux, Browser, iOS & Code).",
-      "stars": 655,
+      "stars": 662,
       "forks": 33,
       "language": "Python",
       "topics": [
@@ -1786,7 +1786,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 36.39
+      "velocity": 36.78
     },
     "Hacker-Valley-Media/Interceptor": {
       "full_name": "Hacker-Valley-Media/Interceptor",
@@ -1836,7 +1836,7 @@
       "full_name": "Tongyi-MAI/OpenGCUA",
       "url": "https://github.com/Tongyi-MAI/OpenGCUA",
       "description": "An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.",
-      "stars": 498,
+      "stars": 499,
       "forks": 43,
       "language": "HTML",
       "topics": [],
@@ -1857,7 +1857,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 45.27
+      "velocity": 45.36
     },
     "ctoldigital/axuse": {
       "full_name": "ctoldigital/axuse",
@@ -2811,7 +2811,7 @@
       "full_name": "MCG-NJU/VideoJev",
       "url": "https://github.com/MCG-NJU/VideoJev",
       "description": "VideoJev: System One Model for Video Understanding and Interaction",
-      "stars": 251,
+      "stars": 252,
       "forks": 10,
       "language": "Python",
       "topics": [],
@@ -2832,7 +2832,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 13.94
+      "velocity": 14.0
     },
     "PolyX-Research/Response-G1": {
       "full_name": "PolyX-Research/Response-G1",
@@ -3386,7 +3386,7 @@
       "full_name": "vllm-project/vllm-omni",
       "url": "https://github.com/vllm-project/vllm-omni",
       "description": "A framework for efficient model inference with omni-modality models",
-      "stars": 7354,
+      "stars": 7355,
       "forks": 1969,
       "language": "Python",
       "topics": [

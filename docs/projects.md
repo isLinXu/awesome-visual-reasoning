@@ -32,24 +32,24 @@
 | --: | :-- | :-- | --: | --: | --: | :-- | :-- |
 | 1 | [**alibaba/page-agent**](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | ⭐ 29,563 | ≈+520 | — | TypeScript | `agentic-vision` |
 | 2 | [**bytedance/UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models a… | ⭐ 39,392 | ≈+427 | — | TypeScript | `agentic-vision` |
-| 3 | [**trycua/cua**](https://github.com/trycua/cua) | Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes… | ⭐ 30,980 | ≈+343 | — | Rust | `agentic-vision` |
-| 4 | [**Tongyi-MAI/OpenGCUA**](https://github.com/Tongyi-MAI/OpenGCUA) 🆕 | An open-source stack for generalist computer-use agents… | ⭐ 498 | ≈+317 | — | HTML | `agentic-vision` |
+| 3 | [**trycua/cua**](https://github.com/trycua/cua) | Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes… | ⭐ 30,983 | ≈+343 | — | Rust | `agentic-vision` |
+| 4 | [**Tongyi-MAI/OpenGCUA**](https://github.com/Tongyi-MAI/OpenGCUA) 🆕 | An open-source stack for generalist computer-use agents… | ⭐ 499 | ≈+318 | — | HTML | `agentic-vision` |
 | 5 | [**ctoldigital/axuse**](https://github.com/ctoldigital/axuse) 🆕 | Accessibility-first browser & computer use for AI agents — one MCP server for… | ⭐ 495 | ≈+289 | — | JavaScript | `agentic-vision` |
-| 6 | [**ComputerUseAgent/AutoCua**](https://github.com/ComputerUseAgent/AutoCua) 🆕 | One Computer Use agent for everything (macOS, Windows, Linux, Browser… | ⭐ 655 | ≈+255 | — | Python | `agentic-vision` |
+| 6 | [**ComputerUseAgent/AutoCua**](https://github.com/ComputerUseAgent/AutoCua) 🆕 | One Computer Use agent for everything (macOS, Windows, Linux, Browser… | ⭐ 662 | ≈+257 | — | Python | `agentic-vision` |
 | 7 | [**microsoft/OmniParser**](https://github.com/microsoft/OmniParser) | A simple screen parsing tool towards pure vision based GUI agent | ⭐ 25,551 | ≈+234 | — | Jupyter Notebook | `agentic-vision` |
-| 8 | [**OpenBMB/MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) | See, hear, and interact on your local devices. | ⭐ 26,976 | ≈+189 | — | Python | `multimodal-reasoning` |
-| 9 | [**QwenLM/Qwen3-VL**](https://github.com/QwenLM/Qwen3-VL) | Qwen3-VL is the multimodal large language model series developed by Qwen team… | ⭐ 20,120 | ≈+179 | — | Jupyter Notebook | `multimodal-reasoning` |
+| 8 | [**OpenBMB/MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) | See, hear, and interact on your local devices. | ⭐ 26,975 | ≈+189 | — | Python | `multimodal-reasoning` |
+| 9 | [**QwenLM/Qwen3-VL**](https://github.com/QwenLM/Qwen3-VL) | Qwen3-VL is the multimodal large language model series developed by Qwen team… | ⭐ 20,121 | ≈+179 | — | Jupyter Notebook | `multimodal-reasoning` |
 | 10 | [**uclanlp/OpenVLHarness**](https://github.com/uclanlp/OpenVLHarness) 🆕 | Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multi… | ⭐ 259 | ≈+165 | — | Python | `agentic-vision` |
 | 11 | [**AMAP-ML/LongHorizon-Harness**](https://github.com/AMAP-ML/LongHorizon-Harness) 🆕 | The long-horizon computer-use harness. Run AI agents across desktop apps and t… | ⭐ 1,779 | ≈+150 | — | Python | `agentic-vision` |
 | 12 | [**bytedance/UI-TARS**](https://github.com/bytedance/UI-TARS) | Pioneering Automated GUI Interaction with Native Agents | ⭐ 11,633 | ≈+126 | — | Python | `agentic-vision` |
-| 13 | [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | ⭐ 7,354 | ≈+126 | — | Python | `multimodal-reasoning` |
+| 13 | [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | ⭐ 7,355 | ≈+126 | — | Python | `multimodal-reasoning` |
 | 14 | [**microsoft/fara**](https://github.com/microsoft/fara) | Fara1.5 – A family of frontier computer use agent models | ⭐ 6,223 | ≈+120 | — | Python | `agentic-vision` |
-| 15 | [**simular-ai/Agent-S**](https://github.com/simular-ai/Agent-S) | Agent S: the state-of-the-art open source computer use agents | ⭐ 12,742 | ≈+119 | — | Python | `agentic-vision` |
-| 16 | [**MCG-NJU/VideoJev**](https://github.com/MCG-NJU/VideoJev) 🆕 | VideoJev: System One Model for Video Understanding and Interaction | ⭐ 251 | ≈+98 | — | Python | `video-reasoning` |
+| 15 | [**simular-ai/Agent-S**](https://github.com/simular-ai/Agent-S) | Agent S: the state-of-the-art open source computer use agents | ⭐ 12,744 | ≈+119 | — | Python | `agentic-vision` |
+| 16 | [**MCG-NJU/VideoJev**](https://github.com/MCG-NJU/VideoJev) 🆕 | VideoJev: System One Model for Video Understanding and Interaction | ⭐ 252 | ≈+98 | — | Python | `video-reasoning` |
 | 17 | [**chekusu/yomado**](https://github.com/chekusu/yomado) 🆕 | Native macOS virtual displays for visual agents… | ⭐ 196 | ≈+86 | — | Objective-C | `agentic-vision` |
 | 18 | [**OpenGVLab/InternVL**](https://github.com/OpenGVLab/InternVL) | [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-… | ⭐ 10,171 | ≈+67 | — | Python | `multimodal-reasoning` |
 | 19 | [**Core-Mate/OpenGUI**](https://github.com/Core-Mate/OpenGUI) | OpenGUI is an Android GUI agent framework for phone-use AI that can see… | ⭐ 1,802 | ≈+66 | — | HTML | `agentic-vision` |
-| 20 | [**X-PLUG/MobileAgent**](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | ⭐ 9,329 | ≈+65 | — | Python | `agentic-vision` |
+| 20 | [**X-PLUG/MobileAgent**](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | ⭐ 9,330 | ≈+65 | — | Python | `agentic-vision` |
 | 21 | [**MoonshotAI/Kimi-K2.5**](https://github.com/MoonshotAI/Kimi-K2.5) | Open Visual Agentic Intelligence | ⭐ 2,316 | ≈+60 | — | — | `agentic-vision` |
 | 22 | [**bytedance/Lance**](https://github.com/bytedance/Lance) | A 3B-active-parameter native unified multimodal model for image and video unde… | ⭐ 1,361 | ≈+58 | — | Python | `video-reasoning` |
 | 23 | [**deepseek-ai/DeepSeek-VL2**](https://github.com/deepseek-ai/DeepSeek-VL2) | DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimoda… | ⭐ 5,384 | ≈+55 | — | Python | `multimodal-reasoning` |
@@ -88,8 +88,8 @@
 | 56 | [**ZiiJianLiu/Omni-Woodpecker**](https://github.com/ZiiJianLiu/Omni-Woodpecker) 🆕 | Official implementation of "Omni-Woodpecker: Hallucination Correction via Evid… | ⭐ 97 | ≈+12 | — | Python | `multimodal-reasoning` |
 | 57 | [**facebookresearch/pytorchvideo**](https://github.com/facebookresearch/pytorchvideo) | A deep learning library for video understanding research. | ⭐ 3,571 | ≈+12 | — | Python | `video-reasoning` |
 | 58 | [**NVlabs/OmniVinci**](https://github.com/NVlabs/OmniVinci) | OmniVinci is an omni-modal LLM for joint understanding of vision, audio… | ⭐ 685 | ≈+12 | — | Python | `multimodal-reasoning` |
-| 59 | [**TeleAI-UAGI/telemem**](https://github.com/TeleAI-UAGI/telemem) | TeleMem is a high-performance drop-in replacement for Mem0… | ⭐ 494 | ≈+11 | — | Python | `video-reasoning` |
-| 60 | [**Tencent/UI-Mate**](https://github.com/Tencent/UI-Mate) 🆕 | Advancing Foundation GUI Agents with In-Context Demonstrations | ⭐ 111 | ≈+11 | — | JavaScript | `agentic-vision` |
+| 59 | [**Tencent/UI-Mate**](https://github.com/Tencent/UI-Mate) 🆕 | Advancing Foundation GUI Agents with In-Context Demonstrations | ⭐ 112 | ≈+11 | — | JavaScript | `agentic-vision` |
+| 60 | [**TeleAI-UAGI/telemem**](https://github.com/TeleAI-UAGI/telemem) | TeleMem is a high-performance drop-in replacement for Mem0… | ⭐ 494 | ≈+11 | — | Python | `video-reasoning` |
 <!-- table:end repos -->
 
 ## 怎么读这张榜

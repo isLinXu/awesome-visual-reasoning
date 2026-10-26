@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:04:56Z",
+  "updated": "2026-10-26T08:20:15Z",
   "repos": {
     "bytedance/UI-TARS": {
       "full_name": "bytedance/UI-TARS",
@@ -143,7 +143,7 @@
       "full_name": "QwenLM/Qwen3-VL",
       "url": "https://github.com/QwenLM/Qwen3-VL",
       "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
-      "stars": 20121,
+      "stars": 20122,
       "forks": 1876,
       "language": "Jupyter Notebook",
       "topics": [],
@@ -164,7 +164,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 25.53
+      "velocity": 25.54
     },
     "OpenBMB/MiniCPM-V": {
       "full_name": "OpenBMB/MiniCPM-V",
@@ -572,7 +572,7 @@
       "full_name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 29563,
+      "stars": 29564,
       "forks": 2641,
       "language": "TypeScript",
       "topics": [
@@ -1347,7 +1347,7 @@
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "stars": 30983,
+      "stars": 30984,
       "forks": 2265,
       "language": "Rust",
       "topics": [
@@ -2740,7 +2740,7 @@
       "full_name": "nv-tlabs/PixelUMM",
       "url": "https://github.com/nv-tlabs/PixelUMM",
       "description": "Encoder-Free Unified Image and Video Understanding and Generation",
-      "stars": 297,
+      "stars": 298,
       "forks": 10,
       "language": "Python",
       "topics": [],
@@ -2761,7 +2761,7 @@
       "delta_7d": null,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 5.71
+      "velocity": 5.73
     },
     "mbzuai-oryx/VideoGPT-plus": {
       "full_name": "mbzuai-oryx/VideoGPT-plus",

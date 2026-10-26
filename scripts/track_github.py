@@ -20,7 +20,7 @@ import argparse
 import os
 import sys
 import time
-from datetime import timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -103,8 +103,6 @@ def stars_before(history: List[Dict[str, Any]], days: int) -> Optional[int]:
     best: Optional[Dict[str, Any]] = None
     for snap in history:
         try:
-            from datetime import datetime, timezone
-
             d = datetime.strptime(snap["date"], "%Y-%m-%d").replace(tzinfo=timezone.utc)
         except (KeyError, ValueError):
             continue
@@ -114,6 +112,24 @@ def stars_before(history: List[Dict[str, Any]], days: int) -> Optional[int]:
     return int(best["stars"]) if best else None
 
 
+def daily_velocity(record: Dict[str, Any]) -> float:
+    """日均 star 增速 = 总 star / 仓库存活天数。
+
+    这是 7 日增量的**兜底估计**：刚建库时只有一天快照，算不出真实增量，
+    若直接按总 star 排序，榜单会退化成"老牌大项目榜"，刚爆发的项目永远上不来。
+    用日均速度折算，至少能反映"谁在被快速关注"。
+    """
+    created = record.get("created_at") or ""
+    if not created:
+        return 0.0
+    try:
+        born = datetime.strptime(created, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return 0.0
+    age_days = max((today_utc() - born).days, 1)
+    return round(int(record.get("stars") or 0) / age_days, 2)
+
+
 def render_row(rank: int, repo: Dict[str, Any]) -> str:
     name = repo["full_name"]
     url = repo["url"]
@@ -121,9 +137,10 @@ def render_row(rank: int, repo: Dict[str, Any]) -> str:
     stars = repo.get("stars", 0)
     d7, d30 = repo.get("delta_7d"), repo.get("delta_30d")
 
-    def fmt(delta: Optional[int]) -> str:
+    def fmt(delta: Optional[int], estimate: Optional[int] = None) -> str:
         if delta is None:
-            return "—"
+            # 没有真实快照时给估算值，前缀 ≈ 表示"按历史日均速度折算"，不是实测
+            return f"≈+{estimate:,}" if estimate and estimate > 0 else "—"
         if delta == 0:
             return "0"
         return f"+{delta:,}" if delta > 0 else f"{delta:,}"
@@ -131,8 +148,10 @@ def render_row(rank: int, repo: Dict[str, Any]) -> str:
     lang = repo.get("language") or "—"
     tags = " ".join(f"`{t}`" for t in repo.get("categories", [])[:2])
     badge = " 🆕" if repo.get("is_new") else ""
+    est7 = int(round((repo.get("velocity") or 0) * 7))
     row = (
-        f"| {rank} | [**{name}**]({url}){badge} | {desc} | ⭐ {stars:,} | {fmt(d7)} | {fmt(d30)} | {lang} | {tags} |"
+        f"| {rank} | [**{name}**]({url}){badge} | {desc} | ⭐ {stars:,} "
+        f"| {fmt(d7, est7)} | {fmt(d30)} | {lang} | {tags} |"
     )
     return row
 
@@ -174,10 +193,13 @@ def main() -> int:
 
     store = read_json(REPO_STORE, {"updated": "", "repos": {}})
     known: Dict[str, Dict[str, Any]] = store.get("repos", {})
+    blocklist = {n.lower() for n in (meta.get("github_blocklist") or [])}
 
     found: Dict[str, Dict[str, Any]] = {}
 
     def merge(item: Dict[str, Any], category: str, check_relevance: bool = False) -> bool:
+        if (item.get("full_name") or "").lower() in blocklist:
+            return False
         if check_relevance:
             cat = next((c for c in config["categories"] if c["id"] == category), None)
             if cat is not None and not is_relevant(item, cat):
@@ -246,41 +268,54 @@ def main() -> int:
     # 4) 计算增速并排序
     rows: List[Dict[str, Any]] = []
     for full_name, record in known.items():
-        record["delta_7d"] = (
-            record["stars"] - stars_before(record.get("history", []), 7)
-            if stars_before(record.get("history", []), 7) is not None
-            else None
-        )
-        record["delta_30d"] = (
-            record["stars"] - stars_before(record.get("history", []), 30)
-            if stars_before(record.get("history", []), 30) is not None
-            else None
-        )
+        if full_name.lower() in blocklist:
+            continue
+        before7 = stars_before(record.get("history", []), 7)
+        before30 = stars_before(record.get("history", []), 30)
+        record["delta_7d"] = record["stars"] - before7 if before7 is not None else None
+        record["delta_30d"] = record["stars"] - before30 if before30 is not None else None
+        record["velocity"] = daily_velocity(record)
         created = record.get("created_at") or ""
         record["is_new"] = bool(created and created >= (today_utc() - timedelta(days=120)).strftime("%Y-%m-%d"))
         rows.append(record)
 
     def sort_key(r: Dict[str, Any]):
-        return (r.get("delta_7d") or -1, r.get("delta_30d") or -1, r.get("stars", 0))
+        d7 = r.get("delta_7d")
+        # 没有真实 7 日增量时，用日均速度折算成 7 日估计值兜底，
+        # 否则所有仓库都落在同一档，榜单退化成纯总 star 排序。
+        effective = d7 if d7 is not None else (r.get("velocity") or 0) * 7
+        return (effective, r.get("delta_30d") or -1, r.get("stars", 0))
 
     rows.sort(key=sort_key, reverse=True)
     top = rows[: args.top]
+    measured = sum(1 for r in rows if r.get("delta_7d") is not None)
 
     # 榜单是全量快照：排名每次都会变，必须整表重写而不是增量追加
     table_rows = [render_row(i + 1, r) for i, r in enumerate(top)]
     written = replace_table_body(PROJECTS_DOC, "repos", table_rows, dry_run=args.dry_run)
-    log(f"写入 {PROJECTS_DOC.name}: {written} 行（榜单按 7 日增速排序）")
+    basis = "真实 7 日增量" if measured else "日均增速折算（快照历史不足 7 天）"
+    log(f"写入 {PROJECTS_DOC.name}: {written} 行（排序依据：{basis}）")
+    log(f"  有真实 7 日快照的仓库 {measured}/{len(rows)} 个")
 
     if not args.dry_run:
+        # 黑名单仓库从状态库彻底移除，否则下次读回来又进榜
+        for name in [n for n in known if n.lower() in blocklist]:
+            known.pop(name)
+            log(f"  ✗ 已按黑名单移除: {name}")
         store["updated"] = today_utc().strftime("%Y-%m-%dT%H:%M:%SZ")
         store["repos"] = known
         write_json(REPO_STORE, store)
 
-    movers = [r for r in rows if (r.get("delta_7d") or 0) > 0][:5]
-    if movers:
-        log("本周增速 Top5：")
-        for r in movers:
-            log(f"  +{r['delta_7d']:,}  {r['full_name']} (⭐{r['stars']:,})")
+    if measured:
+        movers = [r for r in rows if (r.get("delta_7d") or 0) > 0][:5]
+        if movers:
+            log("本周增速 Top5：")
+            for r in movers:
+                log(f"  +{r['delta_7d']:,}  {r['full_name']} (⭐{r['stars']:,})")
+    else:
+        log("日均 star 速度 Top5（快照不足 7 天，暂用日均折算，明天起切换为真实增量）：")
+        for r in rows[:5]:
+            log(f"  {r['velocity']:>6.1f} ⭐/天  {r['full_name']} (⭐{r['stars']:,})")
     return 0
 
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T07:18:55Z",
+  "updated": "2026-10-26T07:22:09Z",
   "repos": {
     "bytedance/UI-TARS": {
       "full_name": "bytedance/UI-TARS",
@@ -27,7 +27,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 18.04
     },
     "bytedance/UI-TARS-desktop": {
       "full_name": "bytedance/UI-TARS-desktop",
@@ -68,7 +69,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 61.07
     },
     "microsoft/OmniParser": {
       "full_name": "microsoft/OmniParser",
@@ -94,7 +96,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 33.36
     },
     "OpenGVLab/InternVL": {
       "full_name": "OpenGVLab/InternVL",
@@ -133,7 +136,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 9.51
     },
     "QwenLM/Qwen3-VL": {
       "full_name": "QwenLM/Qwen3-VL",
@@ -159,7 +163,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 25.53
     },
     "OpenBMB/MiniCPM-V": {
       "full_name": "OpenBMB/MiniCPM-V",
@@ -190,7 +195,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 26.95
     },
     "deepseek-ai/DeepSeek-VL2": {
       "full_name": "deepseek-ai/DeepSeek-VL2",
@@ -216,7 +222,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 7.89
     },
     "xlang-ai/OSWorld": {
       "full_name": "xlang-ai/OSWorld",
@@ -257,7 +264,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 2.93
     },
     "showlab/ShowUI": {
       "full_name": "showlab/ShowUI",
@@ -289,7 +297,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 2.66
     },
     "OpenGVLab/Ask-Anything": {
       "full_name": "OpenGVLab/Ask-Anything",
@@ -329,7 +338,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 2.62
     },
     "mbzuai-oryx/Video-ChatGPT": {
       "full_name": "mbzuai-oryx/Video-ChatGPT",
@@ -367,7 +377,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.2
     },
     "NVlabs/VILA": {
       "full_name": "NVlabs/VILA",
@@ -393,7 +404,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 3.96
     },
     "OpenAdaptAI/OpenAdapt": {
       "full_name": "OpenAdaptAI/OpenAdapt",
@@ -440,7 +452,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.41
     },
     "zhaochen0110/Awesome_Think_With_Images": {
       "full_name": "zhaochen0110/Awesome_Think_With_Images",
@@ -471,7 +484,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 2.95
     },
     "teee000/LiLa-WAM": {
       "full_name": "teee000/LiLa-WAM",
@@ -497,7 +511,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 1.87
     },
     "LoveJu1y/LaRA-VLA": {
       "full_name": "LoveJu1y/LaRA-VLA",
@@ -523,7 +538,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.39
     },
     "apromisedland/VLCoT": {
       "full_name": "apromisedland/VLCoT",
@@ -549,7 +565,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 3.75
     },
     "alibaba/page-agent": {
       "full_name": "alibaba/page-agent",
@@ -584,7 +601,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 74.28
     },
     "X-PLUG/MobileAgent": {
       "full_name": "X-PLUG/MobileAgent",
@@ -623,7 +641,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 9.29
     },
     "Tongyi-MAI/MAI-UI": {
       "full_name": "Tongyi-MAI/MAI-UI",
@@ -658,7 +677,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 7.69
     },
     "stepfun-ai/gelab-zero": {
       "full_name": "stepfun-ai/gelab-zero",
@@ -689,7 +709,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 6.9
     },
     "IPADS-SAI/MobiAgent": {
       "full_name": "IPADS-SAI/MobiAgent",
@@ -715,7 +736,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 4.56
     },
     "Core-Mate/OpenGUI": {
       "full_name": "Core-Mate/OpenGUI",
@@ -762,7 +784,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 9.43
     },
     "ZJU-REAL/ClawGUI": {
       "full_name": "ZJU-REAL/ClawGUI",
@@ -795,7 +818,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 6.75
     },
     "zai-org/CogAgent": {
       "full_name": "zai-org/CogAgent",
@@ -827,7 +851,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.13
     },
     "inclusionAI/UI-Venus": {
       "full_name": "inclusionAI/UI-Venus",
@@ -864,7 +889,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 2.43
     },
     "OSU-NLP-Group/GUI-Agents-Paper-List": {
       "full_name": "OSU-NLP-Group/GUI-Agents-Paper-List",
@@ -890,7 +916,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.26
     },
     "Purewhiter/mobilegym": {
       "full_name": "Purewhiter/mobilegym",
@@ -936,7 +963,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 5.08
     },
     "ZJU-REAL/Awesome-GUI-Agents": {
       "full_name": "ZJU-REAL/Awesome-GUI-Agents",
@@ -967,7 +995,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.8
     },
     "OSU-NLP-Group/UGround": {
       "full_name": "OSU-NLP-Group/UGround",
@@ -997,7 +1026,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.39
     },
     "MadeAgents/mobile-use": {
       "full_name": "MadeAgents/mobile-use",
@@ -1037,7 +1067,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.4
     },
     "PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents": {
       "full_name": "PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents",
@@ -1063,7 +1094,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.28
     },
     "huggingface/screensuite": {
       "full_name": "huggingface/screensuite",
@@ -1089,7 +1121,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.24
     },
     "Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets": {
       "full_name": "Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets",
@@ -1115,7 +1148,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.31
     },
     "Tencent/UI-Mate": {
       "full_name": "Tencent/UI-Mate",
@@ -1144,7 +1178,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 1.52
     },
     "UniPat-AI/SaaS-Bench": {
       "full_name": "UniPat-AI/SaaS-Bench",
@@ -1170,7 +1205,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.62
     },
     "kwai/MemGUI-Agent": {
       "full_name": "kwai/MemGUI-Agent",
@@ -1202,7 +1238,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.74
     },
     "SeerRay-Lab/Xiaomi-GUI": {
       "full_name": "SeerRay-Lab/Xiaomi-GUI",
@@ -1228,7 +1265,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.67
     },
     "fyzhang1/ExpActivator": {
       "full_name": "fyzhang1/ExpActivator",
@@ -1267,7 +1305,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 1.81
     },
     "kwai/MobileForge": {
       "full_name": "kwai/MobileForge",
@@ -1301,7 +1340,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.66
     },
     "trycua/cua": {
       "full_name": "trycua/cua",
@@ -1346,48 +1386,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
-    },
-    "NanmiCoder/cc-haha": {
-      "full_name": "NanmiCoder/cc-haha",
-      "url": "https://github.com/NanmiCoder/cc-haha",
-      "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
-      "stars": 15167,
-      "forks": 8608,
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "coding-agent",
-        "computer-use",
-        "desktop-app",
-        "electron",
-        "llm",
-        "mcp",
-        "react",
-        "typescript"
-      ],
-      "pushed_at": "2026-10-26",
-      "created_at": "2026-03-31",
-      "archived": false,
-      "categories": [
-        "agentic-vision"
-      ],
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "history": [
-        {
-          "date": "2026-10-26",
-          "stars": 15164
-        }
-      ],
-      "delta_7d": null,
-      "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 48.94
     },
     "simular-ai/Agent-S": {
       "full_name": "simular-ai/Agent-S",
@@ -1427,7 +1427,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 17.06
     },
     "microsoft/fara": {
       "full_name": "microsoft/fara",
@@ -1459,53 +1460,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
-    },
-    "the-open-agent/openagent": {
-      "full_name": "the-open-agent/openagent",
-      "url": "https://github.com/the-open-agent/openagent",
-      "description": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
-      "stars": 5712,
-      "forks": 669,
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agentic",
-        "agentic-ai",
-        "agi",
-        "chatbot",
-        "chatgpt",
-        "gpt",
-        "harness",
-        "hermes-agent",
-        "knowledge-base",
-        "langchain",
-        "llm",
-        "mcp",
-        "model-context-protocol",
-        "multi-agent",
-        "openagent",
-        "openai",
-        "openclaw",
-        "rag"
-      ],
-      "pushed_at": "2026-10-25",
-      "created_at": "2020-05-29",
-      "archived": false,
-      "categories": [
-        "agentic-vision"
-      ],
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "history": [
-        {
-          "date": "2026-10-26",
-          "stars": 5712
-        }
-      ],
-      "delta_7d": null,
-      "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 17.19
     },
     "yuruotong1/autoMate": {
       "full_name": "yuruotong1/autoMate",
@@ -1543,7 +1499,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 3.93
     },
     "TurixAI/TuriX-CUA": {
       "full_name": "TurixAI/TuriX-CUA",
@@ -1581,7 +1538,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 7.08
     },
     "e2b-dev/open-computer-use": {
       "full_name": "e2b-dev/open-computer-use",
@@ -1614,7 +1572,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 3.3
     },
     "lahfir/agent-desktop": {
       "full_name": "lahfir/agent-desktop",
@@ -1653,7 +1612,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 7.32
     },
     "AMAP-ML/LongHorizon-Harness": {
       "full_name": "AMAP-ML/LongHorizon-Harness",
@@ -1697,54 +1657,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
-    },
-    "feder-cr/invisible_playwright_mcp": {
-      "full_name": "feder-cr/invisible_playwright_mcp",
-      "url": "https://github.com/feder-cr/invisible_playwright_mcp",
-      "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
-      "stars": 882,
-      "forks": 116,
-      "language": "Python",
-      "topics": [
-        "ai-tools",
-        "antidetect-browser",
-        "autonomous-agents",
-        "browser-agent",
-        "browser-automation",
-        "claude-code-plugin",
-        "computer-use",
-        "gemini-cli",
-        "gemini-cli-extension",
-        "job-hunting",
-        "job-search",
-        "llm-agent",
-        "mcp-server",
-        "mcp-tools",
-        "model-context-protocol",
-        "playwright",
-        "stealth-browser",
-        "web-automation",
-        "web-scraping",
-        "webscraping"
-      ],
-      "pushed_at": "2026-10-21",
-      "created_at": "2026-09-29",
-      "archived": false,
-      "categories": [
-        "agentic-vision"
-      ],
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "history": [
-        {
-          "date": "2026-10-26",
-          "stars": 882
-        }
-      ],
-      "delta_7d": null,
-      "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 21.43
     },
     "xlang-ai/OpenCUA": {
       "full_name": "xlang-ai/OpenCUA",
@@ -1777,7 +1691,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.76
     },
     "agent-sh/computer-use-linux": {
       "full_name": "agent-sh/computer-use-linux",
@@ -1823,7 +1738,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 4.46
     },
     "ComputerUseAgent/AutoCua": {
       "full_name": "ComputerUseAgent/AutoCua",
@@ -1869,7 +1785,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 36.39
     },
     "Hacker-Valley-Media/Interceptor": {
       "full_name": "Hacker-Valley-Media/Interceptor",
@@ -1912,7 +1829,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 2.58
     },
     "Tongyi-MAI/OpenGCUA": {
       "full_name": "Tongyi-MAI/OpenGCUA",
@@ -1938,7 +1856,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 45.18
     },
     "ctoldigital/axuse": {
       "full_name": "ctoldigital/axuse",
@@ -1977,7 +1896,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 41.25
     },
     "testdriverai/testdriverai": {
       "full_name": "testdriverai/testdriverai",
@@ -2022,7 +1942,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.59
     },
     "xlang-ai/OSWorld-V2": {
       "full_name": "xlang-ai/OSWorld-V2",
@@ -2062,7 +1983,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.01
     },
     "mrpulor-gh/nuphus-mcp": {
       "full_name": "mrpulor-gh/nuphus-mcp",
@@ -2100,7 +2022,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 3.83
     },
     "MoonshotAI/Kimi-K2.5": {
       "full_name": "MoonshotAI/Kimi-K2.5",
@@ -2126,7 +2049,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 8.61
     },
     "digiteinfotech/kairon": {
       "full_name": "digiteinfotech/kairon",
@@ -2173,7 +2097,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.12
     },
     "uclanlp/OpenVLHarness": {
       "full_name": "uclanlp/OpenVLHarness",
@@ -2199,7 +2124,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 23.45
     },
     "chekusu/yomado": {
       "full_name": "chekusu/yomado",
@@ -2225,7 +2151,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 12.25
     },
     "AngusKit/AngusAI": {
       "full_name": "AngusKit/AngusAI",
@@ -2259,7 +2186,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.15
     },
     "likaixin2000/ScreenSpot-Pro-GUI-Grounding": {
       "full_name": "likaixin2000/ScreenSpot-Pro-GUI-Grounding",
@@ -2285,7 +2213,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.59
     },
     "TeleAI-UAGI/telemem": {
       "full_name": "TeleAI-UAGI/telemem",
@@ -2328,7 +2257,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.52
     },
     "LJungang/Awesome-Video-Reasoning-Landscape": {
       "full_name": "LJungang/Awesome-Video-Reasoning-Landscape",
@@ -2371,7 +2301,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.26
     },
     "egolife-ai/Ego-R1": {
       "full_name": "egolife-ai/Ego-R1",
@@ -2397,7 +2328,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.33
     },
     "marinero4972/Open-o3-Video": {
       "full_name": "marinero4972/Open-o3-Video",
@@ -2423,7 +2355,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.45
     },
     "wgcyeo/WorldMM": {
       "full_name": "wgcyeo/WorldMM",
@@ -2456,7 +2389,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.4
     },
     "FeiElysia/Tempo": {
       "full_name": "FeiElysia/Tempo",
@@ -2482,7 +2416,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.43
     },
     "Mark12Ding/Dispider": {
       "full_name": "Mark12Ding/Dispider",
@@ -2508,7 +2443,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.27
     },
     "facebookresearch/pytorchvideo": {
       "full_name": "facebookresearch/pytorchvideo",
@@ -2534,7 +2470,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.74
     },
     "HKUDS/VideoAgent": {
       "full_name": "HKUDS/VideoAgent",
@@ -2569,7 +2506,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 4.22
     },
     "bytedance/Lance": {
       "full_name": "bytedance/Lance",
@@ -2602,7 +2540,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 8.3
     },
     "OpenMOSS/MOSS-VL": {
       "full_name": "OpenMOSS/MOSS-VL",
@@ -2644,7 +2583,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 3.94
     },
     "bytedance/vidi": {
       "full_name": "bytedance/vidi",
@@ -2670,7 +2610,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.06
     },
     "sotayang/Awesome-Streaming-Video-Understanding": {
       "full_name": "sotayang/Awesome-Streaming-Video-Understanding",
@@ -2700,7 +2641,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.48
     },
     "MugheesMehdi07/langvio": {
       "full_name": "MugheesMehdi07/langvio",
@@ -2726,7 +2668,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.74
     },
     "google-deepmind/videoprism": {
       "full_name": "google-deepmind/videoprism",
@@ -2757,7 +2700,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.78
     },
     "MME-Benchmarks/Video-MME-v2": {
       "full_name": "MME-Benchmarks/Video-MME-v2",
@@ -2789,7 +2733,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.77
     },
     "nv-tlabs/PixelUMM": {
       "full_name": "nv-tlabs/PixelUMM",
@@ -2815,7 +2760,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 5.71
     },
     "mbzuai-oryx/VideoGPT-plus": {
       "full_name": "mbzuai-oryx/VideoGPT-plus",
@@ -2858,7 +2804,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.34
     },
     "MCG-NJU/VideoJev": {
       "full_name": "MCG-NJU/VideoJev",
@@ -2884,7 +2831,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 13.94
     },
     "PolyX-Research/Response-G1": {
       "full_name": "PolyX-Research/Response-G1",
@@ -2910,7 +2858,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.25
     },
     "OpenMOSS/MOSS-Video-Preview": {
       "full_name": "OpenMOSS/MOSS-Video-Preview",
@@ -2941,7 +2890,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.77
     },
     "sotayang/LiveStar": {
       "full_name": "sotayang/LiveStar",
@@ -2972,7 +2922,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.3
     },
     "Xuchen-Li/llm-arxiv-daily": {
       "full_name": "Xuchen-Li/llm-arxiv-daily",
@@ -2998,7 +2949,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.22
     },
     "sotayang/SVBench": {
       "full_name": "sotayang/SVBench",
@@ -3030,7 +2982,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.15
     },
     "gaotiexinqu/VideoSeeker": {
       "full_name": "gaotiexinqu/VideoSeeker",
@@ -3056,7 +3009,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.73
     },
     "cambrian-mllm/cambrian-p": {
       "full_name": "cambrian-mllm/cambrian-p",
@@ -3082,7 +3036,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.74
     },
     "yunlong10/BVB": {
       "full_name": "yunlong10/BVB",
@@ -3108,7 +3063,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.51
     },
     "haowei-freesky/HERMES": {
       "full_name": "haowei-freesky/HERMES",
@@ -3134,7 +3090,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.39
     },
     "mll-lab-nu/TStar": {
       "full_name": "mll-lab-nu/TStar",
@@ -3168,7 +3125,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.14
     },
     "BBBBchan/DeltaStreamer": {
       "full_name": "BBBBchan/DeltaStreamer",
@@ -3194,7 +3152,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 5.18
     },
     "chakravarthi589/Video-Question-Answering_Resources": {
       "full_name": "chakravarthi589/Video-Question-Answering_Resources",
@@ -3236,7 +3195,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.13
     },
     "zai-org/GLM-V": {
       "full_name": "zai-org/GLM-V",
@@ -3267,7 +3227,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 4.95
     },
     "HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models": {
       "full_name": "HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models",
@@ -3293,7 +3254,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.12
     },
     "tongjingqi/Thinking-with-Video": {
       "full_name": "tongjingqi/Thinking-with-Video",
@@ -3324,7 +3286,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.9
     },
     "The-Martyr/Awesome-Multimodal-Reasoning": {
       "full_name": "The-Martyr/Awesome-Multimodal-Reasoning",
@@ -3368,7 +3331,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.17
     },
     "gokayfem/ComfyUI_VLM_nodes": {
       "full_name": "gokayfem/ComfyUI_VLM_nodes",
@@ -3415,7 +3379,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.59
     },
     "vllm-project/vllm-omni": {
       "full_name": "vllm-project/vllm-omni",
@@ -3452,7 +3417,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 17.94
     },
     "NVlabs/OmniVinci": {
       "full_name": "NVlabs/OmniVinci",
@@ -3484,7 +3450,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.73
     },
     "redai-studio/Relax": {
       "full_name": "redai-studio/Relax",
@@ -3520,7 +3487,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 3.34
     },
     "opendilab/LightRFT": {
       "full_name": "opendilab/LightRFT",
@@ -3556,7 +3524,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.27
     },
     "Livioni/OmniVGGT-official": {
       "full_name": "Livioni/OmniVGGT-official",
@@ -3585,7 +3554,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 1.06
     },
     "TaoLiveAIGC/TLive-Omni": {
       "full_name": "TaoLiveAIGC/TLive-Omni",
@@ -3619,7 +3589,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 4.64
     },
     "Omni-Scientist/OmniScientist": {
       "full_name": "Omni-Scientist/OmniScientist",
@@ -3651,7 +3622,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 2.42
     },
     "Tsinghua-MARS-Lab/OMG": {
       "full_name": "Tsinghua-MARS-Lab/OMG",
@@ -3685,7 +3657,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.88
     },
     "PolyU-VCLab/OmniCompass": {
       "full_name": "PolyU-VCLab/OmniCompass",
@@ -3717,7 +3690,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 5.9
     },
     "THU-BPM/Omni-SafetyBench": {
       "full_name": "THU-BPM/Omni-SafetyBench",
@@ -3752,7 +3726,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.26
     },
     "ZiiJianLiu/Omni-Woodpecker": {
       "full_name": "ZiiJianLiu/Omni-Woodpecker",
@@ -3781,7 +3756,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": true
+      "is_new": true,
+      "velocity": 1.76
     },
     "HarryHsing/OmniAgent": {
       "full_name": "HarryHsing/OmniAgent",
@@ -3823,7 +3799,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.58
     },
     "HVision-NKU/GlimpsePrune": {
       "full_name": "HVision-NKU/GlimpsePrune",
@@ -3855,7 +3832,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.23
     },
     "MINT-SJTU/VLA-Pruner": {
       "full_name": "MINT-SJTU/VLA-Pruner",
@@ -3881,7 +3859,8 @@
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "is_new": false
+      "is_new": false,
+      "velocity": 0.26
     }
   }
 }

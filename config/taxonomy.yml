@@ -40,6 +40,12 @@ meta:
   github_min_stars: 80
   github_max_per_query: 30
   github_history_keep: 90
+  # 已知噪声：搜索会命中、但实际不属于本赛道，人工精确剔除。
+  # 自动召回负责"不漏"，这份名单负责"不误"——只放确定离题的，拿不准就别加。
+  github_blocklist:
+    - "NanmiCoder/cc-haha"                 # Claude Code 桌面工作台，编程助手而非视觉推理
+    - "the-open-agent/openagent"           # 通用个人助理，视觉只是附属能力
+    - "feder-cr/invisible_playwright_mcp"  # 反爬 MCP，与视觉推理无关
 
 # 打分权重：命中 strong / medium / weak 关键词时累加
 weights:

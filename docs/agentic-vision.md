@@ -3,6 +3,11 @@
 > 一句话：**视觉从"看一眼"变成"动起来看"。**
 > 模型不再被动接收一张图，而是主动决定看哪里、放大多少、调什么工具、何时回头验证——感知本身成为行动。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-agentic-vision-dark.svg">
+  <img src="../assets/spark-agentic-vision-light.svg" alt="Agentic Vision 近 12 周论文发布趋势" width="900">
+</picture>
+
 [← 潜在视觉推理](latent-visual-reasoning.md) · [返回总览](../README.md) · [视频推理 →](video-reasoning.md)
 
 ---

@@ -3,6 +3,11 @@
 > 一句话：**不写出来，直接在隐空间里想。**
 > 把中间推理从「生成自然语言 token」换成「生成/复用连续隐状态」，让模型在视觉证据上推理，而不是在语言先验上推理。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-latent-visual-reasoning-dark.svg">
+  <img src="../assets/spark-latent-visual-reasoning-light.svg" alt="Latent Visual Reasoning 近 12 周论文发布趋势" width="900">
+</picture>
+
 [← 返回总览](../README.md) · [智能体视觉 →](agentic-vision.md)
 
 ---

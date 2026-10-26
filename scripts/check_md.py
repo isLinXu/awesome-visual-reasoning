@@ -75,6 +75,33 @@ def check_markers(path: Path) -> List[str]:
     return errors
 
 
+IMG_RE = re.compile(r'(?:src|srcset)="([^"]+\.svg)"')
+PICTURE_RE = re.compile(r"<picture>(.*?)</picture>", re.S)
+
+
+def check_images(path: Path) -> List[str]:
+    """校验内嵌 SVG 是否存在，以及 <picture> 的深浅两套是否齐全。
+
+    图是脚本生成的，很容易出现"改了文件名但忘了改引用"或"只生成了浅色版"。
+    GitHub 上图片挂了不会报错，只会显示一个破图标——所以必须在这里挡住。
+    """
+    errors: List[str] = []
+    content = path.read_text(encoding="utf-8")
+
+    for target in IMG_RE.findall(content):
+        if target.startswith(("http://", "https://", "data:")):
+            continue
+        if not (path.parent / target).exists():
+            errors.append(f"{path.name}: 图片不存在 → {target}")
+
+    for block in PICTURE_RE.findall(content):
+        has_dark = 'prefers-color-scheme: dark' in block
+        has_img = "<img" in block
+        if has_img and not has_dark:
+            errors.append(f"{path.name}: <picture> 缺少深色版 <source>，深色主题下会显示浅色图")
+    return errors
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="文档自检")
     parser.add_argument("--quiet", action="store_true")
@@ -94,6 +121,7 @@ def main() -> int:
         checked += 1
         all_errors += check_tables(path)
         all_errors += check_links(path)
+        all_errors += check_images(path)
         if path.parent == DOCS and path.name not in ("projects.md", "digest.md"):
             all_errors += check_markers(path)
 
@@ -104,7 +132,7 @@ def main() -> int:
         return 1
 
     if not args.quiet:
-        print(f"✓ {checked} 个文件全部通过：表格列数一致、链接可达、标记完整")
+        print(f"✓ {checked} 个文件全部通过：表格列数一致、链接可达、图片齐全、标记完整")
     return 0
 
 

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" role="img" aria-label="Awesome Visual Reasoning">
+<title>Awesome Visual Reasoning</title>
+<rect width="1200" height="154" fill="#FFFFFF"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Roboto, sans-serif">
+<rect x="0.0" y="0" width="240.0" height="5" fill="#8B5CF6"/>
+<rect x="240.0" y="0" width="240.0" height="5" fill="#3B82F6"/>
+<rect x="480.0" y="0" width="240.0" height="5" fill="#F59E0B"/>
+<rect x="720.0" y="0" width="240.0" height="5" fill="#06B6D4"/>
+<rect x="960.0" y="0" width="240.0" height="5" fill="#10B981"/>
+<text x="48" y="62" font-size="27" font-weight="700" fill="#0F172A" letter-spacing="-0.4">模型是怎么在视觉上思考的</text>
+<text x="49" y="88" font-size="13" fill="#64748B">每天从 arXiv 与 GitHub 抓取 · 打分归类 · 去重排序 · 自动提交</text>
+<text x="1152" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">312k</text>
+<text x="1152" y="84" font-size="11" text-anchor="end" fill="#64748B">累计 star</text>
+<text x="1048" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">113</text>
+<text x="1048" y="84" font-size="11" text-anchor="end" fill="#64748B">个项目</text>
+<text x="944" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">753</text>
+<text x="944" y="84" font-size="11" text-anchor="end" fill="#64748B">篇论文</text>
+<rect x="48.0" y="110" width="180.2" height="24" rx="12" fill="#8B5CF6" fill-opacity="0.12"/>
+<circle cx="59.0" cy="122" r="3.2" fill="#8B5CF6"/>
+<text x="67.0" y="126.5" font-size="11" fill="#8B5CF6">🧠 Latent Visual Reasoning</text>
+<rect x="237.2" y="110" width="125.7" height="24" rx="12" fill="#3B82F6" fill-opacity="0.12"/>
+<circle cx="248.2" cy="122" r="3.2" fill="#3B82F6"/>
+<text x="256.2" y="126.5" font-size="11" fill="#3B82F6">🤖 Agentic Vision</text>
+<rect x="371.9" y="110" width="131.8" height="24" rx="12" fill="#F59E0B" fill-opacity="0.12"/>
+<circle cx="382.9" cy="122" r="3.2" fill="#F59E0B"/>
+<text x="390.9" y="126.5" font-size="11" fill="#F59E0B">🎬 Video Reasoning</text>
+<rect x="512.8" y="110" width="162.0" height="24" rx="12" fill="#06B6D4" fill-opacity="0.12"/>
+<circle cx="523.8" cy="122" r="3.2" fill="#06B6D4"/>
+<text x="531.8" y="126.5" font-size="11" fill="#06B6D4">🌐 Multimodal Reasoning</text>
+<rect x="683.8" y="110" width="193.4" height="24" rx="12" fill="#10B981" fill-opacity="0.12"/>
+<circle cx="694.8" cy="122" r="3.2" fill="#10B981"/>
+<text x="702.8" y="126.5" font-size="11" fill="#10B981">⚡ Efficient Visual Reasoning</text>
+</g>
+</svg>

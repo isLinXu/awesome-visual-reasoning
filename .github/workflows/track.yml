@@ -68,6 +68,9 @@ jobs:
       - name: Refresh stats and digest
         run: python scripts/update_metadata.py
 
+      - name: Render SVG charts
+        run: python scripts/render_charts.py
+
       - name: Lint markdown
         run: python scripts/check_md.py
 

@@ -3,6 +3,11 @@
 > 一句话：**让模型"想得起"，也"想得便宜"。**
 > 这是横切赛道：隐推理之所以被提出，很大动力就是省掉长文本 CoT 的 decode 开销。这里收录视觉 token 压缩、动态分辨率、thinking budget、早停与蒸馏。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-efficient-visual-reasoning-dark.svg">
+  <img src="../assets/spark-efficient-visual-reasoning-light.svg" alt="Efficient Visual Reasoning 近 12 周论文发布趋势" width="900">
+</picture>
+
 [← 多模态推理底座](multimodal-reasoning.md) · [返回总览](../README.md)
 
 ---

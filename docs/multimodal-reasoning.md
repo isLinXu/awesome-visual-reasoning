@@ -3,6 +3,11 @@
 > 一句话：**上面三条赛道共用的那块地基。**
 > VLM/MLLM 的推理能力怎么训出来、怎么测出来、怎么规模化——RLVR、可验证奖励、过程监督、测试时扩展、omni-modal 统一建模。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-multimodal-reasoning-dark.svg">
+  <img src="../assets/spark-multimodal-reasoning-light.svg" alt="Multimodal Reasoning 近 12 周论文发布趋势" width="900">
+</picture>
+
 [← 视频推理](video-reasoning.md) · [返回总览](../README.md) · [视觉推理效率 →](efficient-visual-reasoning.md)
 
 ---

@@ -1,5 +1,10 @@
 # Awesome Visual Reasoning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Awesome Visual Reasoning — 模型是怎么在视觉上思考的" width="1200">
+</picture>
+
 **自动跟踪「模型怎么在视觉上思考」的开源情报站。**
 
 聚焦四条主线——**潜在视觉推理（Latent Visual Reasoning）**、**智能体视觉（Agentic Vision）**、
@@ -67,6 +72,27 @@
 
 其他入口：**[🚀 项目雷达](docs/projects.md)**（按 7 日 star 增速排）· **[📬 自动周报](docs/digest.md)**
 
+## 现在什么情况
+
+两张图都由 `scripts/render_charts.py` 从 `data/*.json` 直接渲染，随每天的抓取自动重画——
+不是人工贴的截图，所以数字永远和表格对得上。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trend-dark.svg">
+  <img src="assets/trend-light.svg" alt="近 12 周论文发布趋势，按赛道堆叠" width="1200">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/distribution-dark.svg">
+  <img src="assets/distribution-light.svg" alt="五条赛道的论文占比" width="1200">
+</picture>
+
+看图能读出三件事：
+
+- **Multimodal 是地基，也是最拥挤的地方**（约三分之一）。它门槛最低、复用最广，所以论文量最大。
+- **Agentic 与 Video 体量接近**，但增长节奏不同：Agentic 的爆发跟 GUI agent 产品化同步，Video 更受长上下文与 token 预算限制。
+- **Latent 论文最少，却是引用密度最高的一条**。它的价值不在数量，在于提出"别用语言想了"这个反直觉的路线。
+
 ## 自动化是怎么跑的
 
 ```
@@ -83,9 +109,19 @@
            ▼                      ▼                       ▼
    docs/*.md 标记表格        data/repos.json          README 数字
    data/papers.json         (每日 star 快照)          docs/digest.md
-                                    │
-                                    ▼
-                        有变更才 commit（幂等，重跑无副作用）
+           │                      │
+           └──────────┬───────────┘
+                      ▼
+          ┌───────────────────────┐
+          │   render_charts.py    │  ← 把 JSON 直接画成 SVG
+          │   横幅 / 趋势 / 占比 /  │     不截图、不存位图
+          │   各赛道 sparkline     │     浅色深色各一套
+          └───────────┬───────────┘
+                      ▼
+                 assets/*.svg
+                      │
+                      ▼
+        有变更才 commit（幂等，重跑无副作用）
 ```
 
 六个设计取舍，直接决定了它能不能长期跑下去：
@@ -124,7 +160,10 @@ GITHUB_TOKEN=ghp_xxx python scripts/track_github.py
 # 4) 刷新统计、徽章与周报
 python scripts/update_metadata.py
 
-# 5) 自检（表格列数 / 相对链接 / 标记完整性）
+# 5) 重画图表（README 横幅 / 趋势 / 占比 / 各赛道 sparkline）
+python scripts/render_charts.py
+
+# 6) 自检（表格列数 / 链接 / 图片引用 / 标记完整性）
 python scripts/check_md.py
 ```
 
@@ -135,6 +174,7 @@ python scripts/fetch_arxiv.py --dry-run              # 只看会写什么
 python scripts/fetch_arxiv.py --category video-reasoning --days 30
 python scripts/fetch_arxiv.py --sources arxiv        # 只用 arXiv，跳过 HF
 python scripts/track_github.py --top 40 --skip-search
+python scripts/render_charts.py --weeks 16           # 趋势图改成 16 周
 ```
 
 ## 想加一条赛道 / 换个方向？

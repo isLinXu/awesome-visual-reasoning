@@ -62,7 +62,9 @@ dry-run 会打印"命中 N 篇、将新增 M 行"，确认没把噪声收进来�
 ```
 
 3. 在 `README.md` 的赛道表里加一行
-4. 跑一遍 `python scripts/seed_classics.py && python scripts/fetch_arxiv.py --dry-run`
+4. 跑 `python scripts/render_charts.py`——它会生成该赛道的 sparkline 并**自动插入**到文档里
+   （图里需要一种新颜色的话，在 `scripts/render_charts.py` 的 `TRACK_COLORS` 加一行）
+5. 跑一遍 `python scripts/seed_classics.py && python scripts/fetch_arxiv.py --dry-run`
 
 ## 4. 提交前自检
 
@@ -70,6 +72,8 @@ dry-run 会打印"命中 N 篇、将新增 M 行"，确认没把噪声收进来�
 python scripts/seed_classics.py          # 必读清单里的 arXiv ID 是否还有效
 python scripts/fetch_arxiv.py --dry-run   # 分类是否收进了噪声
 python scripts/update_metadata.py --dry-run
+python scripts/render_charts.py           # 图表能否正常渲染（幂等，重复跑无 diff）
+python scripts/check_md.py                # 表格 / 链接 / 图片引用 / 标记
 ```
 
 ## 5. 关于"必读"清单的标准

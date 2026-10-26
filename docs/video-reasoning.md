@@ -3,6 +3,11 @@
 > 一句话：**从"视频问答"升级为"在时间里做推理"。**
 > 因果链、事件先后、跨帧指代、长程记忆——视频推理的难点从来不是"看见"，而是"在有限 token 里记住足够长的时间"。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/spark-video-reasoning-dark.svg">
+  <img src="../assets/spark-video-reasoning-light.svg" alt="Video Reasoning 近 12 周论文发布趋势" width="900">
+</picture>
+
 [← 智能体视觉](agentic-vision.md) · [返回总览](../README.md) · [多模态推理底座 →](multimodal-reasoning.md)
 
 ---

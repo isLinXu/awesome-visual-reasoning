@@ -8,6 +8,7 @@
 自动更新论文清单、项目增速榜和周报。
 
 [![Last Commit](https://img.shields.io/github/last-commit/isLinXu/awesome-visual-reasoning?color=blue)](https://github.com/isLinXu/awesome-visual-reasoning/commits)
+[![Track](https://github.com/isLinXu/awesome-visual-reasoning/actions/workflows/track.yml/badge.svg)](https://github.com/isLinXu/awesome-visual-reasoning/actions/workflows/track.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776ab.svg)](scripts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)

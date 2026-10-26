@@ -107,11 +107,8 @@ def truncate(text: str, max_px: float, size: float) -> str:
 
 def svg_open(width: int, height: int, theme: Dict[str, str], title: str) -> List[str]:
     return [
-        # 不写死 width/height：让 SVG 自己按容器宽度缩放。
-        # GitHub 会把 <img> 的 style 属性剥掉、又不对 themed-picture 内的图做 max-width 约束，
-        # 所以"自适应"必须由 SVG 自己保证，否则 1200px 的图在 ~720px 容器里右侧会被裁掉。
-        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
-        f'width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="{esc(title)}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
+        f'viewBox="0 0 {width} {height}" role="img" aria-label="{esc(title)}">',
         f"<title>{esc(title)}</title>",
         f'<rect width="{width}" height="{height}" fill="{theme["bg"]}"/>',
         f'<g font-family="{FONT}">',

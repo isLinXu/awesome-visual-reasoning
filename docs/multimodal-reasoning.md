@@ -68,6 +68,10 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-26 | **DecoyCount: Evaluating Visual-Reasoning Misalignment in Counting** | Qiuyi, Zhang et al. | Visual counting benchmarks report whether vision-language models produce the correct number… | [📄 2610.34855](https://arxiv.org/abs/2610.34855) `cs.AI` |
+| 2026-10-26 | **Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems** | Yizhou Peng, Chen Chen et al. | Latency-sensitive spoken agents must know not only which tool to call… | [📄 2610.34653](https://arxiv.org/abs/2610.34653) `cs.CL` |
+| 2026-10-19 | **Aerial-R1: Reinforcing Aerial Reasoning and Segmentation in MLLMs** | Jisheng Dang, Huaiyuan Peng et al. | While Multimodal Large Language Models (MLLMs) have revolutionized general visual perception… | [📄 2610.33056](https://arxiv.org/abs/2610.33056) `cs.CV` |
+| 2026-10-14 | **Function-Space Temporal Self-Distillation for Policy Optimization** | Aryan Das, Arnab Bhattacharya et al. | Reinforcement Learning with Verifiable Rewards (RLVR) improves reasoning in language models… | [📄 2610.19687](https://arxiv.org/abs/2610.19687) 🤗 |
 | 2026-10-23 | **From Visual Affinity to Learning Credit in Multimodal Reinforcement Learning** | Yuhang Han, Dingning Liu et al. | Reinforcement learning with verifiable rewards (RLVR) improves multimodal reasoning... | [📄 2610.32324](https://arxiv.org/abs/2610.32324) `cs.AI` |
 | 2026-10-23 | **A Broader Look into MLLM's Retrieval Heads** | Jia Wang, Yuqing Li et al. | Locating relevant evidence in long inputs is a core capability of Multimodal Large Language Mod... | [📄 2610.32411](https://arxiv.org/abs/2610.32411) `cs.CL` |
 | 2026-10-22 | **TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models** | Zhaolu Kang, Yidi Wang et al. | Ambiguity is a central feature of natural communication: a sentence, image... | [📄 2610.30841](https://arxiv.org/abs/2610.30841) `cs.CL` |
@@ -264,10 +268,6 @@ SFT（图文指令）
 | 2026-07-05 | **RL Forgets! Towards Continual Policy Optimization** | Mao-Lin Luo, Zhe-Xu Wang et al. | Continual post-training is becoming a central paradigm for adapting vision-language models to e... | [📄 2607.04364](https://arxiv.org/abs/2607.04364) `cs.LG` |
 | 2026-07-01 | **Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning** | Hongxing Li, Xiufeng Huang et al. | Fine-grained visual reasoning remains challenging for vision-language models... | [📄 2607.01191](https://arxiv.org/abs/2607.01191) `cs.CV` |
 | 2026-07-01 | **M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning** | Haiwen Li, Jing Tang et al. | Vision Language Models (VLMs) have demonstrated remarkable capabilities in multimodal reasoning... | [📄 2607.00685](https://arxiv.org/abs/2607.00685) `cs.MA` |
-| 2026-06-30 | **Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning** | Junha Jung, Minbyul Jeong et al. | Recent multimodal large language models have shown great promise in clinical image reasoning... | [📄 2606.31825](https://arxiv.org/abs/2606.31825) `cs.CV` |
-| 2026-06-30 | **Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning** | Kaitao Chen, Weiqian Zhao et al. | Vision-language models (VLMs) combining reinforcement learning (RL) ignite remarkable progress... | [📄 2606.31599](https://arxiv.org/abs/2606.31599) `cs.CV` |
-| 2026-06-30 | **PixelEyes: Decoupling Perception and Reasoning for Pinpoint Visual Evidence Seeking** | Dengxian Gong, Yuanzheng Wu et al. | This paper explores multi-turn visual reasoning and observes that MLLMs repeatedly fail to loca... | [📄 2607.00115](https://arxiv.org/abs/2607.00115) `cs.CV` |
-| 2026-06-30 | **MS-Resampler: Multi-Scope Visual Resampling for Efficient Multimodal LLMs** | Zhongyang Li, Yaqian Li et al. | Multimodal large language models (MLLMs) typically employ resampling-based projectors to transf... | [📄 2606.31383](https://arxiv.org/abs/2606.31383) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

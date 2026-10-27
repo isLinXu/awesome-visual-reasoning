@@ -71,6 +71,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-26 | **GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents** | Ye Li, Haoran Ding et al. | GUI agents built on vision-language models interact with continuously evolving interfaces… | [📄 2610.34959](https://arxiv.org/abs/2610.34959) `cs.CV` |
+| 2026-10-25 | **HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget** | Harish Santhanalakshmi Ganesan, Hariharan M. S. et al. | We describe HobbyLM, a family of small sparse Mixture-of-Experts (MoE) models trained from scra… | [📄 2610.34582](https://arxiv.org/abs/2610.34582) `cs.AI` |
 | 2026-10-22 | **PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding** | Valentino Sacco, Saurabh Pandey et al. | Multimodal Large Language Models have shown promising performance in computer-use tasks... | [📄 2610.31274](https://arxiv.org/abs/2610.31274) `cs.AI` |
 | 2026-10-21 | **Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use** | Yanzhe Chen, Ziyi Yang et al. | Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback... | [📄 2610.30108](https://arxiv.org/abs/2610.30108) `cs.RO` [💻](https://github.com/showlab/Awesome-Multimodal-Embodied-Agent) |
 | 2026-10-21 | **LiveAct: Towards Real-Time Multi-Agent World Models with Heterogeneous Action Interfaces** | Xinyu Wang, Huafeng Shi et al. | Interactive video world models predict how an environment evolves under user actions... | [📄 2610.29408](https://arxiv.org/abs/2610.29408) `cs.CV` |

@@ -75,6 +75,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-26 | **EARS: Evidence-Aware Retrieval via Sound and Motion for Budgeted Video Reasoning** | Shih-Yao Lin | Uniform frame sampling can miss brief evidence in sparse-event videos when the VLM sees only K… | [📄 2610.35536](https://arxiv.org/abs/2610.35536) `cs.CV` |
+| 2026-10-24 | **MarineLife-16K: An Attribute-Rich Video-Text Dataset for Motion-Aware Marine Video Understanding** | Quang-Trung Truong, Thanh-Nghia Nguyen et al. | Marine video understanding is crucial for a wide range of real-world applications… | [📄 2610.33478](https://arxiv.org/abs/2610.33478) `cs.CV` |
+| 2026-10-24 | **InfiniteWorld: Separating Visual Evidence from Familiar Physics** | Tong Zhang, Yuxuan Cheng et al. | Physical reasoning requires adapting familiar expectations to the dynamics of the observed worl… | [📄 2610.33777](https://arxiv.org/abs/2610.33777) `cs.AI` |
 | 2026-10-23 | **Tempo-Zero: Recursive Self-Play in Executable Worlds for Video Reasoning** | Jingmin Zhu, Yanyan Zou et al. | Video reasoning requires understanding how events unfold over time... | [📄 2610.32433](https://arxiv.org/abs/2610.32433) `cs.CV` |
 | 2026-10-23 | **SyncPro: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding** | Xueyun Tian, Bingbing Xu et al. | Proactive streaming video understanding requires assistants to track unfolding events and respo... | [📄 2610.32132](https://arxiv.org/abs/2610.32132) `cs.CV` |
 | 2026-10-22 | **Retrieval-Augmented Online Textual Memory for Episodic Memory Video Question Answering** | Raffaele Cali, Giuseppe Lando et al. | Long egocentric videos pose a central challenge for multimodal language models: the visual stre... | [📄 2610.31284](https://arxiv.org/abs/2610.31284) `cs.CV` |

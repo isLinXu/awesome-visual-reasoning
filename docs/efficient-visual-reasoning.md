@@ -64,6 +64,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-26 | **TP-JSCC: Efficient Token Pruning and Joint Source-Channel Coding for LVLMs-based 3D-VQA in Cloud-Edge Collaboration** | Zhengxin Li, Chongzhen Tian et al. | Deploying large vision-language models (LVLMs) on resource-constrained embodied agents for 3D v… | [📄 2610.35489](https://arxiv.org/abs/2610.35489) `cs.CV` |
+| 2026-10-24 | **Rescuing Your Pruning: Rethinking Visual Token Pruning and Post-Training Recovery in MLLMs** | Peiran Yin, Hao Wu et al. | Visual token pruning substantially reduces the inference cost of multimodal large language mode… | [📄 2610.33688](https://arxiv.org/abs/2610.33688) `cs.CV` |
+| 2026-10-23 | **Vision Token Pruning via Query-Vision Interaction Decomposition** | Harshithanjani Athi, Sravan Kumar Ankireddy et al. | Large vision-language models (VLMs), which process both visual inputs and text queries… | [📄 2610.33215](https://arxiv.org/abs/2610.33215) `cs.LG` |
 | 2026-10-19 | **On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models** | Chenpan Li, Thies Brockmoeller et al. | Modern language models are increasingly asked to handle several tasks within a single prompt... | [📄 2610.27190](https://arxiv.org/abs/2610.27190) `cs.CL` [💻](https://github.com/chenpanli/fragility) |
 | 2026-10-18 | **ReTrace: Visual Backtracking for Efficient Multimodal Large Language Models** | Guangzong Si, Dong Wang et al. | Multimodal Large Language Models (MLLMs) encode images into dense visual token sequences... | [📄 2610.25005](https://arxiv.org/abs/2610.25005) `cs.CV` |
 | 2026-10-18 | **Visual Sufficiency Landscapes: Understanding Query-Conditioned Reliability in Visual Token Pruning** | Zhenghan Li, Kexin Sun et al. | Different visual token pruning strategies retain different subsets while maintaining similar ta... | [📄 2610.24968](https://arxiv.org/abs/2610.24968) `cs.CV` |

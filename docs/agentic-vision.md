@@ -71,6 +71,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-27 | **GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents** | Bingchao Wang, Yongcheng Jing et al. | Mobile GUI agents are typically fine-tuned 7B-scale vision-language models (VLMs) that generate… | [📄 2610.36877](https://arxiv.org/abs/2610.36877) `cs.AI` |
+| 2026-10-27 | **PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions** | Tongkun Guan, Zhibo Yang et al. | Fine-grained visual perception remains a bottleneck during post-training of multimodal large la… | [📄 2610.37471](https://arxiv.org/abs/2610.37471) `cs.CV` |
 | 2026-10-26 | **GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents** | Ye Li, Haoran Ding et al. | GUI agents built on vision-language models interact with continuously evolving interfaces… | [📄 2610.34959](https://arxiv.org/abs/2610.34959) `cs.CV` |
 | 2026-10-25 | **HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget** | Harish Santhanalakshmi Ganesan, Hariharan M. S. et al. | We describe HobbyLM, a family of small sparse Mixture-of-Experts (MoE) models trained from scra… | [📄 2610.34582](https://arxiv.org/abs/2610.34582) `cs.AI` |
 | 2026-10-22 | **PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding** | Valentino Sacco, Saurabh Pandey et al. | Multimodal Large Language Models have shown promising performance in computer-use tasks... | [📄 2610.31274](https://arxiv.org/abs/2610.31274) `cs.AI` |

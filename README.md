@@ -21,9 +21,9 @@
 
 | 收录论文 | 近 7 天新论文 | 跟踪仓库 | 累计 star |
 | --: | --: | --: | --: |
-| <!--STATS:papers-->767<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+34<!--/STATS:papers_new--> | <!--STATS:repos-->113<!--/STATS:repos--> 个 | <!--STATS:stars-->312,173<!--/STATS:stars--> |
+| <!--STATS:papers-->778<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+38<!--/STATS:papers_new--> | <!--STATS:repos-->114<!--/STATS:repos--> 个 | <!--STATS:stars-->312,685<!--/STATS:stars--> |
 
-> 最后自动更新：<!--STATS:updated-->2026-10-27<!--/STATS:updated-->
+> 最后自动更新：<!--STATS:updated-->2026-10-28<!--/STATS:updated-->
 
 ---
 
@@ -64,11 +64,11 @@
 
 | 赛道 | 一句话 | 文档 | 必读 | 文档内条目 |
 | :-- | :-- | :-- | --: | --: |
-| 🧠 **Latent Visual Reasoning** | 不写出来，直接在隐空间里想 | [latent-visual-reasoning.md](docs/latent-visual-reasoning.md) | 5 | <!--STATS:cat_latent-visual-reasoning-->59<!--/STATS:cat_latent-visual-reasoning--> 篇 |
-| 🤖 **Agentic Vision** | 视觉从"看一眼"变成"动起来看" | [agentic-vision.md](docs/agentic-vision.md) | 6 | <!--STATS:cat_agentic-vision-->177<!--/STATS:cat_agentic-vision--> 篇 |
-| 🎬 **Video Reasoning** | 从视频问答升级为在时间里推理 | [video-reasoning.md](docs/video-reasoning.md) | 6 | <!--STATS:cat_video-reasoning-->182<!--/STATS:cat_video-reasoning--> 篇 |
+| 🧠 **Latent Visual Reasoning** | 不写出来，直接在隐空间里想 | [latent-visual-reasoning.md](docs/latent-visual-reasoning.md) | 5 | <!--STATS:cat_latent-visual-reasoning-->60<!--/STATS:cat_latent-visual-reasoning--> 篇 |
+| 🤖 **Agentic Vision** | 视觉从"看一眼"变成"动起来看" | [agentic-vision.md](docs/agentic-vision.md) | 6 | <!--STATS:cat_agentic-vision-->179<!--/STATS:cat_agentic-vision--> 篇 |
+| 🎬 **Video Reasoning** | 从视频问答升级为在时间里推理 | [video-reasoning.md](docs/video-reasoning.md) | 6 | <!--STATS:cat_video-reasoning-->184<!--/STATS:cat_video-reasoning--> 篇 |
 | 🌐 **Multimodal Reasoning** | 上面三条赛道共用的地基 | [multimodal-reasoning.md](docs/multimodal-reasoning.md) | 5 | <!--STATS:cat_multimodal-reasoning-->200<!--/STATS:cat_multimodal-reasoning--> 篇 |
-| ⚡ **Efficient Visual Reasoning** | 想得起，也想得便宜 | [efficient-visual-reasoning.md](docs/efficient-visual-reasoning.md) | 3 | <!--STATS:cat_efficient-visual-reasoning-->92<!--/STATS:cat_efficient-visual-reasoning--> 篇 |
+| ⚡ **Efficient Visual Reasoning** | 想得起，也想得便宜 | [efficient-visual-reasoning.md](docs/efficient-visual-reasoning.md) | 3 | <!--STATS:cat_efficient-visual-reasoning-->95<!--/STATS:cat_efficient-visual-reasoning--> 篇 |
 
 ## 怎么用
 

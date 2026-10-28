@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T06:37:37Z",
+  "updated": "2026-10-28T07:07:42Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -8438,6 +8438,127 @@
       "score": 7.5,
       "primary_category": "cs.LG",
       "first_seen": "2026-10-23"
+    },
+    "2610.36809": {
+      "title": "Latent Visual Contrastive Reasoning with Multi-Branch Exploration",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.36809",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 5.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.36877": {
+      "title": "GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.36877",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 8.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-10-27"
+    },
+    "2610.37471": {
+      "title": "PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.37471",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 5.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.36545": {
+      "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.36545",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.36210": {
+      "title": "Diagnosing and Correcting Bias in MLLM for Long Video Understanding",
+      "published": "2026-10-26",
+      "url": "https://arxiv.org/abs/2610.36210",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 14.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-26"
+    },
+    "2610.37613": {
+      "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.37613",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 11.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.37211": {
+      "title": "Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.37211",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.36384": {
+      "title": "SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding",
+      "published": "2026-10-26",
+      "url": "https://arxiv.org/abs/2610.36384",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-26"
+    },
+    "2610.36986": {
+      "title": "LearnPrunerV2: Learnable Progressive Token Pruning for Vision-Language Models",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.36986",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.36671": {
+      "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.36671",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.37202": {
+      "title": "3D-SceneQ: Empowering 3D LLM With Query-Guided Adaptive Pruning and Multi-Modal Feature Enhancement",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.37202",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
     }
   }
 }

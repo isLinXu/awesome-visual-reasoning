@@ -68,6 +68,9 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-27 | **VideoLVR: Latent Visual Reasoning over Grounded Video Evidence** | Shilong Li, Xingyuan Bu et al. | Chain-of-thought reasoning has substantially advanced video understanding in multimodal large l… | [📄 2610.37613](https://arxiv.org/abs/2610.37613) `cs.CV` |
+| 2026-10-27 | **Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse** | Jiafeng Liang, Xianhao Ou et al. | Reinforcement learning with verifiable rewards (RLVR) has emerged as an effective post-training… | [📄 2610.37211](https://arxiv.org/abs/2610.37211) `cs.CV` |
+| 2026-10-26 | **SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding** | Matea Tashkovska, Naël Ouerghemi et al. | Perceiving human body motion is critical for multimodal systems that understand and assist peop… | [📄 2610.36384](https://arxiv.org/abs/2610.36384) `cs.CV` |
 | 2026-10-26 | **DecoyCount: Evaluating Visual-Reasoning Misalignment in Counting** | Qiuyi, Zhang et al. | Visual counting benchmarks report whether vision-language models produce the correct number… | [📄 2610.34855](https://arxiv.org/abs/2610.34855) `cs.AI` |
 | 2026-10-26 | **Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems** | Yizhou Peng, Chen Chen et al. | Latency-sensitive spoken agents must know not only which tool to call… | [📄 2610.34653](https://arxiv.org/abs/2610.34653) `cs.CL` |
 | 2026-10-19 | **Aerial-R1: Reinforcing Aerial Reasoning and Segmentation in MLLMs** | Jisheng Dang, Huaiyuan Peng et al. | While Multimodal Large Language Models (MLLMs) have revolutionized general visual perception… | [📄 2610.33056](https://arxiv.org/abs/2610.33056) `cs.CV` |
@@ -265,9 +268,6 @@ SFT（图文指令）
 | 2026-07-08 | **Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation** | Hongyu Qu, Jianzhe Gao et al. | Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current obser... | [📄 2607.07608](https://arxiv.org/abs/2607.07608) `cs.RO` |
 | 2026-07-07 | **Segmentation before Answering: Pixel Grounding for MLLM Visual Reasoning** | Yake Wei, Yuan Wang et al. | Recent advancements in Multimodal Large Language Models (MLLMs) have evolved from static percep... | [📄 2607.05798](https://arxiv.org/abs/2607.05798) `cs.CV` |
 | 2026-07-07 | **Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models** | Zhiwei Yang, Yuanchen Wu et al. | Multimodal Large Language Models (MLLMs) have demonstrated strong perception and reasoning capa... | [📄 2607.05716](https://arxiv.org/abs/2607.05716) `cs.CV` |
-| 2026-07-05 | **RL Forgets! Towards Continual Policy Optimization** | Mao-Lin Luo, Zhe-Xu Wang et al. | Continual post-training is becoming a central paradigm for adapting vision-language models to e... | [📄 2607.04364](https://arxiv.org/abs/2607.04364) `cs.LG` |
-| 2026-07-01 | **Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning** | Hongxing Li, Xiufeng Huang et al. | Fine-grained visual reasoning remains challenging for vision-language models... | [📄 2607.01191](https://arxiv.org/abs/2607.01191) `cs.CV` |
-| 2026-07-01 | **M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning** | Haiwen Li, Jing Tang et al. | Vision Language Models (VLMs) have demonstrated remarkable capabilities in multimodal reasoning... | [📄 2607.00685](https://arxiv.org/abs/2607.00685) `cs.MA` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

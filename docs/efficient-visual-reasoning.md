@@ -64,6 +64,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-27 | **LearnPrunerV2: Learnable Progressive Token Pruning for Vision-Language Models** | Rinyoichi Takezoe, Yaqian Li et al. | Vision-Language Models (VLMs) have demonstrated remarkable multimodal capabilities but suffer f… | [📄 2610.36986](https://arxiv.org/abs/2610.36986) `cs.CV` |
+| 2026-10-27 | **Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs** | Donghyeon Cho, Joowon Kim et al. | Diffusion vision-language models (DVLMs) process their entire input at every denoising step… | [📄 2610.36671](https://arxiv.org/abs/2610.36671) `cs.CV` |
+| 2026-10-27 | **3D-SceneQ: Empowering 3D LLM With Query-Guided Adaptive Pruning and Multi-Modal Feature Enhancement** | Yongqi Shan, Lu Zhang et al. | Current 3D scene understanding pipelines typically concatenate vast numbers of 3D object tokens… | [📄 2610.37202](https://arxiv.org/abs/2610.37202) `cs.CV` |
 | 2026-10-26 | **TP-JSCC: Efficient Token Pruning and Joint Source-Channel Coding for LVLMs-based 3D-VQA in Cloud-Edge Collaboration** | Zhengxin Li, Chongzhen Tian et al. | Deploying large vision-language models (LVLMs) on resource-constrained embodied agents for 3D v… | [📄 2610.35489](https://arxiv.org/abs/2610.35489) `cs.CV` |
 | 2026-10-24 | **Rescuing Your Pruning: Rethinking Visual Token Pruning and Post-Training Recovery in MLLMs** | Peiran Yin, Hao Wu et al. | Visual token pruning substantially reduces the inference cost of multimodal large language mode… | [📄 2610.33688](https://arxiv.org/abs/2610.33688) `cs.CV` |
 | 2026-10-23 | **Vision Token Pruning via Query-Vision Interaction Decomposition** | Harshithanjani Athi, Sravan Kumar Ankireddy et al. | Large vision-language models (VLMs), which process both visual inputs and text queries… | [📄 2610.33215](https://arxiv.org/abs/2610.33215) `cs.LG` |

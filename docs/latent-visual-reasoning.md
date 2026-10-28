@@ -93,6 +93,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-27 | **Latent Visual Contrastive Reasoning with Multi-Branch Exploration** | Kegeng Tang, Jingbo Wang et al. | Multimodal large language models have made substantial progress in visual question answering… | [📄 2610.36809](https://arxiv.org/abs/2610.36809) `cs.CV` |
 | 2026-10-26 | **Joint Latent Reasoning and Observation for Agentic Video Understanding** | Junzhang Liu, Hao Yuan et al. | Effective video agents must learn not only how to answer, but also where to look next… | [📄 2610.35229](https://arxiv.org/abs/2610.35229) `cs.CV` |
 | 2026-10-19 | **Oddin: Latent Visual Reasoning in Unified Multimodal Models via Self-Distillation from Image Generation** | Jaeyong Ko, Hankyeol Kim et al. | Unified large multimodal models (ULMMs) are able to perform visual reasoning through interleave… | [📄 2610.33062](https://arxiv.org/abs/2610.33062) `cs.CV` |
 | 2026-10-22 | **See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space** | Jiawei Chen, Yinxi Wang et al. | What visual representation should a navigation policy act on? Navigation policies built on visi... | [📄 2610.31762](https://arxiv.org/abs/2610.31762) `cs.RO` |

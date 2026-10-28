@@ -75,6 +75,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-27 | **FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation** | Yijing Lin, Zhendong Mao et al. | Unified conditional image generation requires a single model to preserve different aspects of a… | [📄 2610.36545](https://arxiv.org/abs/2610.36545) `cs.CV` |
+| 2026-10-26 | **Diagnosing and Correcting Bias in MLLM for Long Video Understanding** | Xusheng Liang, Jianqiao Sun et al. | Long-video question answering is challenging since the answer often hinges on a few decisive mo… | [📄 2610.36210](https://arxiv.org/abs/2610.36210) `cs.CV` |
 | 2026-10-26 | **EARS: Evidence-Aware Retrieval via Sound and Motion for Budgeted Video Reasoning** | Shih-Yao Lin | Uniform frame sampling can miss brief evidence in sparse-event videos when the VLM sees only K… | [📄 2610.35536](https://arxiv.org/abs/2610.35536) `cs.CV` |
 | 2026-10-24 | **MarineLife-16K: An Attribute-Rich Video-Text Dataset for Motion-Aware Marine Video Understanding** | Quang-Trung Truong, Thanh-Nghia Nguyen et al. | Marine video understanding is crucial for a wide range of real-world applications… | [📄 2610.33478](https://arxiv.org/abs/2610.33478) `cs.CV` |
 | 2026-10-24 | **InfiniteWorld: Separating Visual Evidence from Familiar Physics** | Tong Zhang, Yuxuan Cheng et al. | Physical reasoning requires adapting familiar expectations to the dynamics of the observed worl… | [📄 2610.33777](https://arxiv.org/abs/2610.33777) `cs.AI` |

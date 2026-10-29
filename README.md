@@ -21,9 +21,9 @@
 
 | 收录论文 | 近 7 天新论文 | 跟踪仓库 | 累计 star |
 | --: | --: | --: | --: |
-| <!--STATS:papers-->778<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+38<!--/STATS:papers_new--> | <!--STATS:repos-->114<!--/STATS:repos--> 个 | <!--STATS:stars-->312,685<!--/STATS:stars--> |
+| <!--STATS:papers-->779<!--/STATS:papers--> 篇 | <!--STATS:papers_new-->+33<!--/STATS:papers_new--> | <!--STATS:repos-->114<!--/STATS:repos--> 个 | <!--STATS:stars-->313,112<!--/STATS:stars--> |
 
-> 最后自动更新：<!--STATS:updated-->2026-10-28<!--/STATS:updated-->
+> 最后自动更新：<!--STATS:updated-->2026-10-29<!--/STATS:updated-->
 
 ---
 

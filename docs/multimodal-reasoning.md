@@ -68,6 +68,7 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-27 | **Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception** | Lai Wei, Yatai Li et al. | Multimodal perception forms the foundation of multimodal intelligence… | [📄 2610.37037](https://arxiv.org/abs/2610.37037) [💻](https://github.com/inclusionAI/Zooming-without-Zooming-v2) 🤗 |
 | 2026-10-27 | **VideoLVR: Latent Visual Reasoning over Grounded Video Evidence** | Shilong Li, Xingyuan Bu et al. | Chain-of-thought reasoning has substantially advanced video understanding in multimodal large l… | [📄 2610.37613](https://arxiv.org/abs/2610.37613) `cs.CV` |
 | 2026-10-27 | **Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse** | Jiafeng Liang, Xianhao Ou et al. | Reinforcement learning with verifiable rewards (RLVR) has emerged as an effective post-training… | [📄 2610.37211](https://arxiv.org/abs/2610.37211) `cs.CV` |
 | 2026-10-26 | **SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding** | Matea Tashkovska, Naël Ouerghemi et al. | Perceiving human body motion is critical for multimodal systems that understand and assist peop… | [📄 2610.36384](https://arxiv.org/abs/2610.36384) `cs.CV` |
@@ -267,7 +268,6 @@ SFT（图文指令）
 | 2026-07-08 | **BUS: Brain-Inspired Unsupervised Self-Reflection via Backward Prediction for Multimodal Reasoning** | Jiacheng Yang, Tongying Xiao et al. | Current Vision-Language Models (VLMs) often struggle to handle complex visual tasks that requir... | [📄 2607.07361](https://arxiv.org/abs/2607.07361) `cs.CV` |
 | 2026-07-08 | **Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation** | Hongyu Qu, Jianzhe Gao et al. | Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current obser... | [📄 2607.07608](https://arxiv.org/abs/2607.07608) `cs.RO` |
 | 2026-07-07 | **Segmentation before Answering: Pixel Grounding for MLLM Visual Reasoning** | Yake Wei, Yuan Wang et al. | Recent advancements in Multimodal Large Language Models (MLLMs) have evolved from static percep... | [📄 2607.05798](https://arxiv.org/abs/2607.05798) `cs.CV` |
-| 2026-07-07 | **Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models** | Zhiwei Yang, Yuanchen Wu et al. | Multimodal Large Language Models (MLLMs) have demonstrated strong perception and reasoning capa... | [📄 2607.05716](https://arxiv.org/abs/2607.05716) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

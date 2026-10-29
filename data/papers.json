@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:07:42Z",
+  "updated": "2026-10-29T07:29:55Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -8558,6 +8558,17 @@
       ],
       "score": 3.0,
       "primary_category": "cs.CV",
+      "first_seen": "2026-10-27"
+    },
+    "2610.37037": {
+      "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.37037",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "",
       "first_seen": "2026-10-27"
     }
   }

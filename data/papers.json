@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T07:29:55Z",
+  "updated": "2026-10-30T07:32:03Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -8569,6 +8569,127 @@
       ],
       "score": 6.5,
       "primary_category": "",
+      "first_seen": "2026-10-27"
+    },
+    "2610.39282": {
+      "title": "What Does \"Now\" Mean to Your Computer-Use Agent? Stale Screenshots, Page Loads, and Which Check to Run Before a Click",
+      "published": "2026-10-29",
+      "url": "https://arxiv.org/abs/2610.39282",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 10.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-10-29"
+    },
+    "2610.39237": {
+      "title": "Grounding Multimodal Reasoning with Evidence-Ablated Negatives",
+      "published": "2026-10-29",
+      "url": "https://arxiv.org/abs/2610.39237",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 11.5,
+      "primary_category": "cs.CL",
+      "first_seen": "2026-10-29"
+    },
+    "2610.39419": {
+      "title": "Diagnosing the Reference Gap: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning",
+      "published": "2026-10-29",
+      "url": "https://arxiv.org/abs/2610.39419",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 9.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-29"
+    },
+    "2610.39557": {
+      "title": "LatentWeave: Test-Time Latent Optimization for Multimodal Reasoning",
+      "published": "2026-10-29",
+      "url": "https://arxiv.org/abs/2610.39557",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-10-29"
+    },
+    "2610.39301": {
+      "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+      "published": "2026-10-29",
+      "url": "https://arxiv.org/abs/2610.39301",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-29"
+    },
+    "2610.38957": {
+      "title": "What do MLLMs know about 'Waldo'? Evaluating Visual Reasoning under Multi-Instance Multi-Object Challenges",
+      "published": "2026-10-28",
+      "url": "https://arxiv.org/abs/2610.38957",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 9.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-28"
+    },
+    "2610.38095": {
+      "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI",
+      "published": "2026-10-28",
+      "url": "https://arxiv.org/abs/2610.38095",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.CL",
+      "first_seen": "2026-10-28"
+    },
+    "2610.38960": {
+      "title": "Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation",
+      "published": "2026-10-28",
+      "url": "https://arxiv.org/abs/2610.38960",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-10-28"
+    },
+    "2610.39467": {
+      "title": "Calibrating Attention-Based Token Pruning for Efficient Multi-Image Synthesis in UMMs",
+      "published": "2026-10-29",
+      "url": "https://arxiv.org/abs/2610.39467",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-29"
+    },
+    "2610.38303": {
+      "title": "Don't Ask the LLM: Visual Token Pruning with Spectral Structure and Semantic Relevance",
+      "published": "2026-10-28",
+      "url": "https://arxiv.org/abs/2610.38303",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-28"
+    },
+    "2610.37732": {
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "published": "2026-10-27",
+      "url": "https://arxiv.org/abs/2610.37732",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.AI",
       "first_seen": "2026-10-27"
     }
   }

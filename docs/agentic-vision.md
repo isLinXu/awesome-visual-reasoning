@@ -71,6 +71,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-29 | **What Does "Now" Mean to Your Computer-Use Agent? Stale Screenshots, Page Loads, and Which Check to Run Before a Click** | Vasundra Srinivasan | Computer-use agents plan on a screenshot for several seconds and then click at a position on th… | [📄 2610.39282](https://arxiv.org/abs/2610.39282) `cs.AI` |
 | 2026-10-27 | **GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents** | Bingchao Wang, Yongcheng Jing et al. | Mobile GUI agents are typically fine-tuned 7B-scale vision-language models (VLMs) that generate… | [📄 2610.36877](https://arxiv.org/abs/2610.36877) `cs.AI` |
 | 2026-10-27 | **PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions** | Tongkun Guan, Zhibo Yang et al. | Fine-grained visual perception remains a bottleneck during post-training of multimodal large la… | [📄 2610.37471](https://arxiv.org/abs/2610.37471) `cs.CV` |
 | 2026-10-26 | **GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents** | Ye Li, Haoran Ding et al. | GUI agents built on vision-language models interact with continuously evolving interfaces… | [📄 2610.34959](https://arxiv.org/abs/2610.34959) `cs.CV` |

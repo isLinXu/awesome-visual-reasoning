@@ -64,6 +64,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-29 | **Calibrating Attention-Based Token Pruning for Efficient Multi-Image Synthesis in UMMs** | Zimeng Wu, Qijian Tian et al. | Unified Multimodal Models (UMMs) enable powerful multi-image synthesis but incur substantial co… | [📄 2610.39467](https://arxiv.org/abs/2610.39467) `cs.CV` |
+| 2026-10-28 | **Don't Ask the LLM: Visual Token Pruning with Spectral Structure and Semantic Relevance** | Intaek Shin, Geuntaek Lim et al. | Large vision-language models (LVLMs) represent images and videos as long visual-token sequences… | [📄 2610.38303](https://arxiv.org/abs/2610.38303) `cs.CV` |
+| 2026-10-27 | **ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions** | Xiaolu Ding, Kai Yang et al. | Many uses of language models end in a typed decision: a choice among a closed set of options… | [📄 2610.37732](https://arxiv.org/abs/2610.37732) `cs.AI` |
 | 2026-10-27 | **LearnPrunerV2: Learnable Progressive Token Pruning for Vision-Language Models** | Rinyoichi Takezoe, Yaqian Li et al. | Vision-Language Models (VLMs) have demonstrated remarkable multimodal capabilities but suffer f… | [📄 2610.36986](https://arxiv.org/abs/2610.36986) `cs.CV` |
 | 2026-10-27 | **Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs** | Donghyeon Cho, Joowon Kim et al. | Diffusion vision-language models (DVLMs) process their entire input at every denoising step… | [📄 2610.36671](https://arxiv.org/abs/2610.36671) `cs.CV` |
 | 2026-10-27 | **3D-SceneQ: Empowering 3D LLM With Query-Guided Adaptive Pruning and Multi-Modal Feature Enhancement** | Yongqi Shan, Lu Zhang et al. | Current 3D scene understanding pipelines typically concatenate vast numbers of 3D object tokens… | [📄 2610.37202](https://arxiv.org/abs/2610.37202) `cs.CV` |

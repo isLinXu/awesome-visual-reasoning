@@ -9,9 +9,9 @@
 <rect x="960.0" y="0" width="240.0" height="5" fill="#10B981"/>
 <text x="48" y="62" font-size="27" font-weight="700" fill="#0F172A" letter-spacing="-0.4">模型是怎么在视觉上思考的</text>
 <text x="49" y="88" font-size="13" fill="#64748B">每天从 arXiv 与 GitHub 抓取 · 打分归类 · 去重排序 · 自动提交</text>
-<text x="1152" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">318k</text>
+<text x="1152" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">319k</text>
 <text x="1152" y="84" font-size="11" text-anchor="end" fill="#64748B">累计 star</text>
-<text x="1048" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">117</text>
+<text x="1048" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">118</text>
 <text x="1048" y="84" font-size="11" text-anchor="end" fill="#64748B">个项目</text>
 <text x="944" y="62" font-size="25" font-weight="700" text-anchor="end" fill="#0F172A">790</text>
 <text x="944" y="84" font-size="11" text-anchor="end" fill="#64748B">篇论文</text>

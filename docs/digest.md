@@ -1,6 +1,6 @@
 # 📬 自动周报 / Digest
 
-> 本文件由 `scripts/update_metadata.py` 自动生成，最后更新 **2026-10-31**。
+> 本文件由 `scripts/update_metadata.py` 自动生成，最后更新 **2026-11-01**。
 > 统计窗口：收录「论文发布日」落在近 7 天内的条目（不是抓取日）。
 
 ## 概览
@@ -9,9 +9,9 @@
 | :-- | --: |
 | 收录论文（全量库） | 790 |
 | 文档内可浏览条目 | 722 |
-| 近 7 天新发布 | 33 |
-| 跟踪仓库 | 118 |
-| 跟踪仓库总 star | 319,021 |
+| 近 7 天新发布 | 30 |
+| 跟踪仓库 | 119 |
+| 跟踪仓库总 star | 322,079 |
 
 ## 🧠 Latent Visual Reasoning · 近 7 天新发布 2 篇
 
@@ -26,13 +26,11 @@
 - [GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents](https://arxiv.org/abs/2610.34959) · `2026-10-26` · score 7.5
 - [HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget](https://arxiv.org/abs/2610.34582) · `2026-10-25` · score 4.0
 
-## 🎬 Video Reasoning · 近 7 天新发布 5 篇
+## 🎬 Video Reasoning · 近 7 天新发布 3 篇
 
 - [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](https://arxiv.org/abs/2610.36545) · `2026-10-27` · score 4.0
 - [Diagnosing and Correcting Bias in MLLM for Long Video Understanding](https://arxiv.org/abs/2610.36210) · `2026-10-26` · score 14.0
 - [EARS: Evidence-Aware Retrieval via Sound and Motion for Budgeted Video Reasoning](https://arxiv.org/abs/2610.35536) · `2026-10-26` · score 7.5
-- [MarineLife-16K: An Attribute-Rich Video-Text Dataset for Motion-Aware Marine Video Understanding](https://arxiv.org/abs/2610.33478) · `2026-10-24` · score 7.5
-- [InfiniteWorld: Separating Visual Evidence from Familiar Physics](https://arxiv.org/abs/2610.33777) · `2026-10-24` · score 5.5
 
 ## 🌐 Multimodal Reasoning · 近 7 天新发布 13 篇
 
@@ -50,7 +48,7 @@
 - [DecoyCount: Evaluating Visual-Reasoning Misalignment in Counting](https://arxiv.org/abs/2610.34855) · `2026-10-26` · score 4.0
 - …… 另有 1 篇，见 [docs/multimodal-reasoning.md](multimodal-reasoning.md)
 
-## ⚡ Efficient Visual Reasoning · 近 7 天新发布 8 篇
+## ⚡ Efficient Visual Reasoning · 近 7 天新发布 7 篇
 
 - [Calibrating Attention-Based Token Pruning for Efficient Multi-Image Synthesis in UMMs](https://arxiv.org/abs/2610.39467) · `2026-10-29` · score 7.0
 - [Don't Ask the LLM: Visual Token Pruning with Spectral Structure and Semantic Relevance](https://arxiv.org/abs/2610.38303) · `2026-10-28` · score 7.5
@@ -59,7 +57,6 @@
 - [3D-SceneQ: Empowering 3D LLM With Query-Guided Adaptive Pruning and Multi-Modal Feature Enhancement](https://arxiv.org/abs/2610.37202) · `2026-10-27` · score 3.0
 - [ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions](https://arxiv.org/abs/2610.37732) · `2026-10-27` · score 3.0
 - [TP-JSCC: Efficient Token Pruning and Joint Source-Channel Coding for LVLMs-based 3D-VQA in Cloud-Edge Collaboration](https://arxiv.org/abs/2610.35489) · `2026-10-26` · score 8.5
-- [Rescuing Your Pruning: Rethinking Visual Token Pruning and Post-Training Recovery in MLLMs](https://arxiv.org/abs/2610.33688) · `2026-10-24` · score 10.5
 
 ## 🚀 仓库增速榜（近 7 天 star 增量）
 

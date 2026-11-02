@@ -4,53 +4,53 @@
 <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Roboto, sans-serif">
 <text x="24" y="30" font-size="16" font-weight="600" fill="#E6EDF3">项目 star 增速 Top 12</text>
 <text x="24" y="50" font-size="12" fill="#8B949E">快照满 7 天后为实测增量；不足 7 天按日均速度折算（与项目雷达表格同口径）</text>
-<text x="24" y="79" font-size="12" fill="#E6EDF3">alibaba/page-agent</text>
+<text x="24" y="79" font-size="12" fill="#E6EDF3">trycua/cua</text>
 <rect x="264" y="68" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
 <rect x="264" y="68" width="806.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+513</text>
-<text x="24" y="109" font-size="12" fill="#E6EDF3">bytedance/UI-TARS-desktop</text>
+<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+584</text>
+<text x="24" y="109" font-size="12" fill="#E6EDF3">ComputerUseAgent/AutoCua</text>
 <rect x="264" y="98" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="98" width="667.7" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+425</text>
-<text x="24" y="139" font-size="12" fill="#E6EDF3">trycua/cua</text>
+<rect x="264" y="98" width="599.0" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+434</text>
+<text x="24" y="139" font-size="12" fill="#E6EDF3">ctoldigital/axuse</text>
 <rect x="264" y="128" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="128" width="540.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+344</text>
-<text x="24" y="169" font-size="12" fill="#E6EDF3">ComputerUseAgent/AutoCua</text>
+<rect x="264" y="128" width="361.6" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+262</text>
+<text x="24" y="169" font-size="12" fill="#E6EDF3">vercel-labs/agent-desktop</text>
 <rect x="264" y="158" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="158" width="466.6" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+297</text>
-<text x="24" y="199" font-size="12" fill="#E6EDF3">ctoldigital/axuse</text>
+<rect x="264" y="158" width="282.9" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+205</text>
+<text x="24" y="199" font-size="12" fill="#E6EDF3">reacher-z/Awesome-CUA</text>
 <rect x="264" y="188" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="188" width="438.4" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+279</text>
-<text x="24" y="229" font-size="12" fill="#E6EDF3">Tongyi-MAI/OpenGCUA</text>
+<rect x="264" y="188" width="215.3" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+156</text>
+<text x="24" y="229" font-size="12" fill="#E6EDF3">vllm-project/vllm-omni</text>
 <rect x="264" y="218" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="218" width="366.1" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+233</text>
-<text x="24" y="259" font-size="12" fill="#E6EDF3">microsoft/OmniParser</text>
+<rect x="264" y="218" width="178.0" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+129</text>
+<text x="24" y="259" font-size="12" fill="#E6EDF3">bytedance/UI-TARS-desktop</text>
 <rect x="264" y="248" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="248" width="364.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+232</text>
-<text x="24" y="289" font-size="12" fill="#E6EDF3">OpenBMB/MiniCPM-V</text>
+<rect x="264" y="248" width="176.7" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+128</text>
+<text x="24" y="289" font-size="12" fill="#E6EDF3">simular-ai/Agent-S</text>
 <rect x="264" y="278" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="278" width="295.4" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+188</text>
-<text x="24" y="319" font-size="12" fill="#E6EDF3">QwenLM/Qwen3-VL</text>
+<rect x="264" y="278" width="156.0" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+113</text>
+<text x="24" y="319" font-size="12" fill="#E6EDF3">uclanlp/OpenVLHarness</text>
 <rect x="264" y="308" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="308" width="279.7" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+178</text>
-<text x="24" y="349" font-size="12" fill="#E6EDF3">reacher-z/Awesome-CUA</text>
+<rect x="264" y="308" width="128.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+93</text>
+<text x="24" y="349" font-size="12" fill="#E6EDF3">nv-tlabs/PixelUMM</text>
 <rect x="264" y="338" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="338" width="240.4" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+153</text>
-<text x="24" y="379" font-size="12" fill="#E6EDF3">AMAP-ML/LongHorizon-Harness</text>
+<rect x="264" y="338" width="104.9" height="16" rx="5" fill="#F59E0B"/>
+<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+76</text>
+<text x="24" y="379" font-size="12" fill="#E6EDF3">Tongyi-MAI/OpenGCUA</text>
 <rect x="264" y="368" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="368" width="221.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+141</text>
-<text x="24" y="409" font-size="12" fill="#E6EDF3">vercel-labs/agent-desktop</text>
+<rect x="264" y="368" width="102.1" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+74</text>
+<text x="24" y="409" font-size="12" fill="#E6EDF3">OpenBMB/MiniCPM-V</text>
 <rect x="264" y="398" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="398" width="220.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+140</text>
+<rect x="264" y="398" width="100.8" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+73</text>
 </g>
 </svg>

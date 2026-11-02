@@ -68,6 +68,8 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-30 | **Open-Weight MLLMs Cannot Compare What They Cannot Name** | Wenxin Su, Anna Kreshuk | Multimodal Large Language Models (MLLMs) are increasingly capable of understanding images and p… | [📄 2610.41841](https://arxiv.org/abs/2610.41841) `cs.CV` |
+| 2026-10-30 | **scAnyOmics: Foundation-Model Distillation for Any-to-Any Completion of Multi-omics Virtual Cells** | Zhaoqi Song, Ye Du et al. | Recent advances in single-cell technologies have enabled the profiling of multiple molecular mo… | [📄 2610.41399](https://arxiv.org/abs/2610.41399) `cs.AI` |
 | 2026-10-29 | **Grounding Multimodal Reasoning with Evidence-Ablated Negatives** | Chenxi Liu, Tianyi Xiong et al. | Reinforcement learning with verifiable rewards (RLVR) has become a powerful tool for improving… | [📄 2610.39237](https://arxiv.org/abs/2610.39237) `cs.CL` |
 | 2026-10-29 | **Diagnosing the Reference Gap: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning** | Guizhen Chen, Weiwen Xu et al. | Multimodal large language models can recognize visual content yet struggle to reason reliably o… | [📄 2610.39419](https://arxiv.org/abs/2610.39419) `cs.CV` |
 | 2026-10-29 | **LatentWeave: Test-Time Latent Optimization for Multimodal Reasoning** | Fanci Meng, Kun Wang et al. | Recent advances in test-time optimization have shown that the multimodal reasoning performance… | [📄 2610.39557](https://arxiv.org/abs/2610.39557) `cs.LG` |
@@ -266,8 +268,6 @@ SFT（图文指令）
 | 2026-07-16 | **Hierarchical Denoising For Multi-Step Visual Reasoning** | Zezhong Qian, Xiaowei Chi et al. | Video models are evolving into vision foundation models... | [📄 2607.15278](https://arxiv.org/abs/2607.15278) `cs.CV` |
 | 2026-07-15 | **SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning** | Cheng Tang, Junzhi Ning et al. | Reinforcement learning with verifiable rewards (RLVR) drives multimodal reasoning... | [📄 2607.13931](https://arxiv.org/abs/2607.13931) `cs.CV` |
 | 2026-07-15 | **RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination** | Haotian Liang, Mingkang Chen et al. | Embodied cognition requires agents to connect high-level task reasoning with the physical state... | [📄 2607.14187](https://arxiv.org/abs/2607.14187) `cs.AI` |
-| 2026-07-15 | **SPyCE: Skill-Policy Co-evolution for Multimodal Agents** | Ru Zhang, Weijie Qiu | Multimodal agents that think with images iteratively manipulate visual evidence and invoke tool... | [📄 2607.13854](https://arxiv.org/abs/2607.13854) `cs.CL` |
-| 2026-07-13 | **SVR-R1: Bootstrapping Multi-modal Reasoning with Self-verification in Reinforcement Learning** | Mingyuan Wu, Jingcheng Yang et al. | Self-Verified Reasoner (SVR-R1), a multi-turn RL framework that turns a model's own verificatio... | [📄 2607.10966](https://arxiv.org/abs/2607.10966) `cs.AI` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

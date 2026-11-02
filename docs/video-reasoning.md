@@ -75,6 +75,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-30 | **Think in 360°: Benchmarking and Bootstrapping Panoramic Video Reasoning** | Lidong Lu, Lidong Zou et al. | A panoramic video captures all directions around the camera… | [📄 2610.42082](https://arxiv.org/abs/2610.42082) `cs.CV` |
+| 2026-10-30 | **ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation** | Zhongyuan Bao, Cunjie He et al. | Reasoning video object segmentation (ReVOS) requires segmenting the target specified by an impl… | [📄 2610.41257](https://arxiv.org/abs/2610.41257) `cs.CV` |
 | 2026-10-27 | **FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation** | Yijing Lin, Zhendong Mao et al. | Unified conditional image generation requires a single model to preserve different aspects of a… | [📄 2610.36545](https://arxiv.org/abs/2610.36545) `cs.CV` |
 | 2026-10-26 | **Diagnosing and Correcting Bias in MLLM for Long Video Understanding** | Xusheng Liang, Jianqiao Sun et al. | Long-video question answering is challenging since the answer often hinges on a few decisive mo… | [📄 2610.36210](https://arxiv.org/abs/2610.36210) `cs.CV` |
 | 2026-10-26 | **EARS: Evidence-Aware Retrieval via Sound and Motion for Budgeted Video Reasoning** | Shih-Yao Lin | Uniform frame sampling can miss brief evidence in sparse-event videos when the VLM sees only K… | [📄 2610.35536](https://arxiv.org/abs/2610.35536) `cs.CV` |

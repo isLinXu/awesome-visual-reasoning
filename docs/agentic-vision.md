@@ -71,6 +71,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-10-30 | **Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents** | Haoqing Wang, Xiaoyi Zhang et al. | Computer-use agents increasingly tackle tasks ranging from everyday desktop activities to long-… | [📄 2610.41432](https://arxiv.org/abs/2610.41432) `cs.HC` |
+| 2026-10-29 | **Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses** | Xiaoyi Zhang, Haoqing Wang et al. | Effective computer-use agents (CUAs) should seamlessly combine visual GUI interaction with code… | [📄 2610.40747](https://arxiv.org/abs/2610.40747) `cs.CL` |
 | 2026-10-29 | **What Does "Now" Mean to Your Computer-Use Agent? Stale Screenshots, Page Loads, and Which Check to Run Before a Click** | Vasundra Srinivasan | Computer-use agents plan on a screenshot for several seconds and then click at a position on th… | [📄 2610.39282](https://arxiv.org/abs/2610.39282) `cs.AI` |
 | 2026-10-27 | **GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents** | Bingchao Wang, Yongcheng Jing et al. | Mobile GUI agents are typically fine-tuned 7B-scale vision-language models (VLMs) that generate… | [📄 2610.36877](https://arxiv.org/abs/2610.36877) `cs.AI` |
 | 2026-10-27 | **PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions** | Tongkun Guan, Zhibo Yang et al. | Fine-grained visual perception remains a bottleneck during post-training of multimodal large la… | [📄 2610.37471](https://arxiv.org/abs/2610.37471) `cs.CV` |

@@ -68,6 +68,9 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-02 | **Lookahead Prediction-Guided Adaptive Visual Refocusing for Interleaved Multimodal Reasoning** | Mengzhao Wang, Yanli Ji et al. | Interleaved multimodal chain-of-thought reasoning improves the visual reasoning capabilities of… | [📄 2611.02780](https://arxiv.org/abs/2611.02780) `cs.CV` |
+| 2026-11-02 | **MIRA: Reinforcing Multimodal Reasoning via Deceptive Contextual Augmentation** | Zhihan Yin, Jianxin Liang et al. | While Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced multimod… | [📄 2611.03087](https://arxiv.org/abs/2611.03087) `cs.CV` |
+| 2026-11-02 | **R$^2$-Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation** | Bolong Feng, Pengfei Zhou et al. | Omni-modal large language models (Omni-LLMs) typically process large numbers of multimodal toke… | [📄 2611.03247](https://arxiv.org/abs/2611.03247) `cs.CV` |
 | 2026-10-30 | **Open-Weight MLLMs Cannot Compare What They Cannot Name** | Wenxin Su, Anna Kreshuk | Multimodal Large Language Models (MLLMs) are increasingly capable of understanding images and p… | [📄 2610.41841](https://arxiv.org/abs/2610.41841) `cs.CV` |
 | 2026-10-30 | **scAnyOmics: Foundation-Model Distillation for Any-to-Any Completion of Multi-omics Virtual Cells** | Zhaoqi Song, Ye Du et al. | Recent advances in single-cell technologies have enabled the profiling of multiple molecular mo… | [📄 2610.41399](https://arxiv.org/abs/2610.41399) `cs.AI` |
 | 2026-10-29 | **Grounding Multimodal Reasoning with Evidence-Ablated Negatives** | Chenxi Liu, Tianyi Xiong et al. | Reinforcement learning with verifiable rewards (RLVR) has become a powerful tool for improving… | [📄 2610.39237](https://arxiv.org/abs/2610.39237) `cs.CL` |
@@ -265,9 +268,6 @@ SFT（图文指令）
 | 2026-07-26 | **Offline-Online Curriculum RL for Multimodal Reasoning** | Wendi Deng, Hang Du et al. | Multimodal large language models exhibit capabilities on reasoning tasks... | [📄 2607.23700](https://arxiv.org/abs/2607.23700) `cs.AI` |
 | 2026-07-20 | **Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection** | Haochen Zhao, Yongxiu Xu et al. | Multimodal video misinformation detection is commonly formulated as a holistic video-understand... | [📄 2607.18080](https://arxiv.org/abs/2607.18080) `cs.CV` |
 | 2026-07-17 | **HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying Detection** | Bhavana Verma, Priyanka Meel et al. | Multimodal sarcasm and cyberbullying detection remain challenging because the intended meaning... | [📄 2607.16076](https://arxiv.org/abs/2607.16076) `cs.CV` |
-| 2026-07-16 | **Hierarchical Denoising For Multi-Step Visual Reasoning** | Zezhong Qian, Xiaowei Chi et al. | Video models are evolving into vision foundation models... | [📄 2607.15278](https://arxiv.org/abs/2607.15278) `cs.CV` |
-| 2026-07-15 | **SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning** | Cheng Tang, Junzhi Ning et al. | Reinforcement learning with verifiable rewards (RLVR) drives multimodal reasoning... | [📄 2607.13931](https://arxiv.org/abs/2607.13931) `cs.CV` |
-| 2026-07-15 | **RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination** | Haotian Liang, Mingkang Chen et al. | Embodied cognition requires agents to connect high-level task reasoning with the physical state... | [📄 2607.14187](https://arxiv.org/abs/2607.14187) `cs.AI` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

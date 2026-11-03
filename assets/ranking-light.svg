@@ -10,47 +10,47 @@
 <text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+584</text>
 <text x="24" y="109" font-size="12" fill="#0F172A">ComputerUseAgent/AutoCua</text>
 <rect x="264" y="98" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="98" width="599.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+434</text>
-<text x="24" y="139" font-size="12" fill="#0F172A">ctoldigital/axuse</text>
+<rect x="264" y="98" width="662.5" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+480</text>
+<text x="24" y="139" font-size="12" fill="#0F172A">vercel-labs/agent-desktop</text>
 <rect x="264" y="128" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="128" width="361.6" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+262</text>
-<text x="24" y="169" font-size="12" fill="#0F172A">vercel-labs/agent-desktop</text>
+<rect x="264" y="128" width="415.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+301</text>
+<text x="24" y="169" font-size="12" fill="#0F172A">ctoldigital/axuse</text>
 <rect x="264" y="158" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="158" width="282.9" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+205</text>
+<rect x="264" y="158" width="339.5" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+246</text>
 <text x="24" y="199" font-size="12" fill="#0F172A">reacher-z/Awesome-CUA</text>
 <rect x="264" y="188" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="188" width="215.3" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+156</text>
-<text x="24" y="229" font-size="12" fill="#0F172A">vllm-project/vllm-omni</text>
+<rect x="264" y="188" width="222.2" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+161</text>
+<text x="24" y="229" font-size="12" fill="#0F172A">bytedance/UI-TARS-desktop</text>
 <rect x="264" y="218" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="218" width="178.0" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+129</text>
-<text x="24" y="259" font-size="12" fill="#0F172A">bytedance/UI-TARS-desktop</text>
+<rect x="264" y="218" width="189.1" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+137</text>
+<text x="24" y="259" font-size="12" fill="#0F172A">vllm-project/vllm-omni</text>
 <rect x="264" y="248" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="248" width="176.7" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+128</text>
+<rect x="264" y="248" width="169.8" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+123</text>
 <text x="24" y="289" font-size="12" fill="#0F172A">simular-ai/Agent-S</text>
 <rect x="264" y="278" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="278" width="156.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+113</text>
+<rect x="264" y="278" width="135.3" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+98</text>
 <text x="24" y="319" font-size="12" fill="#0F172A">uclanlp/OpenVLHarness</text>
 <rect x="264" y="308" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="308" width="128.4" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+93</text>
+<rect x="264" y="308" width="117.3" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+85</text>
 <text x="24" y="349" font-size="12" fill="#0F172A">nv-tlabs/PixelUMM</text>
 <rect x="264" y="338" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="338" width="104.9" height="16" rx="5" fill="#F59E0B"/>
-<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+76</text>
-<text x="24" y="379" font-size="12" fill="#0F172A">Tongyi-MAI/OpenGCUA</text>
+<rect x="264" y="338" width="110.4" height="16" rx="5" fill="#F59E0B"/>
+<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+80</text>
+<text x="24" y="379" font-size="12" fill="#0F172A">OpenBMB/MiniCPM-V</text>
 <rect x="264" y="368" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="368" width="102.1" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+74</text>
-<text x="24" y="409" font-size="12" fill="#0F172A">OpenBMB/MiniCPM-V</text>
+<rect x="264" y="368" width="109.0" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+79</text>
+<text x="24" y="409" font-size="12" fill="#0F172A">skalesapp/skales</text>
 <rect x="264" y="398" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="398" width="100.8" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+73</text>
+<rect x="264" y="398" width="89.7" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+65</text>
 </g>
 </svg>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T07:58:24Z",
+  "updated": "2026-11-03T08:19:22Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -8757,6 +8757,193 @@
       "score": 6.0,
       "primary_category": "cs.AI",
       "first_seen": "2026-10-30"
+    },
+    "2611.03238": {
+      "title": "ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.03238",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 10.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-02"
+    },
+    "2611.03634": {
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.03634",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-02"
+    },
+    "2611.03126": {
+      "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.03126",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-02"
+    },
+    "2611.02102": {
+      "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+      "published": "2026-11-01",
+      "url": "https://arxiv.org/abs/2611.02102",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 9.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-01"
+    },
+    "2611.00191": {
+      "title": "MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions",
+      "published": "2026-10-30",
+      "url": "https://arxiv.org/abs/2611.00191",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-10-30"
+    },
+    "2611.03602": {
+      "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.03602",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 5.0,
+      "primary_category": "",
+      "first_seen": "2026-11-02"
+    },
+    "2611.01913": {
+      "title": "SurgQ-VLM: Question-Conditioned Dual-Stream Compression and Answer-Type-Aware Reinforcement for Surgical Video Question Answering",
+      "published": "2026-11-01",
+      "url": "https://arxiv.org/abs/2611.01913",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-01"
+    },
+    "2611.01263": {
+      "title": "StreamClarify: Proactive Clarification for Grounded Streaming Video Question Answering",
+      "published": "2026-10-31",
+      "url": "https://arxiv.org/abs/2611.01263",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 10.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-31"
+    },
+    "2611.00507": {
+      "title": "Selecting or Solving? What Best-of-N Verification Delivers in Video Reasoning",
+      "published": "2026-10-31",
+      "url": "https://arxiv.org/abs/2611.00507",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-31"
+    },
+    "2611.00769": {
+      "title": "DramaVQA: Probing Detailed Understanding of Ultra-Long TV Dramas",
+      "published": "2026-10-31",
+      "url": "https://arxiv.org/abs/2611.00769",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-31"
+    },
+    "2611.00050": {
+      "title": "ReactionBench: A Human-Anchored Benchmark for Modeling Reactions to Video",
+      "published": "2026-10-11",
+      "url": "https://arxiv.org/abs/2611.00050",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-11"
+    },
+    "2611.02780": {
+      "title": "Lookahead Prediction-Guided Adaptive Visual Refocusing for Interleaved Multimodal Reasoning",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.02780",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 12.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-02"
+    },
+    "2611.03087": {
+      "title": "MIRA: Reinforcing Multimodal Reasoning via Deceptive Contextual Augmentation",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.03087",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 11.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-02"
+    },
+    "2611.03247": {
+      "title": "R$^2$-Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.03247",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-02"
+    },
+    "2611.02284": {
+      "title": "SVD-Prune: Spectral Vision Token Pruning under Extreme Compression",
+      "published": "2026-11-01",
+      "url": "https://arxiv.org/abs/2611.02284",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-01"
+    },
+    "2611.01252": {
+      "title": "Context-Shielded Backdoor Attack against Large Vision-Language Models",
+      "published": "2026-10-31",
+      "url": "https://arxiv.org/abs/2611.01252",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-31"
+    },
+    "2611.00058": {
+      "title": "CausalPrune: Counterfactual Causal Token Pruning for Efficient Large Vision-Language Models",
+      "published": "2026-10-12",
+      "url": "https://arxiv.org/abs/2611.00058",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 8.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-10-12"
     }
   }
 }

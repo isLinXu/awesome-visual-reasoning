@@ -64,6 +64,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-03 | **BtsPruner: Role-Aware Visual Token Pruning for Large Vision-Language Models** | Zihao Qi, Zhibo Zhang et al. | Large Vision-Language Models (LVLMs) often process hundreds or thousands of visual tokens… | [📄 2611.04537](https://arxiv.org/abs/2611.04537) `cs.CV` |
 | 2026-11-01 | **SVD-Prune: Spectral Vision Token Pruning under Extreme Compression** | Yvon Apedo, Martyna Poreba et al. | Vision-Language Models (VLMs) and Vision-Language-Action (VLA) models process hundreds of visua… | [📄 2611.02284](https://arxiv.org/abs/2611.02284) `cs.CV` |
 | 2026-10-31 | **Context-Shielded Backdoor Attack against Large Vision-Language Models** | Zhifang Zhang, Qiang Huang et al. | Large vision-language models (LVLMs) routinely use inference-time visual-token compression to p… | [📄 2611.01252](https://arxiv.org/abs/2611.01252) `cs.CV` |
 | 2026-10-12 | **CausalPrune: Counterfactual Causal Token Pruning for Efficient Large Vision-Language Models** | Pengcheng Zheng, Chaoning Zhang et al. | Large Vision-Language Models (LVLMs) have achieved remarkable progress in multimodal understand… | [📄 2611.00058](https://arxiv.org/abs/2611.00058) `cs.CV` |

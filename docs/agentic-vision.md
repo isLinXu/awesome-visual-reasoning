@@ -71,6 +71,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-02 | **Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials** | Anh Nguyen, Tianyi Xu et al. | Recent work has improved computer-use agents (CUAs) by combining retrieved task-relevant tutori… | [📄 2611.04073](https://arxiv.org/abs/2611.04073) `cs.LG` |
+| 2026-10-29 | **Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents** | Yuxiang Chai, Quyu Kong et al. | Trajectory-level GRPO is a common approach for training multi-step GUI agents… | [📄 2610.39251](https://arxiv.org/abs/2610.39251) 🤗 |
+| 2026-10-25 | **LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends** | Zhaojian Yu | Visual agents need to coordinate reasoning and action while their environment evolves during in… | [📄 2611.03685](https://arxiv.org/abs/2611.03685) `cs.AI` [💻](https://github.com/answers111/LOLPlay) |
 | 2026-11-02 | **ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents** | Daiqiang Li, Jingyi Peng et al. | Computer-use agents for scientific software require application-specific expertise… | [📄 2611.03238](https://arxiv.org/abs/2611.03238) `cs.AI` |
 | 2026-11-02 | **WebHarbor: Docking Real Websites for Evolving GUI Agent Environments** | Zhaoyang Wang, Qianhui Wu et al. | GUI web agents require realistic and interactive environments that remain stable during both ev… | [📄 2611.03634](https://arxiv.org/abs/2611.03634) `cs.AI` |
 | 2026-11-02 | **CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements** | Xinlei Yu, Gen Li et al. | Despite recent advances in CUAs, their development remains constrained by the limited diversity… | [📄 2611.03126](https://arxiv.org/abs/2611.03126) `cs.AI` [💻](https://github.com/xlyu0106/CUA-Master) |

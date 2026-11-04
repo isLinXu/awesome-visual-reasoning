@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T08:19:22Z",
+  "updated": "2026-11-04T07:48:16Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -8944,6 +8944,116 @@
       "score": 8.5,
       "primary_category": "cs.CV",
       "first_seen": "2026-10-12"
+    },
+    "2611.04943": {
+      "title": "Learning Where to Look: Observation Policy Optimization for Thinking with Images",
+      "published": "2026-11-03",
+      "url": "https://arxiv.org/abs/2611.04943",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-03"
+    },
+    "2611.04073": {
+      "title": "Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.04073",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-02"
+    },
+    "2610.39251": {
+      "title": "Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents",
+      "published": "2026-10-29",
+      "url": "https://arxiv.org/abs/2610.39251",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "",
+      "first_seen": "2026-10-29"
+    },
+    "2611.03685": {
+      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+      "published": "2026-10-25",
+      "url": "https://arxiv.org/abs/2611.03685",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 9.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-10-25"
+    },
+    "2611.04472": {
+      "title": "Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation",
+      "published": "2026-11-03",
+      "url": "https://arxiv.org/abs/2611.04472",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-03"
+    },
+    "2611.04728": {
+      "title": "SPOD: Recovering Suppressed Temporal Evidence in Video-LLMs via Single-Pass Orthogonal Decomposition",
+      "published": "2026-11-03",
+      "url": "https://arxiv.org/abs/2611.04728",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 5.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-03"
+    },
+    "2611.05280": {
+      "title": "YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction",
+      "published": "2026-11-03",
+      "url": "https://arxiv.org/abs/2611.05280",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 5.0,
+      "primary_category": "",
+      "first_seen": "2026-11-03"
+    },
+    "2611.05275": {
+      "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+      "published": "2026-11-03",
+      "url": "https://arxiv.org/abs/2611.05275",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-03"
+    },
+    "2611.05377": {
+      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "published": "2026-11-03",
+      "url": "https://arxiv.org/abs/2611.05377",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-03"
+    },
+    "2611.04537": {
+      "title": "BtsPruner: Role-Aware Visual Token Pruning for Large Vision-Language Models",
+      "published": "2026-11-03",
+      "url": "https://arxiv.org/abs/2611.04537",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-03"
     }
   }
 }

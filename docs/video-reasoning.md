@@ -75,6 +75,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-03 | **Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation** | Jun Huang, Junyang Zhang et al. | Video Reasoning Segmentation (VRS) aims to infer and segment target objects specified by reason… | [📄 2611.04472](https://arxiv.org/abs/2611.04472) `cs.CV` |
+| 2026-11-03 | **SPOD: Recovering Suppressed Temporal Evidence in Video-LLMs via Single-Pass Orthogonal Decomposition** | Yangguang Lin, Quan Fang et al. | Video Large Language Models (Video-LLMs) have achieved strong performance on many video underst… | [📄 2611.04728](https://arxiv.org/abs/2611.04728) `cs.CV` |
 | 2026-11-02 | **Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning** | Tengfei Liu, Yang Shi et al. | Multimodal large language models (MLLMs) can generate detailed video captions… | [📄 2611.03602](https://arxiv.org/abs/2611.03602) 🤗 |
 | 2026-11-01 | **SurgQ-VLM: Question-Conditioned Dual-Stream Compression and Answer-Type-Aware Reinforcement for Surgical Video Question Answering** | Dhruv Makwana, Ananya Mantravadi | Reasoning about surgical video -- which phase is underway, which instruments act… | [📄 2611.01913](https://arxiv.org/abs/2611.01913) `cs.CV` |
 | 2026-10-31 | **StreamClarify: Proactive Clarification for Grounded Streaming Video Question Answering** | Zhuchen Shao, Bo Chen et al. | Streaming video question answering (QA) requires real-time reasoning over continuous video stre… | [📄 2611.01263](https://arxiv.org/abs/2611.01263) `cs.CV` |

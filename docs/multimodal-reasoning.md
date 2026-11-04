@@ -68,6 +68,9 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-03 | **YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction** | Shengyu Wang, Tengyue Nong et al. | Unified Multimodal Models (UMMs) integrate visual understanding, generation… | [📄 2611.05280](https://arxiv.org/abs/2611.05280) 🤗 |
+| 2026-11-03 | **Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems** | Pengfei Zhou, Yixing Ma et al. | Artificial general intelligence (AGI) requires a method that can understand, generate, reason… | [📄 2611.05275](https://arxiv.org/abs/2611.05275) `cs.CV` [💻](https://github.com/InfRec-Cardinal/route-anything) |
+| 2026-11-03 | **DreamX: Video Diffusion Model is a Universal Latent Action Learner** | Jisoo Kim, Chaehyun Kim et al. | Learning a universal action representation from video requires modeling dynamics that are consi… | [📄 2611.05377](https://arxiv.org/abs/2611.05377) `cs.CV` |
 | 2026-11-02 | **Lookahead Prediction-Guided Adaptive Visual Refocusing for Interleaved Multimodal Reasoning** | Mengzhao Wang, Yanli Ji et al. | Interleaved multimodal chain-of-thought reasoning improves the visual reasoning capabilities of… | [📄 2611.02780](https://arxiv.org/abs/2611.02780) `cs.CV` |
 | 2026-11-02 | **MIRA: Reinforcing Multimodal Reasoning via Deceptive Contextual Augmentation** | Zhihan Yin, Jianxin Liang et al. | While Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced multimod… | [📄 2611.03087](https://arxiv.org/abs/2611.03087) `cs.CV` |
 | 2026-11-02 | **R$^2$-Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation** | Bolong Feng, Pengfei Zhou et al. | Omni-modal large language models (Omni-LLMs) typically process large numbers of multimodal toke… | [📄 2611.03247](https://arxiv.org/abs/2611.03247) `cs.CV` |
@@ -265,9 +268,6 @@ SFT（图文指令）
 | 2026-07-28 | **Visual prompt engineering for video models** | Robert Geirhos, Yuxuan Li et al. | In the age of foundation models, a model is only as good as its prompt... | [📄 2607.25537](https://arxiv.org/abs/2607.25537) `cs.CV` |
 | 2026-07-27 | **MAViE: A Multi-scale Adaptive Vision Encoder for Fine-grained Visual Perception and Efficient Multimodal Reasoning** | Shaofei Lei | Vision-language models commonly project all tokens produced by a pretrained vision encoder into... | [📄 2607.24424](https://arxiv.org/abs/2607.24424) `cs.CV` |
 | 2026-07-27 | **DICA: Dual-Indicator Guided Contrastive Alignment in Multimodal Large Language Models** | Hao Yang, Jin Wang et al. | Human visual reasoning typically follows a coarse-to-fine attention process... | [📄 2607.23944](https://arxiv.org/abs/2607.23944) `cs.AI` |
-| 2026-07-26 | **Offline-Online Curriculum RL for Multimodal Reasoning** | Wendi Deng, Hang Du et al. | Multimodal large language models exhibit capabilities on reasoning tasks... | [📄 2607.23700](https://arxiv.org/abs/2607.23700) `cs.AI` |
-| 2026-07-20 | **Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection** | Haochen Zhao, Yongxiu Xu et al. | Multimodal video misinformation detection is commonly formulated as a holistic video-understand... | [📄 2607.18080](https://arxiv.org/abs/2607.18080) `cs.CV` |
-| 2026-07-17 | **HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying Detection** | Bhavana Verma, Priyanka Meel et al. | Multimodal sarcasm and cyberbullying detection remain challenging because the intended meaning... | [📄 2607.16076](https://arxiv.org/abs/2607.16076) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

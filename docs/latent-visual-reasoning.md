@@ -93,6 +93,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-04 | **Learning When to Think Aloud in Latent Reasoning** | Zhehao Zhou, Tongrui Su et al. | Latent Chain-of-Thought (CoT) reasoning improves efficiency by shifting intermediate computatio… | [📄 2611.06108](https://arxiv.org/abs/2611.06108) `cs.LG` |
 | 2026-11-03 | **Learning Where to Look: Observation Policy Optimization for Thinking with Images** | Junfeng Wang, Jiawei Liu et al. | Complex visual question answering often requires vision-language models to think with images… | [📄 2611.04943](https://arxiv.org/abs/2611.04943) `cs.CV` |
 | 2026-10-27 | **Latent Visual Contrastive Reasoning with Multi-Branch Exploration** | Kegeng Tang, Jingbo Wang et al. | Multimodal large language models have made substantial progress in visual question answering… | [📄 2610.36809](https://arxiv.org/abs/2610.36809) `cs.CV` |
 | 2026-10-26 | **Joint Latent Reasoning and Observation for Agentic Video Understanding** | Junzhang Liu, Hao Yuan et al. | Effective video agents must learn not only how to answer, but also where to look next… | [📄 2610.35229](https://arxiv.org/abs/2610.35229) `cs.CV` |

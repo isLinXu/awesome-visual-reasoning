@@ -64,6 +64,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-04 | **RI-Prune: Relation and Information Aware Visual Token Pruning for Multi-Image Vision-Language Models** | Dongjin Lee, Eunju Lee et al. | Large vision-language models (LVLMs) have recently been extended to handle multiple input image… | [📄 2611.06047](https://arxiv.org/abs/2611.06047) `cs.CV` |
+| 2026-11-04 | **Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs** | Muhammad Danish Waseem, Ahmed Ali-Eldin Hassan | Vision-language-action (VLA) models map camera observations and language instructions to robot… | [📄 2611.06710](https://arxiv.org/abs/2611.06710) `cs.RO` |
 | 2026-11-03 | **BtsPruner: Role-Aware Visual Token Pruning for Large Vision-Language Models** | Zihao Qi, Zhibo Zhang et al. | Large Vision-Language Models (LVLMs) often process hundreds or thousands of visual tokens… | [📄 2611.04537](https://arxiv.org/abs/2611.04537) `cs.CV` |
 | 2026-11-01 | **SVD-Prune: Spectral Vision Token Pruning under Extreme Compression** | Yvon Apedo, Martyna Poreba et al. | Vision-Language Models (VLMs) and Vision-Language-Action (VLA) models process hundreds of visua… | [📄 2611.02284](https://arxiv.org/abs/2611.02284) `cs.CV` |
 | 2026-10-31 | **Context-Shielded Backdoor Attack against Large Vision-Language Models** | Zhifang Zhang, Qiang Huang et al. | Large vision-language models (LVLMs) routinely use inference-time visual-token compression to p… | [📄 2611.01252](https://arxiv.org/abs/2611.01252) `cs.CV` |

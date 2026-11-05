@@ -75,6 +75,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-04 | **SpikePose: Lightweight Video Human Pose Estimation** | Yunhao Huang, Kaushik Bhargav Sivangi et al. | Efficient video human pose estimation must balance localisation accuracy, motion quality… | [📄 2611.06594](https://arxiv.org/abs/2611.06594) `cs.CV` |
 | 2026-11-03 | **Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation** | Jun Huang, Junyang Zhang et al. | Video Reasoning Segmentation (VRS) aims to infer and segment target objects specified by reason… | [📄 2611.04472](https://arxiv.org/abs/2611.04472) `cs.CV` |
 | 2026-11-03 | **SPOD: Recovering Suppressed Temporal Evidence in Video-LLMs via Single-Pass Orthogonal Decomposition** | Yangguang Lin, Quan Fang et al. | Video Large Language Models (Video-LLMs) have achieved strong performance on many video underst… | [📄 2611.04728](https://arxiv.org/abs/2611.04728) `cs.CV` |
 | 2026-11-02 | **Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning** | Tengfei Liu, Yang Shi et al. | Multimodal large language models (MLLMs) can generate detailed video captions… | [📄 2611.03602](https://arxiv.org/abs/2611.03602) 🤗 |

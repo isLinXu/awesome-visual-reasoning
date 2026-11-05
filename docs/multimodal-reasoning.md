@@ -68,6 +68,7 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-04 | **Benchmarking Fine-Grained Visual Reasoning for Remote Sensing in Urban Management** | Jiawei Zhang, Rizhao Cai et al. | Fine-grained visual reasoning is essential for remote sensing in urban management… | [📄 2611.06770](https://arxiv.org/abs/2611.06770) `cs.CV` |
 | 2026-11-03 | **YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction** | Shengyu Wang, Tengyue Nong et al. | Unified Multimodal Models (UMMs) integrate visual understanding, generation… | [📄 2611.05280](https://arxiv.org/abs/2611.05280) 🤗 |
 | 2026-11-03 | **Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems** | Pengfei Zhou, Yixing Ma et al. | Artificial general intelligence (AGI) requires a method that can understand, generate, reason… | [📄 2611.05275](https://arxiv.org/abs/2611.05275) `cs.CV` [💻](https://github.com/InfRec-Cardinal/route-anything) |
 | 2026-11-03 | **DreamX: Video Diffusion Model is a Universal Latent Action Learner** | Jisoo Kim, Chaehyun Kim et al. | Learning a universal action representation from video requires modeling dynamics that are consi… | [📄 2611.05377](https://arxiv.org/abs/2611.05377) `cs.CV` |
@@ -267,7 +268,6 @@ SFT（图文指令）
 | 2026-07-28 | **Beyond Zooming: Learning Multi-Tool Visual Reasoning for Ultra-High-Resolution Remote Sensing** | Fengxiang Wang, Jiangnan Huang et al. | Ultra-high-resolution (UHR) remote-sensing (RS) imagery provides fine-grained Earth-observation... | [📄 2607.25993](https://arxiv.org/abs/2607.25993) `cs.CV` |
 | 2026-07-28 | **Visual prompt engineering for video models** | Robert Geirhos, Yuxuan Li et al. | In the age of foundation models, a model is only as good as its prompt... | [📄 2607.25537](https://arxiv.org/abs/2607.25537) `cs.CV` |
 | 2026-07-27 | **MAViE: A Multi-scale Adaptive Vision Encoder for Fine-grained Visual Perception and Efficient Multimodal Reasoning** | Shaofei Lei | Vision-language models commonly project all tokens produced by a pretrained vision encoder into... | [📄 2607.24424](https://arxiv.org/abs/2607.24424) `cs.CV` |
-| 2026-07-27 | **DICA: Dual-Indicator Guided Contrastive Alignment in Multimodal Large Language Models** | Hao Yang, Jin Wang et al. | Human visual reasoning typically follows a coarse-to-fine attention process... | [📄 2607.23944](https://arxiv.org/abs/2607.23944) `cs.AI` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

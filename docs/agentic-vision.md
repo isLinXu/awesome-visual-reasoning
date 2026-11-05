@@ -71,6 +71,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-04 | **Visual Token Routing: Learning to keep tokens that matter** | Pranjal Aggarwal, Sean Welleck | Computer-use agents (CUAs) have recently achieved superhuman performance on several long-horizo… | [📄 2611.06854](https://arxiv.org/abs/2611.06854) `cs.CV` |
+| 2026-11-04 | **Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces** | Shubhabrata Mukherjee, Jeffrey Donatelli et al. | Scientific image-analysis workflows require agents to select among diverse capabilities like de… | [📄 2611.06760](https://arxiv.org/abs/2611.06760) `cs.CV` |
 | 2026-11-02 | **Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials** | Anh Nguyen, Tianyi Xu et al. | Recent work has improved computer-use agents (CUAs) by combining retrieved task-relevant tutori… | [📄 2611.04073](https://arxiv.org/abs/2611.04073) `cs.LG` |
 | 2026-10-29 | **Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents** | Yuxiang Chai, Quyu Kong et al. | Trajectory-level GRPO is a common approach for training multi-step GUI agents… | [📄 2610.39251](https://arxiv.org/abs/2610.39251) 🤗 |
 | 2026-10-25 | **LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends** | Zhaojian Yu | Visual agents need to coordinate reasoning and action while their environment evolves during in… | [📄 2611.03685](https://arxiv.org/abs/2611.03685) `cs.AI` [💻](https://github.com/answers111/LOLPlay) |

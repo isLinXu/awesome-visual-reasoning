@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:48:16Z",
+  "updated": "2026-11-05T08:13:54Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9054,6 +9054,83 @@
       "score": 7.5,
       "primary_category": "cs.CV",
       "first_seen": "2026-11-03"
+    },
+    "2611.06108": {
+      "title": "Learning When to Think Aloud in Latent Reasoning",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06108",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 9.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-04"
+    },
+    "2611.06854": {
+      "title": "Visual Token Routing: Learning to keep tokens that matter",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06854",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 5.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-04"
+    },
+    "2611.06760": {
+      "title": "Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06760",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-04"
+    },
+    "2611.06594": {
+      "title": "SpikePose: Lightweight Video Human Pose Estimation",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06594",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-04"
+    },
+    "2611.06770": {
+      "title": "Benchmarking Fine-Grained Visual Reasoning for Remote Sensing in Urban Management",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06770",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 8.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-04"
+    },
+    "2611.06047": {
+      "title": "RI-Prune: Relation and Information Aware Visual Token Pruning for Multi-Image Vision-Language Models",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06047",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-04"
+    },
+    "2611.06710": {
+      "title": "Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs",
+      "published": "2026-11-04",
+      "url": "https://arxiv.org/abs/2611.06710",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.RO",
+      "first_seen": "2026-11-04"
     }
   }
 }

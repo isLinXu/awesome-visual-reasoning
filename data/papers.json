@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T08:13:54Z",
+  "updated": "2026-11-06T08:17:21Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9131,6 +9131,50 @@
       "score": 4.5,
       "primary_category": "cs.RO",
       "first_seen": "2026-11-04"
+    },
+    "2611.07836": {
+      "title": "THG-Omni: Traceable Human-Centric Graph Supervision for Video Reasoning",
+      "published": "2026-11-05",
+      "url": "https://arxiv.org/abs/2611.07836",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-05"
+    },
+    "2611.07551": {
+      "title": "Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion",
+      "published": "2026-11-05",
+      "url": "https://arxiv.org/abs/2611.07551",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 8.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-05"
+    },
+    "2611.08413": {
+      "title": "T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models",
+      "published": "2026-11-05",
+      "url": "https://arxiv.org/abs/2611.08413",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.RO",
+      "first_seen": "2026-11-05"
+    },
+    "2611.07613": {
+      "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
+      "published": "2026-11-05",
+      "url": "https://arxiv.org/abs/2611.07613",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-05"
     }
   }
 }

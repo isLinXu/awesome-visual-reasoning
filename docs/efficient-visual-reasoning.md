@@ -64,6 +64,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-06 | **ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models** | Sungwon Moon, Minji Kim et al. | Vision-language-action (VLA) models perform versatile manipulation tasks from language instruct… | [📄 2611.08827](https://arxiv.org/abs/2611.08827) `cs.RO` |
 | 2026-11-05 | **Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion** | Jia Li, Xurui Peng et al. | Few-step autoregressive (AR) video diffusion models generate videos chunk by chunk and have mad… | [📄 2611.07551](https://arxiv.org/abs/2611.07551) `cs.CV` |
 | 2026-11-05 | **T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models** | Mohammed Hassan, Zhenyang Chen et al. | Vision-Language-Action (VLA) models enable end-to-end robot control… | [📄 2611.08413](https://arxiv.org/abs/2611.08413) `cs.RO` |
 | 2026-11-05 | **Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation** | Kotaro Oishi, Kazuma Ikeda et al. | LiDAR is a critical sensor for autonomous driving and robotics… | [📄 2611.07613](https://arxiv.org/abs/2611.07613) `cs.CV` |

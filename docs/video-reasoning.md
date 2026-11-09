@@ -75,6 +75,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-06 | **AdaAlloc: Adaptive Visual Token Allocation for Long-Video Question Answering** | Joungbin An, Kristen Grauman | Long-video question answering forces multimodal large language models to reason under strict vi… | [📄 2611.09092](https://arxiv.org/abs/2611.09092) `cs.CV` |
+| 2026-11-06 | **V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning** | Dian Jiao, Yuqian Yuan et al. | While MLLMs can often identify what happens in a video… | [📄 2611.09511](https://arxiv.org/abs/2611.09511) `cs.CV` |
+| 2026-11-06 | **Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking** | Phuong T. Nguyen, Hao Vo et al. | Referring multi-object tracking enables users to specify targets through natural language… | [📄 2611.08976](https://arxiv.org/abs/2611.08976) `cs.CV` |
 | 2026-11-05 | **THG-Omni: Traceable Human-Centric Graph Supervision for Video Reasoning** | Jisheng Dang, Kai Wei et al. | Omni-modal models can answer questions about video… | [📄 2611.07836](https://arxiv.org/abs/2611.07836) `cs.CV` |
 | 2026-11-04 | **SpikePose: Lightweight Video Human Pose Estimation** | Yunhao Huang, Kaushik Bhargav Sivangi et al. | Efficient video human pose estimation must balance localisation accuracy, motion quality… | [📄 2611.06594](https://arxiv.org/abs/2611.06594) `cs.CV` |
 | 2026-11-03 | **Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation** | Jun Huang, Junyang Zhang et al. | Video Reasoning Segmentation (VRS) aims to infer and segment target objects specified by reason… | [📄 2611.04472](https://arxiv.org/abs/2611.04472) `cs.CV` |

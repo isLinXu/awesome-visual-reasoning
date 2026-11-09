@@ -7,50 +7,50 @@
 <text x="24" y="79" font-size="12" fill="#E6EDF3">vercel-labs/agent-desktop</text>
 <rect x="264" y="68" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
 <rect x="264" y="68" width="806.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+14,038</text>
+<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+12,415</text>
 <text x="24" y="109" font-size="12" fill="#E6EDF3">trycua/cua</text>
 <rect x="264" y="98" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="98" width="30.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+522</text>
+<rect x="264" y="98" width="32.1" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+494</text>
 <text x="24" y="139" font-size="12" fill="#E6EDF3">reacher-z/Awesome-CUA</text>
 <rect x="264" y="128" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="128" width="12.7" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+222</text>
+<rect x="264" y="128" width="15.8" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+243</text>
 <text x="24" y="169" font-size="12" fill="#E6EDF3">vllm-project/vllm-omni</text>
 <rect x="264" y="158" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="158" width="9.2" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+160</text>
-<text x="24" y="199" font-size="12" fill="#E6EDF3">ComputerUseAgent/AutoCua</text>
+<rect x="264" y="158" width="10.2" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+157</text>
+<text x="24" y="199" font-size="12" fill="#E6EDF3">uclanlp/OpenVLHarness</text>
 <rect x="264" y="188" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="188" width="4.9" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+86</text>
-<text x="24" y="229" font-size="12" fill="#E6EDF3">ctoldigital/axuse</text>
+<rect x="264" y="188" width="5.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+83</text>
+<text x="24" y="229" font-size="12" fill="#E6EDF3">bytedance/UI-TARS-desktop</text>
 <rect x="264" y="218" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="218" width="4.9" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+85</text>
-<text x="24" y="259" font-size="12" fill="#E6EDF3">uclanlp/OpenVLHarness</text>
+<rect x="264" y="218" width="4.5" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+69</text>
+<text x="24" y="259" font-size="12" fill="#E6EDF3">simular-ai/Agent-S</text>
 <rect x="264" y="248" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="248" width="4.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+79</text>
-<text x="24" y="289" font-size="12" fill="#E6EDF3">bytedance/UI-TARS-desktop</text>
+<rect x="264" y="248" width="3.8" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+59</text>
+<text x="24" y="289" font-size="12" fill="#E6EDF3">OpenBMB/MiniCPM-V</text>
 <rect x="264" y="278" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="278" width="4.3" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+75</text>
-<text x="24" y="319" font-size="12" fill="#E6EDF3">AMAP-ML/LongHorizon-Harness</text>
+<rect x="264" y="278" width="3.8" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+58</text>
+<text x="24" y="319" font-size="12" fill="#E6EDF3">ctoldigital/axuse</text>
 <rect x="264" y="308" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="308" width="3.6" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+63</text>
-<text x="24" y="349" font-size="12" fill="#E6EDF3">simular-ai/Agent-S</text>
+<rect x="264" y="308" width="3.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+53</text>
+<text x="24" y="349" font-size="12" fill="#E6EDF3">AMAP-ML/LongHorizon-Harness</text>
 <rect x="264" y="338" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="338" width="3.3" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+58</text>
-<text x="24" y="379" font-size="12" fill="#E6EDF3">nv-tlabs/PixelUMM</text>
+<rect x="264" y="338" width="3.2" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+49</text>
+<text x="24" y="379" font-size="12" fill="#E6EDF3">agent-sh/computer-use-linux</text>
 <rect x="264" y="368" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="368" width="3.2" height="16" rx="5" fill="#F59E0B"/>
-<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+55</text>
-<text x="24" y="409" font-size="12" fill="#E6EDF3">agent-sh/computer-use-linux</text>
+<rect x="264" y="368" width="3.0" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+46</text>
+<text x="24" y="409" font-size="12" fill="#E6EDF3">nv-tlabs/PixelUMM</text>
 <rect x="264" y="398" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="398" width="3.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+47</text>
+<rect x="264" y="398" width="3.0" height="16" rx="5" fill="#F59E0B"/>
+<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+45</text>
 </g>
 </svg>

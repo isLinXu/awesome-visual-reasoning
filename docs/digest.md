@@ -1,17 +1,17 @@
 # 📬 自动周报 / Digest
 
-> 本文件由 `scripts/update_metadata.py` 自动生成，最后更新 **2026-11-08**。
+> 本文件由 `scripts/update_metadata.py` 自动生成，最后更新 **2026-11-09**。
 > 统计窗口：收录「论文发布日」落在近 7 天内的条目（不是抓取日）。
 
 ## 概览
 
 | 指标 | 数值 |
 | :-- | --: |
-| 收录论文（全量库） | 834 |
-| 文档内可浏览条目 | 757 |
-| 近 7 天新发布 | 29 |
+| 收录论文（全量库） | 839 |
+| 文档内可浏览条目 | 762 |
+| 近 7 天新发布 | 31 |
 | 跟踪仓库 | 121 |
-| 跟踪仓库总 star | 338,679 |
+| 跟踪仓库总 star | 339,716 |
 
 ## 🧠 Latent Visual Reasoning · 近 7 天新发布 2 篇
 
@@ -20,22 +20,24 @@
 
 ## 🤖 Agentic Vision · 近 7 天新发布 7 篇
 
+- [Computer-Use Agents Are Embodied Generalists](https://arxiv.org/abs/2611.09847) · `2026-11-06` · score 8.5
 - [Visual Token Routing: Learning to keep tokens that matter](https://arxiv.org/abs/2611.06854) · `2026-11-04` · score 5.5
 - [Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces](https://arxiv.org/abs/2611.06760) · `2026-11-04` · score 4.5
 - [ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents](https://arxiv.org/abs/2611.03238) · `2026-11-02` · score 10.5
 - [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://arxiv.org/abs/2611.03634) · `2026-11-02` · score 8.0
 - [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://arxiv.org/abs/2611.03126) · `2026-11-02` · score 7.5
 - [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://arxiv.org/abs/2611.04073) · `2026-11-02` · score 7.0
-- [NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale](https://arxiv.org/abs/2611.02102) · `2026-11-01` · score 9.0
 
-## 🎬 Video Reasoning · 近 7 天新发布 6 篇
+## 🎬 Video Reasoning · 近 7 天新发布 8 篇
 
+- [AdaAlloc: Adaptive Visual Token Allocation for Long-Video Question Answering](https://arxiv.org/abs/2611.09092) · `2026-11-06` · score 12.5
+- [V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning](https://arxiv.org/abs/2611.09511) · `2026-11-06` · score 10.5
+- [Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking](https://arxiv.org/abs/2611.08976) · `2026-11-06` · score 5.0
 - [THG-Omni: Traceable Human-Centric Graph Supervision for Video Reasoning](https://arxiv.org/abs/2611.07836) · `2026-11-05` · score 7.0
 - [SpikePose: Lightweight Video Human Pose Estimation](https://arxiv.org/abs/2611.06594) · `2026-11-04` · score 4.0
 - [Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation](https://arxiv.org/abs/2611.04472) · `2026-11-03` · score 7.5
 - [SPOD: Recovering Suppressed Temporal Evidence in Video-LLMs via Single-Pass Orthogonal Decomposition](https://arxiv.org/abs/2611.04728) · `2026-11-03` · score 5.5
 - [Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning](https://arxiv.org/abs/2611.03602) · `2026-11-02` · score 5.0
-- [SurgQ-VLM: Question-Conditioned Dual-Stream Compression and Answer-Type-Aware Reinforcement for Surgical Video Question Answering](https://arxiv.org/abs/2611.01913) · `2026-11-01` · score 7.0
 
 ## 🌐 Multimodal Reasoning · 近 7 天新发布 7 篇
 
@@ -49,25 +51,25 @@
 
 ## ⚡ Efficient Visual Reasoning · 近 7 天新发布 7 篇
 
+- [ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models](https://arxiv.org/abs/2611.08827) · `2026-11-06` · score 8.5
 - [Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion](https://arxiv.org/abs/2611.07551) · `2026-11-05` · score 8.5
 - [T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models](https://arxiv.org/abs/2611.08413) · `2026-11-05` · score 4.0
 - [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](https://arxiv.org/abs/2611.07613) · `2026-11-05` · score 3.0
 - [RI-Prune: Relation and Information Aware Visual Token Pruning for Multi-Image Vision-Language Models](https://arxiv.org/abs/2611.06047) · `2026-11-04` · score 6.0
 - [Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs](https://arxiv.org/abs/2611.06710) · `2026-11-04` · score 4.5
 - [BtsPruner: Role-Aware Visual Token Pruning for Large Vision-Language Models](https://arxiv.org/abs/2611.04537) · `2026-11-03` · score 7.5
-- [SVD-Prune: Spectral Vision Token Pruning under Extreme Compression](https://arxiv.org/abs/2611.02284) · `2026-11-01` · score 6.0
 
 ## 🚀 仓库增速榜（近 7 天 star 增量）
 
 | 项目 | ⭐ | 7 日 Δ | 30 日 Δ | 赛道 |
 | :-- | --: | --: | --: | :-- |
-| [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | 19,121 | +14,038 | — | agentic-vision |
-| [**trycua/cua**](https://github.com/trycua/cua) | 31,968 | +522 | — | agentic-vision |
-| [**reacher-z/Awesome-CUA**](https://github.com/reacher-z/Awesome-CUA) | 572 | +222 | — | agentic-vision |
-| [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | 7,616 | +160 | — | multimodal-reasoning |
-| [**ComputerUseAgent/AutoCua**](https://github.com/ComputerUseAgent/AutoCua) | 1,104 | +86 | — | agentic-vision |
-| [**ctoldigital/axuse**](https://github.com/ctoldigital/axuse) | 803 | +85 | — | agentic-vision |
-| [**uclanlp/OpenVLHarness**](https://github.com/uclanlp/OpenVLHarness) | 417 | +79 | — | agentic-vision |
-| [**bytedance/UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | 39,570 | +75 | — | agentic-vision |
-| [**AMAP-ML/LongHorizon-Harness**](https://github.com/AMAP-ML/LongHorizon-Harness) | 1,857 | +63 | — | agentic-vision |
-| [**simular-ai/Agent-S**](https://github.com/simular-ai/Agent-S) | 12,903 | +58 | — | agentic-vision |
+| [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | 19,897 | +12,415 | — | agentic-vision |
+| [**trycua/cua**](https://github.com/trycua/cua) | 32,043 | +494 | — | agentic-vision |
+| [**reacher-z/Awesome-CUA**](https://github.com/reacher-z/Awesome-CUA) | 622 | +243 | — | agentic-vision |
+| [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | 7,638 | +157 | — | multimodal-reasoning |
+| [**uclanlp/OpenVLHarness**](https://github.com/uclanlp/OpenVLHarness) | 431 | +83 | — | agentic-vision |
+| [**bytedance/UI-TARS-desktop**](https://github.com/bytedance/UI-TARS-desktop) | 39,585 | +69 | — | agentic-vision |
+| [**simular-ai/Agent-S**](https://github.com/simular-ai/Agent-S) | 12,912 | +59 | — | agentic-vision |
+| [**OpenBMB/MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) | 27,105 | +58 | — | multimodal-reasoning |
+| [**ctoldigital/axuse**](https://github.com/ctoldigital/axuse) | 803 | +53 | — | agentic-vision |
+| [**AMAP-ML/LongHorizon-Harness**](https://github.com/AMAP-ML/LongHorizon-Harness) | 1,862 | +49 | — | agentic-vision |

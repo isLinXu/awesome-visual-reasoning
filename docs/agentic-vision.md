@@ -71,6 +71,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-06 | **Computer-Use Agents Are Embodied Generalists** | Pranjal Aggarwal, Sean Welleck | In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and… | [📄 2611.09847](https://arxiv.org/abs/2611.09847) `cs.LG` |
 | 2026-11-04 | **Visual Token Routing: Learning to keep tokens that matter** | Pranjal Aggarwal, Sean Welleck | Computer-use agents (CUAs) have recently achieved superhuman performance on several long-horizo… | [📄 2611.06854](https://arxiv.org/abs/2611.06854) `cs.CV` |
 | 2026-11-04 | **Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces** | Shubhabrata Mukherjee, Jeffrey Donatelli et al. | Scientific image-analysis workflows require agents to select among diverse capabilities like de… | [📄 2611.06760](https://arxiv.org/abs/2611.06760) `cs.CV` |
 | 2026-11-02 | **Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials** | Anh Nguyen, Tianyi Xu et al. | Recent work has improved computer-use agents (CUAs) by combining retrieved task-relevant tutori… | [📄 2611.04073](https://arxiv.org/abs/2611.04073) `cs.LG` |

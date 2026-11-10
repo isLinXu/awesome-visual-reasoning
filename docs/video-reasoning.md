@@ -75,6 +75,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-09 | **Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning** | Rohan Dugad, Mi Luo et al. | Video reasoning hinges on a small number of visually decisive tokens embedded in otherwise larg… | [📄 2611.11949](https://arxiv.org/abs/2611.11949) `cs.CV` |
+| 2026-11-07 | **Reason First, Retrieve What Matters: Hypothesis-Guided Keyframe Selection for Long Video Understanding** | Yisong Hu, Junbo Wang et al. | Long video understanding requires models to identify and reason over sparse… | [📄 2611.10609](https://arxiv.org/abs/2611.10609) `cs.CV` |
 | 2026-11-06 | **AdaAlloc: Adaptive Visual Token Allocation for Long-Video Question Answering** | Joungbin An, Kristen Grauman | Long-video question answering forces multimodal large language models to reason under strict vi… | [📄 2611.09092](https://arxiv.org/abs/2611.09092) `cs.CV` |
 | 2026-11-06 | **V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning** | Dian Jiao, Yuqian Yuan et al. | While MLLMs can often identify what happens in a video… | [📄 2611.09511](https://arxiv.org/abs/2611.09511) `cs.CV` |
 | 2026-11-06 | **Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking** | Phuong T. Nguyen, Hao Vo et al. | Referring multi-object tracking enables users to specify targets through natural language… | [📄 2611.08976](https://arxiv.org/abs/2611.08976) `cs.CV` |
@@ -273,7 +275,6 @@
 | 2026-05-31 | **Perception First: A Frontier Native-Video Model with Self-Consistency for Implicit Video Question Answering** | Ali Alavi | We describe our submission to the VRR Challenge @ CVPR 2026... | [📄 2606.01485](https://arxiv.org/abs/2606.01485) `cs.CV` |
 | 2026-05-31 | **Temporal Evidence Routing with Structured Visual Evidence for TimeLogicQA** | Yuyang Sun, Yongliang Wu et al. | TimeLogicQA evaluates whether video question answering systems can reason over temporal relatio... | [📄 2606.01106](https://arxiv.org/abs/2606.01106) `cs.CV` |
 | 2026-05-31 | **Adaptive Dense Evidence Refinement for Video Relational Reasoning for VRR-QA Challenge** | Yuyang Sun, Yongliang Wu et al. | VRR-QA evaluates whether video-language systems can infer spatial, temporal, viewpoint, depth... | [📄 2606.01104](https://arxiv.org/abs/2606.01104) `cs.CV` |
-| 2026-05-30 | **CASTLE2026 Team WDL Technical Report** | Zhengyang Li, Zhenglin Du et al. | The CASTLE Challenge @ EgoVis 2026 evaluates long-form egocentric video question answering over... | [📄 2606.00712](https://arxiv.org/abs/2606.00712) `cs.CV` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

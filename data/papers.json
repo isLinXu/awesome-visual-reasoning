@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:25:48Z",
+  "updated": "2026-11-10T08:41:51Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9229,6 +9229,138 @@
       ],
       "score": 8.5,
       "primary_category": "cs.RO",
+      "first_seen": "2026-11-06"
+    },
+    "2611.12085": {
+      "title": "Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models",
+      "published": "2026-11-09",
+      "url": "https://arxiv.org/abs/2611.12085",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "eess.IV",
+      "first_seen": "2026-11-09"
+    },
+    "2611.12304": {
+      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+      "published": "2026-11-09",
+      "url": "https://arxiv.org/abs/2611.12304",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.DC",
+      "first_seen": "2026-11-09"
+    },
+    "2611.11346": {
+      "title": "IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning",
+      "published": "2026-11-08",
+      "url": "https://arxiv.org/abs/2611.11346",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.IR",
+      "first_seen": "2026-11-08"
+    },
+    "2611.10575": {
+      "title": "ROLECUE: Diagnosing Cross-Lingual Role-Binding Failures in Vision-Language Models",
+      "published": "2026-11-07",
+      "url": "https://arxiv.org/abs/2611.10575",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-07"
+    },
+    "2611.11949": {
+      "title": "Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning",
+      "published": "2026-11-09",
+      "url": "https://arxiv.org/abs/2611.11949",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 9.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-09"
+    },
+    "2611.10609": {
+      "title": "Reason First, Retrieve What Matters: Hypothesis-Guided Keyframe Selection for Long Video Understanding",
+      "published": "2026-11-07",
+      "url": "https://arxiv.org/abs/2611.10609",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 10.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-07"
+    },
+    "2611.12886": {
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "published": "2026-11-09",
+      "url": "https://arxiv.org/abs/2611.12886",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 9.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-09"
+    },
+    "2611.11145": {
+      "title": "DISCOVER: Online Variance-Guided Data Discovery for Budgeted Multimodal GRPO",
+      "published": "2026-11-08",
+      "url": "https://arxiv.org/abs/2611.11145",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-08"
+    },
+    "2611.11209": {
+      "title": "Viscot-steer: Disentangling and Transferring Visual Chain-of-Thought via Activation Steering",
+      "published": "2026-11-08",
+      "url": "https://arxiv.org/abs/2611.11209",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-08"
+    },
+    "2611.10423": {
+      "title": "Mental Imagery That Matters: Curing Latent Collapse in Multimodal Reasoning",
+      "published": "2026-11-07",
+      "url": "https://arxiv.org/abs/2611.10423",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 12.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-07"
+    },
+    "2611.10552": {
+      "title": "Seeing Isn't Enough: Unlocking Visual Reasoning by Bridging the Reasoning-Access Gap with TIGER",
+      "published": "2026-11-07",
+      "url": "https://arxiv.org/abs/2611.10552",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 12.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-07"
+    },
+    "2611.10245": {
+      "title": "From Weapons to Events: Evaluating Evidential Support in Multimodal AI for Policing",
+      "published": "2026-11-06",
+      "url": "https://arxiv.org/abs/2611.10245",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
       "first_seen": "2026-11-06"
     }
   }

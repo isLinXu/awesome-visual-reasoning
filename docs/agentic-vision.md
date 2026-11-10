@@ -71,6 +71,10 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-09 | **Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models** | Josef A. Buchner, Richard Osuala et al. | Precise segmentation of target volumes and organs at risk is an essential prerequisite for mode… | [📄 2611.12085](https://arxiv.org/abs/2611.12085) `eess.IV` |
+| 2026-11-09 | **Evolving Infra: Agent-Adaptive LLM Serving at Scale** | Hao Kang, Weili Xu et al. | Agentic workloads are a major source of LLM inference demand… | [📄 2611.12304](https://arxiv.org/abs/2611.12304) `cs.DC` |
+| 2026-11-08 | **IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning** | Xiao Chen, Dong Fang et al. | As intelligent personal assistants are increasingly deployed in real-world scenarios… | [📄 2611.11346](https://arxiv.org/abs/2611.11346) `cs.IR` |
+| 2026-11-07 | **ROLECUE: Diagnosing Cross-Lingual Role-Binding Failures in Vision-Language Models** | Niaz Mohaiman Abtahi, Evan Maksud | Vision-language models (VLMs) can recognize events in images and parse sentences… | [📄 2611.10575](https://arxiv.org/abs/2611.10575) `cs.CV` |
 | 2026-11-06 | **Computer-Use Agents Are Embodied Generalists** | Pranjal Aggarwal, Sean Welleck | In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and… | [📄 2611.09847](https://arxiv.org/abs/2611.09847) `cs.LG` |
 | 2026-11-04 | **Visual Token Routing: Learning to keep tokens that matter** | Pranjal Aggarwal, Sean Welleck | Computer-use agents (CUAs) have recently achieved superhuman performance on several long-horizo… | [📄 2611.06854](https://arxiv.org/abs/2611.06854) `cs.CV` |
 | 2026-11-04 | **Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces** | Shubhabrata Mukherjee, Jeffrey Donatelli et al. | Scientific image-analysis workflows require agents to select among diverse capabilities like de… | [📄 2611.06760](https://arxiv.org/abs/2611.06760) `cs.CV` |

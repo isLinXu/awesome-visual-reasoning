@@ -75,6 +75,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-10 | **The Target Is a Predicate: Predicate-State Grounding for Semantic-Level Video Reasoning Segmentation** | Yuhuan Hong, Yiming Ren et al. | We introduce Predicate-State Video Reasoning Segmentation (PS-VRS)… | [📄 2611.13785](https://arxiv.org/abs/2611.13785) `cs.CV` |
 | 2026-11-09 | **Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning** | Rohan Dugad, Mi Luo et al. | Video reasoning hinges on a small number of visually decisive tokens embedded in otherwise larg… | [📄 2611.11949](https://arxiv.org/abs/2611.11949) `cs.CV` |
 | 2026-11-07 | **Reason First, Retrieve What Matters: Hypothesis-Guided Keyframe Selection for Long Video Understanding** | Yisong Hu, Junbo Wang et al. | Long video understanding requires models to identify and reason over sparse… | [📄 2611.10609](https://arxiv.org/abs/2611.10609) `cs.CV` |
 | 2026-11-06 | **AdaAlloc: Adaptive Visual Token Allocation for Long-Video Question Answering** | Joungbin An, Kristen Grauman | Long-video question answering forces multimodal large language models to reason under strict vi… | [📄 2611.09092](https://arxiv.org/abs/2611.09092) `cs.CV` |
@@ -274,7 +275,6 @@
 | 2026-05-31 | **Disagreement-Based Cross-Model Routing for Implicit Video Question Answering** | Durga Sandeep Saluru | Multiple-choice video question answering on the ImplicitQA benchmark... | [📄 2606.14723](https://arxiv.org/abs/2606.14723) `cs.CV` |
 | 2026-05-31 | **Perception First: A Frontier Native-Video Model with Self-Consistency for Implicit Video Question Answering** | Ali Alavi | We describe our submission to the VRR Challenge @ CVPR 2026... | [📄 2606.01485](https://arxiv.org/abs/2606.01485) `cs.CV` |
 | 2026-05-31 | **Temporal Evidence Routing with Structured Visual Evidence for TimeLogicQA** | Yuyang Sun, Yongliang Wu et al. | TimeLogicQA evaluates whether video question answering systems can reason over temporal relatio... | [📄 2606.01106](https://arxiv.org/abs/2606.01106) `cs.CV` |
-| 2026-05-31 | **Adaptive Dense Evidence Refinement for Video Relational Reasoning for VRR-QA Challenge** | Yuyang Sun, Yongliang Wu et al. | VRR-QA evaluates whether video-language systems can infer spatial, temporal, viewpoint, depth... | [📄 2606.01104](https://arxiv.org/abs/2606.01104) `cs.CV` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

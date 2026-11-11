@@ -68,6 +68,8 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-10 | **DisasterAgent: An Evidence-Driven Agent for Verifiable Disaster Report Generation From Remote Sensing Imagery** | Zhijian Li, Jiawei Song et al. | Remote sensing disaster assessment is moving from simple damage classification toward comprehen… | [📄 2611.13776](https://arxiv.org/abs/2611.13776) `cs.CV` |
+| 2026-11-06 | **SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI** | Jing Hao, Weinan Zhou et al. | Reliable dermatology AI requires access to verifiable evidence distributed across heterogeneous… | [📄 2611.08935](https://arxiv.org/abs/2611.08935) 🤗 |
 | 2026-11-09 | **Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning** | Haozhi Yuan, Handong Li et al. | Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer compl… | [📄 2611.12886](https://arxiv.org/abs/2611.12886) `cs.CV` |
 | 2026-11-08 | **DISCOVER: Online Variance-Guided Data Discovery for Budgeted Multimodal GRPO** | Peyman Gholami, Shivam Chandhok et al. | Recent advances in reinforcement learning have made verifiable rewards a central post-training… | [📄 2611.11145](https://arxiv.org/abs/2611.11145) `cs.LG` |
 | 2026-11-08 | **Viscot-steer: Disentangling and Transferring Visual Chain-of-Thought via Activation Steering** | Ningning Wang, Beier Zhu et al. | Visual chain-of-thought (visual-CoT), also known as "thinking with images"… | [📄 2611.11209](https://arxiv.org/abs/2611.11209) `cs.CV` |
@@ -266,8 +268,6 @@ SFT（图文指令）
 | 2026-08-03 | **CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning** | Xuehang Guo, Pingyue Zhang et al. | Chart question answering (CQA) requires multimodal large language models (MLLMs) to integrate v... | [📄 2608.02833](https://arxiv.org/abs/2608.02833) `cs.CV` |
 | 2026-08-01 | **LUT: Latent Utility Training for Visual Reasoning** | Jiaxuan Kang, Siyu Chen et al. | Multimodal large language models have advanced visual understanding... | [📄 2608.00743](https://arxiv.org/abs/2608.00743) `cs.CV` |
 | 2026-07-30 | **OPLD: On-Policy Latent Distillation for Multimodal Reasoning** | Shoutai Zhu, Tianyang Xu et al. | Interleaved multimodal Chain-of-Thought (CoT) improves visual reasoning by incorporating auxili... | [📄 2607.28154](https://arxiv.org/abs/2607.28154) `cs.CV` |
-| 2026-07-30 | **Beacon: Knowing When and How to Perform Agentic Visual Reasoning** | Qixun Wang, Yang Shi et al. | The fundamental goal of agentic visual reasoning is to improve the success rate of multimodal l... | [📄 2607.28595](https://arxiv.org/abs/2607.28595) `cs.CV` |
-| 2026-07-30 | **LoMeVQA: A Comprehensive Benchmark for Longitudinal Medical VQA** | Zhilin Wu, Zhangkai Ni et al. | In clinical practice, patients often undergo multiple imaging examinations over successive visi... | [📄 2607.27806](https://arxiv.org/abs/2607.27806) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

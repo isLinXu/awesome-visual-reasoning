@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:41:29Z",
+  "updated": "2026-11-13T08:31:29Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9417,6 +9417,116 @@
       "score": 9.0,
       "primary_category": "cs.AI",
       "first_seen": "2026-11-09"
+    },
+    "2611.15439": {
+      "title": "DeALR: Decoupled Audio-Latent Optimization with Acoustic Backtracking for Test-Time Reasoning",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.15439",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.SD",
+      "first_seen": "2026-11-11"
+    },
+    "2611.16293": {
+      "title": "Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents",
+      "published": "2026-11-12",
+      "url": "https://arxiv.org/abs/2611.16293",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.SE",
+      "first_seen": "2026-11-12"
+    },
+    "2611.16107": {
+      "title": "Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.16107",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.HC",
+      "first_seen": "2026-11-11"
+    },
+    "2611.15766": {
+      "title": "Prior-as-Skill: Remember Outside and Read Inside with On-Policy Self-Distillation for Self-Evolving VLM Agents",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.15766",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-11"
+    },
+    "2611.15161": {
+      "title": "CineMME: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.15161",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 10.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-11"
+    },
+    "2611.15079": {
+      "title": "SAVE: Less is More in Agentic Video Reasoning",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.15079",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-11"
+    },
+    "2611.15225": {
+      "title": "Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.15225",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-11"
+    },
+    "2611.17160": {
+      "title": "XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction",
+      "published": "2026-11-12",
+      "url": "https://arxiv.org/abs/2611.17160",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.RO",
+      "first_seen": "2026-11-12"
+    },
+    "2611.16345": {
+      "title": "DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models",
+      "published": "2026-11-12",
+      "url": "https://arxiv.org/abs/2611.16345",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-12"
+    },
+    "2611.15069": {
+      "title": "DiFiT: Distribution-Fidelity-guided Visual Token Pruning for Multimodal Large Language Models",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.15069",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-11"
     }
   }
 }

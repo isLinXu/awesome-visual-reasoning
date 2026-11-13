@@ -93,6 +93,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-11 | **DeALR: Decoupled Audio-Latent Optimization with Acoustic Backtracking for Test-Time Reasoning** | Haoyu He, Yan Rong et al. | Large audio-language models (LALMs) typically encode audio once and conduct subsequent multi-st… | [📄 2611.15439](https://arxiv.org/abs/2611.15439) `cs.SD` |
 | 2026-11-10 | **LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning** | Xuheng Zhang, Yiming Zhang et al. | World Action Models (WAMs) have recently emerged as a promising paradigm for robotic manipulati… | [📄 2611.14048](https://arxiv.org/abs/2611.14048) `cs.RO` |
 | 2026-11-04 | **Learning When to Think Aloud in Latent Reasoning** | Zhehao Zhou, Tongrui Su et al. | Latent Chain-of-Thought (CoT) reasoning improves efficiency by shifting intermediate computatio… | [📄 2611.06108](https://arxiv.org/abs/2611.06108) `cs.LG` |
 | 2026-11-03 | **Learning Where to Look: Observation Policy Optimization for Thinking with Images** | Junfeng Wang, Jiawei Liu et al. | Complex visual question answering often requires vision-language models to think with images… | [📄 2611.04943](https://arxiv.org/abs/2611.04943) `cs.CV` |

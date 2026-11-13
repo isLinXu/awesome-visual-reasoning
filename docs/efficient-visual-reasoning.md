@@ -64,6 +64,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-12 | **DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models** | Yi-Hsin Hung, Fangfu Liu et al. | Multimodal diffusion large language models (dLLMs) generate text through iterative masked denoi… | [📄 2611.16345](https://arxiv.org/abs/2611.16345) `cs.LG` |
+| 2026-11-11 | **DiFiT: Distribution-Fidelity-guided Visual Token Pruning for Multimodal Large Language Models** | Jingyuan Zhang, Nihao Niu et al. | Visual token pruning reduces the inference cost of multimodal large language models… | [📄 2611.15069](https://arxiv.org/abs/2611.15069) `cs.CV` |
 | 2026-11-09 | **APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models** | Xiaoyang Xing, Chun-Mei Feng et al. | Vision-language-action (VLA) policies have demonstrated strong generalization in robotic manipu… | [📄 2611.13030](https://arxiv.org/abs/2611.13030) `cs.AI` |
 | 2026-11-06 | **ActPrune: Action-Grounded Visual Token Pruning for Efficient Vision-Language-Action Models** | Sungwon Moon, Minji Kim et al. | Vision-language-action (VLA) models perform versatile manipulation tasks from language instruct… | [📄 2611.08827](https://arxiv.org/abs/2611.08827) `cs.RO` |
 | 2026-11-05 | **Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion** | Jia Li, Xurui Peng et al. | Few-step autoregressive (AR) video diffusion models generate videos chunk by chunk and have mad… | [📄 2611.07551](https://arxiv.org/abs/2611.07551) `cs.CV` |

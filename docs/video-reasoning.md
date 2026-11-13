@@ -75,6 +75,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-11 | **CineMME: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding** | Jin Liu, Dawei Du et al. | Narrative video understanding requires more than recognizing visible events: models must extrac… | [📄 2611.15161](https://arxiv.org/abs/2611.15161) `cs.CV` |
+| 2026-11-11 | **SAVE: Less is More in Agentic Video Reasoning** | Tymoteusz Wilk, Sergey Prokudin et al. | Agentic video-reasoning frameworks iteratively explore a video… | [📄 2611.15079](https://arxiv.org/abs/2611.15079) `cs.CV` |
+| 2026-11-11 | **Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark** | Shunming Liu, Jianyi Peng et al. | Surround-view video understanding in autonomous driving is a crucial capability for Multimodal… | [📄 2611.15225](https://arxiv.org/abs/2611.15225) `cs.AI` |
 | 2026-11-10 | **The Target Is a Predicate: Predicate-State Grounding for Semantic-Level Video Reasoning Segmentation** | Yuhuan Hong, Yiming Ren et al. | We introduce Predicate-State Video Reasoning Segmentation (PS-VRS)… | [📄 2611.13785](https://arxiv.org/abs/2611.13785) `cs.CV` |
 | 2026-11-09 | **Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning** | Rohan Dugad, Mi Luo et al. | Video reasoning hinges on a small number of visually decisive tokens embedded in otherwise larg… | [📄 2611.11949](https://arxiv.org/abs/2611.11949) `cs.CV` |
 | 2026-11-07 | **Reason First, Retrieve What Matters: Hypothesis-Guided Keyframe Selection for Long Video Understanding** | Yisong Hu, Junbo Wang et al. | Long video understanding requires models to identify and reason over sparse… | [📄 2611.10609](https://arxiv.org/abs/2611.10609) `cs.CV` |
@@ -272,9 +275,6 @@
 | 2026-06-01 | **TimeLogic Challenge @ CVPR 2026: Strong MLLMs Meet Evidence-Seeking Agents for Temporal-Logic Video Question Answering** | Zhaoyang Xu, Xusheng He et al. | Temporal-logic video question answering requires a model to reason about when actions occur rel... | [📄 2606.01631](https://arxiv.org/abs/2606.01631) `cs.MM` |
 | 2026-06-01 | **Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events** | Xiaolin Liu, Yilun Zhu et al. | Video multimodal large language models (MLLMs) have made rapid progress in general and long-for... | [📄 2606.02522](https://arxiv.org/abs/2606.02522) `cs.CV` |
 | 2026-06-01 | **MOSS-Video-Preview: Toward Real-Time Video Understanding via Cross-Attention** | Pengyu Wang, Chenkun Tan et al. | Video understanding is shifting from the offline paradigm -- taking a fully recorded video as i... | [📄 2606.07639](https://arxiv.org/abs/2606.07639) `cs.CV` |
-| 2026-05-31 | **Disagreement-Based Cross-Model Routing for Implicit Video Question Answering** | Durga Sandeep Saluru | Multiple-choice video question answering on the ImplicitQA benchmark... | [📄 2606.14723](https://arxiv.org/abs/2606.14723) `cs.CV` |
-| 2026-05-31 | **Perception First: A Frontier Native-Video Model with Self-Consistency for Implicit Video Question Answering** | Ali Alavi | We describe our submission to the VRR Challenge @ CVPR 2026... | [📄 2606.01485](https://arxiv.org/abs/2606.01485) `cs.CV` |
-| 2026-05-31 | **Temporal Evidence Routing with Structured Visual Evidence for TimeLogicQA** | Yuyang Sun, Yongliang Wu et al. | TimeLogicQA evaluates whether video question answering systems can reason over temporal relatio... | [📄 2606.01106](https://arxiv.org/abs/2606.01106) `cs.CV` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

@@ -7,50 +7,50 @@
 <text x="24" y="79" font-size="12" fill="#E6EDF3">vercel-labs/agent-desktop</text>
 <rect x="264" y="68" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
 <rect x="264" y="68" width="806.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+6,522</text>
+<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+5,518</text>
 <text x="24" y="109" font-size="12" fill="#E6EDF3">trycua/cua</text>
 <rect x="264" y="98" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="98" width="57.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+461</text>
+<rect x="264" y="98" width="63.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+434</text>
 <text x="24" y="139" font-size="12" fill="#E6EDF3">reacher-z/Awesome-CUA</text>
 <rect x="264" y="128" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="128" width="35.8" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+290</text>
+<rect x="264" y="128" width="44.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+304</text>
 <text x="24" y="169" font-size="12" fill="#E6EDF3">vllm-project/vllm-omni</text>
 <rect x="264" y="158" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="158" width="20.1" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+163</text>
-<text x="24" y="199" font-size="12" fill="#E6EDF3">uclanlp/OpenVLHarness</text>
+<rect x="264" y="158" width="23.5" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+161</text>
+<text x="24" y="199" font-size="12" fill="#E6EDF3">oss-invisible/playwright_mcp</text>
 <rect x="264" y="188" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="188" width="9.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+77</text>
-<text x="24" y="229" font-size="12" fill="#E6EDF3">simular-ai/Agent-S</text>
+<rect x="264" y="188" width="20.0" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+137</text>
+<text x="24" y="229" font-size="12" fill="#E6EDF3">uclanlp/OpenVLHarness</text>
 <rect x="264" y="218" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="218" width="8.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+69</text>
-<text x="24" y="259" font-size="12" fill="#E6EDF3">OpenBMB/MiniCPM-V</text>
+<rect x="264" y="218" width="13.0" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+89</text>
+<text x="24" y="259" font-size="12" fill="#E6EDF3">simular-ai/Agent-S</text>
 <rect x="264" y="248" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="248" width="7.9" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+64</text>
-<text x="24" y="289" font-size="12" fill="#E6EDF3">agent-sh/computer-use-linux</text>
+<rect x="264" y="248" width="10.1" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+69</text>
+<text x="24" y="289" font-size="12" fill="#E6EDF3">OpenBMB/MiniCPM-V</text>
 <rect x="264" y="278" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="278" width="5.6" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+45</text>
-<text x="24" y="319" font-size="12" fill="#E6EDF3">HKUDS/VideoAgent</text>
+<rect x="264" y="278" width="9.2" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+63</text>
+<text x="24" y="319" font-size="12" fill="#E6EDF3">ComputerUseAgent/AutoCua</text>
 <rect x="264" y="308" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="308" width="5.1" height="16" rx="5" fill="#F59E0B"/>
-<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+41</text>
-<text x="24" y="349" font-size="12" fill="#E6EDF3">alchaincyf/huashu-mac-use</text>
+<rect x="264" y="308" width="8.9" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+61</text>
+<text x="24" y="349" font-size="12" fill="#E6EDF3">agent-sh/computer-use-linux</text>
 <rect x="264" y="338" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="338" width="4.4" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+36</text>
-<text x="24" y="379" font-size="12" fill="#E6EDF3">bytedance/UI-TARS-desktop</text>
+<rect x="264" y="338" width="8.2" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+56</text>
+<text x="24" y="379" font-size="12" fill="#E6EDF3">QwenLM/Qwen3-VL</text>
 <rect x="264" y="368" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="368" width="4.3" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+35</text>
-<text x="24" y="409" font-size="12" fill="#E6EDF3">alibaba/page-agent</text>
+<rect x="264" y="368" width="5.7" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+39</text>
+<text x="24" y="409" font-size="12" fill="#E6EDF3">HKUDS/VideoAgent</text>
 <rect x="264" y="398" width="806" height="16" rx="5" fill="#30363D" fill-opacity="0.5"/>
-<rect x="264" y="398" width="4.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+32</text>
+<rect x="264" y="398" width="5.7" height="16" rx="5" fill="#F59E0B"/>
+<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#E6EDF3">+39</text>
 </g>
 </svg>

@@ -68,6 +68,7 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-12 | **XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction** | Kerui Gu, Xing Fu et al. | Embodied interaction requires an agent to integrate multimodal perception with verbal and nonve… | [📄 2611.17160](https://arxiv.org/abs/2611.17160) `cs.RO` |
 | 2026-11-10 | **DisasterAgent: An Evidence-Driven Agent for Verifiable Disaster Report Generation From Remote Sensing Imagery** | Zhijian Li, Jiawei Song et al. | Remote sensing disaster assessment is moving from simple damage classification toward comprehen… | [📄 2611.13776](https://arxiv.org/abs/2611.13776) `cs.CV` |
 | 2026-11-06 | **SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI** | Jing Hao, Weinan Zhou et al. | Reliable dermatology AI requires access to verifiable evidence distributed across heterogeneous… | [📄 2611.08935](https://arxiv.org/abs/2611.08935) 🤗 |
 | 2026-11-09 | **Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning** | Haozhi Yuan, Handong Li et al. | Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer compl… | [📄 2611.12886](https://arxiv.org/abs/2611.12886) `cs.CV` |
@@ -267,7 +268,6 @@ SFT（图文指令）
 | 2026-08-04 | **OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models** | Wanshun Su, Yang Shi et al. | Omni-modal large language models (Omni-LLMs) have achieved remarkable performance on audio-visu... | [📄 2608.03812](https://arxiv.org/abs/2608.03812) `cs.CV` |
 | 2026-08-03 | **CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning** | Xuehang Guo, Pingyue Zhang et al. | Chart question answering (CQA) requires multimodal large language models (MLLMs) to integrate v... | [📄 2608.02833](https://arxiv.org/abs/2608.02833) `cs.CV` |
 | 2026-08-01 | **LUT: Latent Utility Training for Visual Reasoning** | Jiaxuan Kang, Siyu Chen et al. | Multimodal large language models have advanced visual understanding... | [📄 2608.00743](https://arxiv.org/abs/2608.00743) `cs.CV` |
-| 2026-07-30 | **OPLD: On-Policy Latent Distillation for Multimodal Reasoning** | Shoutai Zhu, Tianyang Xu et al. | Interleaved multimodal Chain-of-Thought (CoT) improves visual reasoning by incorporating auxili... | [📄 2607.28154](https://arxiv.org/abs/2607.28154) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

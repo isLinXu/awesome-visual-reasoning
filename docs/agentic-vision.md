@@ -71,6 +71,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-12 | **Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents** | Riya Sahni, Aryan Kaul et al. | Coding agents let developers modify software rapidly through natural language… | [📄 2611.16293](https://arxiv.org/abs/2611.16293) `cs.SE` |
+| 2026-11-11 | **Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents** | Obada Kraishan, Kulsawasd Jitkajornwanich | Computer-use agents learn to operate mobile interfaces from corpora of captured screens and acc… | [📄 2611.16107](https://arxiv.org/abs/2611.16107) `cs.HC` |
+| 2026-11-11 | **Prior-as-Skill: Remember Outside and Read Inside with On-Policy Self-Distillation for Self-Evolving VLM Agents** | Yan Lin, Jingyu Sun et al. | Self-evolving visual agents keep what they learn as skills: key frames with step notes on a tas… | [📄 2611.15766](https://arxiv.org/abs/2611.15766) `cs.CV` |
 | 2026-11-09 | **Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models** | Josef A. Buchner, Richard Osuala et al. | Precise segmentation of target volumes and organs at risk is an essential prerequisite for mode… | [📄 2611.12085](https://arxiv.org/abs/2611.12085) `eess.IV` |
 | 2026-11-09 | **Evolving Infra: Agent-Adaptive LLM Serving at Scale** | Hao Kang, Weili Xu et al. | Agentic workloads are a major source of LLM inference demand… | [📄 2611.12304](https://arxiv.org/abs/2611.12304) `cs.DC` |
 | 2026-11-08 | **IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning** | Xiao Chen, Dong Fang et al. | As intelligent personal assistants are increasingly deployed in real-world scenarios… | [📄 2611.11346](https://arxiv.org/abs/2611.11346) `cs.IR` |

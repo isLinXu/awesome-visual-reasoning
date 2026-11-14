@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T08:31:29Z",
+  "updated": "2026-11-14T07:52:02Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9527,6 +9527,17 @@
       "score": 8.0,
       "primary_category": "cs.CV",
       "first_seen": "2026-11-11"
+    },
+    "2611.14256": {
+      "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+      "published": "2026-11-10",
+      "url": "https://arxiv.org/abs/2611.14256",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "",
+      "first_seen": "2026-11-10"
     }
   }
 }

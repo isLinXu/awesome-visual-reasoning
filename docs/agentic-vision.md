@@ -71,6 +71,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-13 | **StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval** | Dayoon Ko, Yichuan Wang et al. | Screen history can serve as searchable visual memory for people and agents… | [📄 2611.18516](https://arxiv.org/abs/2611.18516) `cs.CV` |
+| 2026-11-13 | **Training Reasoning Models in Simulation to Natively Use Real Robots** | Jiaming Tang, Zhuoyang Zhang et al. | Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control… | [📄 2611.18562](https://arxiv.org/abs/2611.18562) `cs.RO` |
 | 2026-11-12 | **Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents** | Riya Sahni, Aryan Kaul et al. | Coding agents let developers modify software rapidly through natural language… | [📄 2611.16293](https://arxiv.org/abs/2611.16293) `cs.SE` |
 | 2026-11-11 | **Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents** | Obada Kraishan, Kulsawasd Jitkajornwanich | Computer-use agents learn to operate mobile interfaces from corpora of captured screens and acc… | [📄 2611.16107](https://arxiv.org/abs/2611.16107) `cs.HC` |
 | 2026-11-11 | **Prior-as-Skill: Remember Outside and Read Inside with On-Policy Self-Distillation for Self-Evolving VLM Agents** | Yan Lin, Jingyu Sun et al. | Self-evolving visual agents keep what they learn as skills: key frames with step notes on a tas… | [📄 2611.15766](https://arxiv.org/abs/2611.15766) `cs.CV` |
@@ -269,8 +271,6 @@
 | 2026-06-09 | **A History-Aware Visually Grounded Critic for Computer Use Agents** | Jaewoo Lee, Zaid Khan et al. | Various test-time interventions for Computer Use Agents (CUAs), including critic models... | [📄 2606.11078](https://arxiv.org/abs/2606.11078) `cs.AI` |
 | 2026-06-05 | **StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents** | Haojie Hao, Longkun Hao et al. | Reinforcement Learning (RL) has become a promising approach for improving GUI Agents in long-ho... | [📄 2606.07027](https://arxiv.org/abs/2606.07027) `cs.AI` |
 | 2026-06-04 | **DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions** | Nathan Bout, Maxime Langevin et al. | GUI agents - vision-based models that control desktops, web browsers... | [📄 2606.06322](https://arxiv.org/abs/2606.06322) `cs.AI` |
-| 2026-06-01 | **Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models** | Wei Deng, Xianlin Zhang et al. | Enabling Vision-Language Models (VLMs) to perform spatial reasoning remains challenging... | [📄 2606.02459](https://arxiv.org/abs/2606.02459) `cs.CV` |
-| 2026-05-29 | **Diagnosing Failure Modes of Shared-State Collaboration in Resource-Constrained Visual Agents** | Yunpeng Zhou | Modular visual reasoning systems increasingly rely on shared working memory for multi-step coll... | [📄 2605.31354](https://arxiv.org/abs/2605.31354) `cs.AI` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

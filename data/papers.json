@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:11:49Z",
+  "updated": "2026-11-16T08:19:21Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9538,6 +9538,39 @@
       "score": 3.0,
       "primary_category": "",
       "first_seen": "2026-11-10"
+    },
+    "2611.18516": {
+      "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.18516",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-13"
+    },
+    "2611.18562": {
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.18562",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.RO",
+      "first_seen": "2026-11-13"
+    },
+    "2611.17797": {
+      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+      "published": "2026-11-13",
+      "url": "https://arxiv.org/abs/2611.17797",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-13"
     }
   }
 }

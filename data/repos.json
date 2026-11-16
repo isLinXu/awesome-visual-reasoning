@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:14:28Z",
+  "updated": "2026-11-16T08:21:57Z",
   "repos": {
     "bytedance/UI-TARS": {
       "full_name": "bytedance/UI-TARS",
@@ -81,10 +81,10 @@
           "stars": 11692
         }
       ],
-      "delta_7d": 8,
+      "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 17.58
+      "velocity": 17.56
     },
     "bytedance/UI-TARS-desktop": {
       "full_name": "bytedance/UI-TARS-desktop",
@@ -179,17 +179,17 @@
           "stars": 39585
         }
       ],
-      "delta_7d": 15,
+      "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 59.53
+      "velocity": 59.44
     },
     "microsoft/OmniParser": {
       "full_name": "microsoft/OmniParser",
       "url": "https://github.com/microsoft/OmniParser",
       "description": "A simple screen parsing tool towards pure vision based GUI agent",
-      "stars": 25623,
-      "forks": 2240,
+      "stars": 25626,
+      "forks": 2241,
       "language": "Jupyter Notebook",
       "topics": [],
       "pushed_at": "2026-11-14",
@@ -199,7 +199,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -284,18 +284,22 @@
         {
           "date": "2026-11-15",
           "stars": 25623
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 25626
         }
       ],
-      "delta_7d": 12,
+      "delta_7d": 11,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 32.6
+      "velocity": 32.56
     },
     "OpenGVLab/InternVL": {
       "full_name": "OpenGVLab/InternVL",
       "url": "https://github.com/OpenGVLab/InternVL",
       "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
-      "stars": 10168,
+      "stars": 10170,
       "forks": 794,
       "language": "Python",
       "topics": [
@@ -319,7 +323,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -404,19 +408,23 @@
         {
           "date": "2026-11-15",
           "stars": 10168
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 10170
         }
       ],
-      "delta_7d": -1,
+      "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 9.34
+      "velocity": 9.33
     },
     "QwenLM/Qwen3-VL": {
       "full_name": "QwenLM/Qwen3-VL",
       "url": "https://github.com/QwenLM/Qwen3-VL",
       "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
-      "stars": 20211,
-      "forks": 1894,
+      "stars": 20216,
+      "forks": 1898,
       "language": "Jupyter Notebook",
       "topics": [],
       "pushed_at": "2026-01-30",
@@ -426,7 +434,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -511,18 +519,22 @@
         {
           "date": "2026-11-15",
           "stars": 20211
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 20216
         }
       ],
-      "delta_7d": 35,
+      "delta_7d": 34,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 25.01
+      "velocity": 24.99
     },
     "OpenBMB/MiniCPM-V": {
       "full_name": "OpenBMB/MiniCPM-V",
       "url": "https://github.com/OpenBMB/MiniCPM-V",
       "description": "See, hear, and interact on your local devices.",
-      "stars": 27151,
+      "stars": 27155,
       "forks": 2130,
       "language": "Python",
       "topics": [
@@ -538,7 +550,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -623,19 +635,23 @@
         {
           "date": "2026-11-15",
           "stars": 27151
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 27155
         }
       ],
-      "delta_7d": 64,
+      "delta_7d": 50,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 26.59
+      "velocity": 26.57
     },
     "deepseek-ai/DeepSeek-VL2": {
       "full_name": "deepseek-ai/DeepSeek-VL2",
       "url": "https://github.com/deepseek-ai/DeepSeek-VL2",
       "description": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
-      "stars": 5405,
-      "forks": 1812,
+      "stars": 5406,
+      "forks": 1814,
       "language": "Python",
       "topics": [],
       "pushed_at": "2025-02-26",
@@ -645,7 +661,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -730,18 +746,22 @@
         {
           "date": "2026-11-15",
           "stars": 5405
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 5406
         }
       ],
       "delta_7d": 5,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 7.7
+      "velocity": 7.69
     },
     "xlang-ai/OSWorld": {
       "full_name": "xlang-ai/OSWorld",
       "url": "https://github.com/xlang-ai/OSWorld",
       "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
-      "stars": 3260,
+      "stars": 3262,
       "forks": 559,
       "language": "Python",
       "topics": [
@@ -767,7 +787,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -852,12 +872,16 @@
         {
           "date": "2026-11-15",
           "stars": 3260
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 3262
         }
       ],
-      "delta_7d": 4,
+      "delta_7d": 6,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 2.9
+      "velocity": 2.89
     },
     "showlab/ShowUI": {
       "full_name": "showlab/ShowUI",
@@ -880,7 +904,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -965,6 +989,10 @@
         {
           "date": "2026-11-15",
           "stars": 1930
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1930
         }
       ],
       "delta_7d": 1,
@@ -1001,7 +1029,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1086,9 +1114,13 @@
         {
           "date": "2026-11-15",
           "stars": 3362
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 3362
         }
       ],
-      "delta_7d": -2,
+      "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
       "velocity": 2.57
@@ -1097,7 +1129,7 @@
       "full_name": "mbzuai-oryx/Video-ChatGPT",
       "url": "https://github.com/mbzuai-oryx/Video-ChatGPT",
       "description": "[ACL 2024 🔥] Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation. We also introduce a rigorous 'Quantitative Evaluation Benchmarking' for video-based conversational models.",
-      "stars": 1517,
+      "stars": 1518,
       "forks": 132,
       "language": "Python",
       "topics": [
@@ -1120,7 +1152,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1205,9 +1237,13 @@
         {
           "date": "2026-11-15",
           "stars": 1517
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1518
         }
       ],
-      "delta_7d": 1,
+      "delta_7d": 2,
       "delta_30d": null,
       "is_new": false,
       "velocity": 1.19
@@ -1217,7 +1253,7 @@
       "url": "https://github.com/NVlabs/VILA",
       "description": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
       "stars": 3873,
-      "forks": 337,
+      "forks": 338,
       "language": "Python",
       "topics": [],
       "pushed_at": "2026-03-12",
@@ -1227,7 +1263,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1312,18 +1348,22 @@
         {
           "date": "2026-11-15",
           "stars": 3873
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 3873
         }
       ],
       "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 3.89
+      "velocity": 3.88
     },
     "OpenAdaptAI/OpenAdapt": {
       "full_name": "OpenAdaptAI/OpenAdapt",
       "url": "https://github.com/OpenAdaptAI/OpenAdapt",
       "description": "For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match.",
-      "stars": 1882,
+      "stars": 1884,
       "forks": 283,
       "language": "Python",
       "topics": [
@@ -1348,14 +1388,14 @@
         "workflow-automation",
         "workflow-compiler"
       ],
-      "pushed_at": "2026-11-14",
+      "pushed_at": "2026-11-16",
       "created_at": "2023-04-12",
       "archived": false,
       "categories": [
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1440,9 +1480,13 @@
         {
           "date": "2026-11-15",
           "stars": 1882
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1884
         }
       ],
-      "delta_7d": 14,
+      "delta_7d": 15,
       "delta_30d": null,
       "is_new": false,
       "velocity": 1.43
@@ -1467,7 +1511,7 @@
         "latent-visual-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1552,12 +1596,16 @@
         {
           "date": "2026-11-15",
           "stars": 1520
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1520
         }
       ],
       "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 2.85
+      "velocity": 2.84
     },
     "teee000/LiLa-WAM": {
       "full_name": "teee000/LiLa-WAM",
@@ -1574,7 +1622,7 @@
         "latent-visual-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1659,12 +1707,16 @@
         {
           "date": "2026-11-15",
           "stars": 166
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 166
         }
       ],
       "delta_7d": 3,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 1.61
+      "velocity": 1.6
     },
     "LoveJu1y/LaRA-VLA": {
       "full_name": "LoveJu1y/LaRA-VLA",
@@ -1760,10 +1812,10 @@
           "stars": 108
         }
       ],
-      "delta_7d": 1,
+      "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 0.38
+      "velocity": 0.37
     },
     "apromisedland/VLCoT": {
       "full_name": "apromisedland/VLCoT",
@@ -1780,7 +1832,7 @@
         "latent-visual-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1865,19 +1917,23 @@
         {
           "date": "2026-11-15",
           "stars": 104
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 104
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 2.17
+      "velocity": 2.12
     },
     "alibaba/page-agent": {
       "full_name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 29690,
-      "forks": 2643,
+      "stars": 29694,
+      "forks": 2644,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1889,14 +1945,14 @@
         "typescript",
         "web"
       ],
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-15",
       "created_at": "2025-09-23",
       "archived": false,
       "categories": [
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -1981,18 +2037,22 @@
         {
           "date": "2026-11-15",
           "stars": 29690
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 29694
         }
       ],
       "delta_7d": 43,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 71.03
+      "velocity": 70.87
     },
     "X-PLUG/MobileAgent": {
       "full_name": "X-PLUG/MobileAgent",
       "url": "https://github.com/X-PLUG/MobileAgent",
       "description": " Mobile-Agent: The Powerful GUI Agent Family",
-      "stars": 9379,
+      "stars": 9382,
       "forks": 945,
       "language": "Python",
       "topics": [
@@ -2016,7 +2076,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2101,12 +2161,16 @@
         {
           "date": "2026-11-15",
           "stars": 9379
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 9382
         }
       ],
-      "delta_7d": 8,
+      "delta_7d": 10,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 9.16
+      "velocity": 9.15
     },
     "Tongyi-MAI/MAI-UI": {
       "full_name": "Tongyi-MAI/MAI-UI",
@@ -2132,7 +2196,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2217,12 +2281,16 @@
         {
           "date": "2026-11-15",
           "stars": 2429
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 2429
         }
       ],
       "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 7.25
+      "velocity": 7.23
     },
     "stepfun-ai/gelab-zero": {
       "full_name": "stepfun-ai/gelab-zero",
@@ -2298,14 +2366,14 @@
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 6.52
+      "velocity": 6.5
     },
     "IPADS-SAI/MobiAgent": {
       "full_name": "IPADS-SAI/MobiAgent",
       "url": "https://github.com/IPADS-SAI/MobiAgent",
       "description": "The Intelligent GUI Agent for Mobile Phones",
       "stars": 1935,
-      "forks": 231,
+      "forks": 232,
       "language": "Python",
       "topics": [],
       "pushed_at": "2026-07-17",
@@ -2315,7 +2383,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2400,12 +2468,16 @@
         {
           "date": "2026-11-15",
           "stars": 1935
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1935
         }
       ],
       "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 4.37
+      "velocity": 4.36
     },
     "Core-Mate/OpenGUI": {
       "full_name": "Core-Mate/OpenGUI",
@@ -2443,7 +2515,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2528,12 +2600,16 @@
         {
           "date": "2026-11-15",
           "stars": 1811
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1811
         }
       ],
       "delta_7d": 4,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 8.58
+      "velocity": 8.54
     },
     "ZJU-REAL/ClawGUI": {
       "full_name": "ZJU-REAL/ClawGUI",
@@ -2557,7 +2633,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2642,12 +2718,16 @@
         {
           "date": "2026-11-15",
           "stars": 1374
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1374
         }
       ],
       "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 6.19
+      "velocity": 6.16
     },
     "zai-org/CogAgent": {
       "full_name": "zai-org/CogAgent",
@@ -2670,7 +2750,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2755,6 +2835,10 @@
         {
           "date": "2026-11-15",
           "stars": 1202
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1202
         }
       ],
       "delta_7d": 4,
@@ -2766,7 +2850,7 @@
       "full_name": "inclusionAI/UI-Venus",
       "url": "https://github.com/inclusionAI/UI-Venus",
       "description": "UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input.",
-      "stars": 1080,
+      "stars": 1081,
       "forks": 89,
       "language": "HTML",
       "topics": [
@@ -2788,7 +2872,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2873,6 +2957,10 @@
         {
           "date": "2026-11-15",
           "stars": 1080
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1081
         }
       ],
       "delta_7d": 3,
@@ -2884,7 +2972,7 @@
       "full_name": "OSU-NLP-Group/GUI-Agents-Paper-List",
       "url": "https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List",
       "description": "Awesome GUI Agent Paper List",
-      "stars": 929,
+      "stars": 932,
       "forks": 48,
       "language": "TypeScript",
       "topics": [],
@@ -2895,7 +2983,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -2980,9 +3068,13 @@
         {
           "date": "2026-11-15",
           "stars": 929
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 932
         }
       ],
-      "delta_7d": 3,
+      "delta_7d": 5,
       "delta_30d": null,
       "is_new": false,
       "velocity": 1.25
@@ -3022,7 +3114,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3107,12 +3199,16 @@
         {
           "date": "2026-11-15",
           "stars": 866
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 866
         }
       ],
-      "delta_7d": 12,
+      "delta_7d": 10,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 4.68
+      "velocity": 4.66
     },
     "ZJU-REAL/Awesome-GUI-Agents": {
       "full_name": "ZJU-REAL/Awesome-GUI-Agents",
@@ -3134,7 +3230,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3219,6 +3315,10 @@
         {
           "date": "2026-11-15",
           "stars": 469
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 469
         }
       ],
       "delta_7d": 3,
@@ -3245,7 +3345,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3330,6 +3430,10 @@
         {
           "date": "2026-11-15",
           "stars": 321
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 321
         }
       ],
       "delta_7d": 0,
@@ -3341,7 +3445,7 @@
       "full_name": "MadeAgents/mobile-use",
       "url": "https://github.com/MadeAgents/mobile-use",
       "description": "MobileUse: an open-source mobile GUI agent for Android phone automation, AndroidWorld/AndroidLab evaluation, hierarchical reflection, and proactive exploration.",
-      "stars": 267,
+      "stars": 268,
       "forks": 17,
       "language": "Python",
       "topics": [
@@ -3366,7 +3470,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3451,9 +3555,13 @@
         {
           "date": "2026-11-15",
           "stars": 267
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 268
         }
       ],
-      "delta_7d": 6,
+      "delta_7d": 4,
       "delta_30d": null,
       "is_new": false,
       "velocity": 0.43
@@ -3473,7 +3581,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3557,6 +3665,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 186
+        },
+        {
+          "date": "2026-11-16",
           "stars": 186
         }
       ],
@@ -3580,7 +3692,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3664,6 +3776,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 150
+        },
+        {
+          "date": "2026-11-16",
           "stars": 150
         }
       ],
@@ -3687,7 +3803,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3772,6 +3888,10 @@
         {
           "date": "2026-11-15",
           "stars": 144
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 144
         }
       ],
       "delta_7d": 1,
@@ -3783,7 +3903,7 @@
       "full_name": "Tencent/UI-Mate",
       "url": "https://github.com/Tencent/UI-Mate",
       "description": "Advancing Foundation GUI Agents with In-Context Demonstrations",
-      "stars": 136,
+      "stars": 137,
       "forks": 12,
       "language": "JavaScript",
       "topics": [
@@ -3797,7 +3917,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3882,9 +4002,13 @@
         {
           "date": "2026-11-15",
           "stars": 136
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 137
         }
       ],
-      "delta_7d": 19,
+      "delta_7d": 20,
       "delta_30d": null,
       "is_new": true,
       "velocity": 1.46
@@ -3893,7 +4017,7 @@
       "full_name": "UniPat-AI/SaaS-Bench",
       "url": "https://github.com/UniPat-AI/SaaS-Bench",
       "description": "Official repository for SaaS-Bench: realistic, locally deployable SaaS workflows for GUI agent evaluation.",
-      "stars": 108,
+      "stars": 109,
       "forks": 14,
       "language": "Python",
       "topics": [],
@@ -3904,7 +4028,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -3989,18 +4113,22 @@
         {
           "date": "2026-11-15",
           "stars": 108
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 109
         }
       ],
-      "delta_7d": 2,
+      "delta_7d": 3,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 0.57
+      "velocity": 0.58
     },
     "kwai/MemGUI-Agent": {
       "full_name": "kwai/MemGUI-Agent",
       "url": "https://github.com/kwai/MemGUI-Agent",
       "description": "Official code for \"MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management\"",
-      "stars": 95,
+      "stars": 96,
       "forks": 5,
       "language": "Python",
       "topics": [
@@ -4017,7 +4145,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4102,9 +4230,13 @@
         {
           "date": "2026-11-15",
           "stars": 95
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 96
         }
       ],
-      "delta_7d": 1,
+      "delta_7d": 2,
       "delta_30d": null,
       "is_new": false,
       "velocity": 0.66
@@ -4124,7 +4256,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4209,12 +4341,16 @@
         {
           "date": "2026-11-15",
           "stars": 90
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 90
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 0.6
+      "velocity": 0.59
     },
     "fyzhang1/ExpActivator": {
       "full_name": "fyzhang1/ExpActivator",
@@ -4244,7 +4380,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4329,12 +4465,16 @@
         {
           "date": "2026-11-15",
           "stars": 89
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 89
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 1.31
+      "velocity": 1.29
     },
     "kwai/MobileForge": {
       "full_name": "kwai/MobileForge",
@@ -4359,7 +4499,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4444,6 +4584,10 @@
         {
           "date": "2026-11-15",
           "stars": 86
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 86
         }
       ],
       "delta_7d": 1,
@@ -4455,8 +4599,8 @@
       "full_name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "stars": 32360,
-      "forks": 2431,
+      "stars": 32417,
+      "forks": 2442,
       "language": "Rust",
       "topics": [
         "agent",
@@ -4478,14 +4622,14 @@
         "windows",
         "windows-sandbox"
       ],
-      "pushed_at": "2026-11-15",
+      "pushed_at": "2026-11-16",
       "created_at": "2025-01-31",
       "archived": false,
       "categories": [
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4570,19 +4714,23 @@
         {
           "date": "2026-11-15",
           "stars": 32360
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 32417
         }
       ],
-      "delta_7d": 392,
+      "delta_7d": 374,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 49.56
+      "velocity": 49.57
     },
     "simular-ai/Agent-S": {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
       "description": "Agent S: the state-of-the-art open source computer use agents",
-      "stars": 12973,
-      "forks": 1513,
+      "stars": 12981,
+      "forks": 1515,
       "language": "Python",
       "topics": [
         "agent-computer-interface",
@@ -4606,7 +4754,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4691,19 +4839,23 @@
         {
           "date": "2026-11-15",
           "stars": 12973
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 12981
         }
       ],
-      "delta_7d": 70,
+      "delta_7d": 69,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 16.91
+      "velocity": 16.9
     },
     "microsoft/fara": {
       "full_name": "microsoft/fara",
       "url": "https://github.com/microsoft/fara",
       "description": "Fara1.5 – A family of frontier computer use agent models",
-      "stars": 6255,
-      "forks": 606,
+      "stars": 6256,
+      "forks": 607,
       "language": "Python",
       "topics": [
         "agent",
@@ -4719,7 +4871,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4804,12 +4956,16 @@
         {
           "date": "2026-11-15",
           "stars": 6255
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 6256
         }
       ],
       "delta_7d": 6,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 16.37
+      "velocity": 16.33
     },
     "yuruotong1/autoMate": {
       "full_name": "yuruotong1/autoMate",
@@ -4838,7 +4994,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -4923,6 +5079,10 @@
         {
           "date": "2026-11-15",
           "stars": 4009
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 4009
         }
       ],
       "delta_7d": 1,
@@ -4957,7 +5117,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5042,19 +5202,23 @@
         {
           "date": "2026-11-15",
           "stars": 3178
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 3178
         }
       ],
-      "delta_7d": 1,
+      "delta_7d": 2,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 6.79
+      "velocity": 6.78
     },
     "e2b-dev/open-computer-use": {
       "full_name": "e2b-dev/open-computer-use",
       "url": "https://github.com/e2b-dev/open-computer-use",
       "description": "AI computer use powered by open source LLMs and E2B Desktop Sandbox",
-      "stars": 2410,
-      "forks": 268,
+      "stars": 2411,
+      "forks": 270,
       "language": "Python",
       "topics": [
         "agent",
@@ -5071,7 +5235,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5156,6 +5320,10 @@
         {
           "date": "2026-11-15",
           "stars": 2410
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 2411
         }
       ],
       "delta_7d": 4,
@@ -5213,13 +5381,13 @@
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 6.8
+      "velocity": 6.77
     },
     "AMAP-ML/LongHorizon-Harness": {
       "full_name": "AMAP-ML/LongHorizon-Harness",
       "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
       "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stars": 1873,
+      "stars": 1874,
       "forks": 196,
       "language": "Python",
       "topics": [
@@ -5248,7 +5416,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5333,12 +5501,16 @@
         {
           "date": "2026-11-15",
           "stars": 1873
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1874
         }
       ],
-      "delta_7d": 16,
+      "delta_7d": 12,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 18.18
+      "velocity": 18.02
     },
     "xlang-ai/OpenCUA": {
       "full_name": "xlang-ai/OpenCUA",
@@ -5362,7 +5534,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5447,6 +5619,10 @@
         {
           "date": "2026-11-15",
           "stars": 877
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 877
         }
       ],
       "delta_7d": 3,
@@ -5458,8 +5634,8 @@
       "full_name": "agent-sh/computer-use-linux",
       "url": "https://github.com/agent-sh/computer-use-linux",
       "description": "Native Linux desktop control for AI agents (MCP, Pi, CLI): semantic AT-SPI trees, screenshots, window targeting, and input across GNOME, KDE, Hyprland, niri, COSMIC, i3, Sway, labwc and other wlroots compositors, and X11.",
-      "stars": 885,
-      "forks": 106,
+      "stars": 891,
+      "forks": 107,
       "language": "Rust",
       "topics": [
         "accessibility",
@@ -5483,14 +5659,14 @@
         "x11",
         "ydotool"
       ],
-      "pushed_at": "2026-11-13",
+      "pushed_at": "2026-11-15",
       "created_at": "2026-05-13",
       "archived": false,
       "categories": [
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5575,9 +5751,13 @@
         {
           "date": "2026-11-15",
           "stars": 885
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 891
         }
       ],
-      "delta_7d": 57,
+      "delta_7d": 60,
       "delta_30d": null,
       "is_new": false,
       "velocity": 4.76
@@ -5586,8 +5766,8 @@
       "full_name": "ComputerUseAgent/AutoCua",
       "url": "https://github.com/ComputerUseAgent/AutoCua",
       "description": "Automate with computer use agent (ComputerUse / CUA) for macOS, Windows, Linux, Browser, iOS & Android. It sees the screen, clicks, types, browses and writes the code too. One agent, every computer.",
-      "stars": 1224,
-      "forks": 50,
+      "stars": 1249,
+      "forks": 52,
       "language": "Rust",
       "topics": [
         "browser-use",
@@ -5611,14 +5791,14 @@
         "web-use",
         "windows-ai"
       ],
-      "pushed_at": "2026-11-14",
+      "pushed_at": "2026-11-15",
       "created_at": "2026-10-08",
       "archived": false,
       "categories": [
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5703,12 +5883,16 @@
         {
           "date": "2026-11-15",
           "stars": 1224
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1249
         }
       ],
-      "delta_7d": 120,
+      "delta_7d": 152,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 32.21
+      "velocity": 32.03
     },
     "Hacker-Valley-Media/Interceptor": {
       "full_name": "Hacker-Valley-Media/Interceptor",
@@ -5742,7 +5926,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5827,19 +6011,23 @@
         {
           "date": "2026-11-15",
           "stars": 627
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 627
         }
       ],
-      "delta_7d": 16,
+      "delta_7d": 15,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 2.59
+      "velocity": 2.58
     },
     "Tongyi-MAI/OpenGCUA": {
       "full_name": "Tongyi-MAI/OpenGCUA",
       "url": "https://github.com/Tongyi-MAI/OpenGCUA",
       "description": "An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.",
-      "stars": 602,
-      "forks": 52,
+      "stars": 606,
+      "forks": 53,
       "language": "HTML",
       "topics": [],
       "pushed_at": "2026-10-26",
@@ -5849,7 +6037,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -5934,19 +6122,23 @@
         {
           "date": "2026-11-15",
           "stars": 602
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 606
         }
       ],
-      "delta_7d": 8,
+      "delta_7d": 11,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 19.42
+      "velocity": 18.94
     },
     "ctoldigital/axuse": {
       "full_name": "ctoldigital/axuse",
       "url": "https://github.com/ctoldigital/axuse",
       "description": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
       "stars": 804,
-      "forks": 42,
+      "forks": 43,
       "language": "JavaScript",
       "topics": [
         "agentic-automation",
@@ -5969,7 +6161,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6054,18 +6246,22 @@
         {
           "date": "2026-11-15",
           "stars": 804
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 804
         }
       ],
       "delta_7d": 1,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 25.12
+      "velocity": 24.36
     },
     "testdriverai/testdriverai": {
       "full_name": "testdriverai/testdriverai",
       "url": "https://github.com/testdriverai/testdriverai",
       "description": "Computer-Use SDK for E2E QA Testing",
-      "stars": 356,
+      "stars": 357,
       "forks": 38,
       "language": "JavaScript",
       "topics": [
@@ -6095,7 +6291,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6180,9 +6376,13 @@
         {
           "date": "2026-11-15",
           "stars": 356
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 357
         }
       ],
-      "delta_7d": -9,
+      "delta_7d": 2,
       "delta_30d": null,
       "is_new": false,
       "velocity": 0.44
@@ -6216,7 +6416,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6301,12 +6501,16 @@
         {
           "date": "2026-11-15",
           "stars": 421
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 421
         }
       ],
       "delta_7d": 9,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 1.05
+      "velocity": 1.04
     },
     "mrpulor-gh/nuphus-mcp": {
       "full_name": "mrpulor-gh/nuphus-mcp",
@@ -6365,13 +6569,13 @@
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 3.12
+      "velocity": 3.09
     },
     "MoonshotAI/Kimi-K2.5": {
       "full_name": "MoonshotAI/Kimi-K2.5",
       "url": "https://github.com/MoonshotAI/Kimi-K2.5",
       "description": "Open Visual Agentic Intelligence",
-      "stars": 2321,
+      "stars": 2323,
       "forks": 329,
       "language": "",
       "topics": [],
@@ -6382,7 +6586,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6467,12 +6671,16 @@
         {
           "date": "2026-11-15",
           "stars": 2321
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 2323
         }
       ],
-      "delta_7d": 0,
+      "delta_7d": 3,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 8.03
+      "velocity": 8.01
     },
     "digiteinfotech/kairon": {
       "full_name": "digiteinfotech/kairon",
@@ -6510,7 +6718,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6595,6 +6803,10 @@
         {
           "date": "2026-11-15",
           "stars": 284
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 284
         }
       ],
       "delta_7d": 0,
@@ -6606,8 +6818,8 @@
       "full_name": "uclanlp/OpenVLHarness",
       "url": "https://github.com/uclanlp/OpenVLHarness",
       "description": "Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory",
-      "stars": 507,
-      "forks": 36,
+      "stars": 520,
+      "forks": 39,
       "language": "Python",
       "topics": [
         "agent-harness",
@@ -6638,7 +6850,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6723,12 +6935,16 @@
         {
           "date": "2026-11-15",
           "stars": 507
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 520
         }
       ],
-      "delta_7d": 90,
+      "delta_7d": 89,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 16.35
+      "velocity": 16.25
     },
     "chekusu/yomado": {
       "full_name": "chekusu/yomado",
@@ -6745,7 +6961,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6830,12 +7046,16 @@
         {
           "date": "2026-11-15",
           "stars": 217
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 217
         }
       ],
       "delta_7d": 3,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 6.03
+      "velocity": 5.86
     },
     "AngusKit/AngusAI": {
       "full_name": "AngusKit/AngusAI",
@@ -6860,7 +7080,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -6944,6 +7164,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 91
+        },
+        {
+          "date": "2026-11-16",
           "stars": 91
         }
       ],
@@ -6957,7 +7181,7 @@
       "url": "https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding",
       "description": "GUI Grounding for Professional High-Resolution Computer Use",
       "stars": 398,
-      "forks": 56,
+      "forks": 59,
       "language": "Python",
       "topics": [],
       "pushed_at": "2026-06-17",
@@ -6967,7 +7191,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7052,6 +7276,10 @@
         {
           "date": "2026-11-15",
           "stars": 398
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 398
         }
       ],
       "delta_7d": 0,
@@ -7063,7 +7291,7 @@
       "full_name": "TeleAI-UAGI/telemem",
       "url": "https://github.com/TeleAI-UAGI/telemem",
       "description": "TeleMem is a high-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning.",
-      "stars": 492,
+      "stars": 493,
       "forks": 36,
       "language": "Python",
       "topics": [
@@ -7091,7 +7319,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7176,12 +7404,16 @@
         {
           "date": "2026-11-15",
           "stars": 492
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 493
         }
       ],
-      "delta_7d": -1,
+      "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 1.43
+      "velocity": 1.42
     },
     "LJungang/Awesome-Video-Reasoning-Landscape": {
       "full_name": "LJungang/Awesome-Video-Reasoning-Landscape",
@@ -7215,7 +7447,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7299,6 +7531,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 194
+        },
+        {
+          "date": "2026-11-16",
           "stars": 194
         }
       ],
@@ -7322,7 +7558,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7406,6 +7642,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 172
+        },
+        {
+          "date": "2026-11-16",
           "stars": 172
         }
       ],
@@ -7429,7 +7669,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7513,6 +7753,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 164
+        },
+        {
+          "date": "2026-11-16",
           "stars": 164
         }
       ],
@@ -7543,7 +7787,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7628,6 +7872,10 @@
         {
           "date": "2026-11-15",
           "stars": 137
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 137
         }
       ],
       "delta_7d": 4,
@@ -7650,7 +7898,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7734,6 +7982,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 88
+        },
+        {
+          "date": "2026-11-16",
           "stars": 88
         }
       ],
@@ -7746,7 +7998,7 @@
       "full_name": "Mark12Ding/Dispider",
       "url": "https://github.com/Mark12Ding/Dispider",
       "description": "[CVPR 2025]Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction",
-      "stars": 185,
+      "stars": 186,
       "forks": 13,
       "language": "Python",
       "topics": [],
@@ -7757,7 +8009,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7842,12 +8094,16 @@
         {
           "date": "2026-11-15",
           "stars": 185
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 186
         }
       ],
-      "delta_7d": 0,
+      "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 0.26
+      "velocity": 0.27
     },
     "facebookresearch/pytorchvideo": {
       "full_name": "facebookresearch/pytorchvideo",
@@ -7864,7 +8120,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -7948,6 +8204,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 3569
+        },
+        {
+          "date": "2026-11-16",
           "stars": 3569
         }
       ],
@@ -7980,7 +8240,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8065,12 +8325,16 @@
         {
           "date": "2026-11-15",
           "stars": 2049
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 2049
         }
       ],
-      "delta_7d": 39,
+      "delta_7d": 14,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 4.21
+      "velocity": 4.2
     },
     "bytedance/Lance": {
       "full_name": "bytedance/Lance",
@@ -8094,7 +8358,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8179,12 +8443,16 @@
         {
           "date": "2026-11-15",
           "stars": 1368
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 1368
         }
       ],
       "delta_7d": 3,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 7.43
+      "velocity": 7.39
     },
     "OpenMOSS/MOSS-VL": {
       "full_name": "OpenMOSS/MOSS-VL",
@@ -8217,7 +8485,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8302,12 +8570,16 @@
         {
           "date": "2026-11-15",
           "stars": 833
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 833
         }
       ],
-      "delta_7d": 11,
+      "delta_7d": 8,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 3.77
+      "velocity": 3.75
     },
     "bytedance/vidi": {
       "full_name": "bytedance/vidi",
@@ -8324,7 +8596,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8409,6 +8681,10 @@
         {
           "date": "2026-11-15",
           "stars": 663
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 663
         }
       ],
       "delta_7d": 0,
@@ -8435,7 +8711,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8520,9 +8796,13 @@
         {
           "date": "2026-11-15",
           "stars": 498
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 498
         }
       ],
-      "delta_7d": 5,
+      "delta_7d": 3,
       "delta_30d": null,
       "is_new": false,
       "velocity": 1.44
@@ -8542,7 +8822,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8627,9 +8907,13 @@
         {
           "date": "2026-11-15",
           "stars": 421
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 421
         }
       ],
-      "delta_7d": -1,
+      "delta_7d": 3,
       "delta_30d": null,
       "is_new": false,
       "velocity": 0.71
@@ -8654,7 +8938,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8739,6 +9023,10 @@
         {
           "date": "2026-11-15",
           "stars": 401
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 401
         }
       ],
       "delta_7d": 0,
@@ -8767,7 +9055,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8852,18 +9140,22 @@
         {
           "date": "2026-11-15",
           "stars": 368
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 368
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 1.63
+      "velocity": 1.62
     },
     "nv-tlabs/PixelUMM": {
       "full_name": "nv-tlabs/PixelUMM",
       "url": "https://github.com/nv-tlabs/PixelUMM",
       "description": "Encoder-Free Unified Image and Video Understanding and Generation",
-      "stars": 419,
+      "stars": 420,
       "forks": 12,
       "language": "Python",
       "topics": [],
@@ -8874,7 +9166,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -8959,12 +9251,16 @@
         {
           "date": "2026-11-15",
           "stars": 419
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 420
         }
       ],
-      "delta_7d": 2,
+      "delta_7d": 3,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 5.82
+      "velocity": 5.75
     },
     "mbzuai-oryx/VideoGPT-plus": {
       "full_name": "mbzuai-oryx/VideoGPT-plus",
@@ -8998,7 +9294,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9083,6 +9379,10 @@
         {
           "date": "2026-11-15",
           "stars": 294
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 294
         }
       ],
       "delta_7d": 0,
@@ -9105,7 +9405,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9190,12 +9490,16 @@
         {
           "date": "2026-11-15",
           "stars": 310
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 310
         }
       ],
-      "delta_7d": 13,
+      "delta_7d": 11,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 8.16
+      "velocity": 7.95
     },
     "PolyX-Research/Response-G1": {
       "full_name": "PolyX-Research/Response-G1",
@@ -9212,7 +9516,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9297,12 +9601,16 @@
         {
           "date": "2026-11-15",
           "stars": 239
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 239
         }
       ],
       "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 1.14
+      "velocity": 1.13
     },
     "OpenMOSS/MOSS-Video-Preview": {
       "full_name": "OpenMOSS/MOSS-Video-Preview",
@@ -9324,7 +9632,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9408,6 +9716,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 174
+        },
+        {
+          "date": "2026-11-16",
           "stars": 174
         }
       ],
@@ -9436,7 +9748,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9520,6 +9832,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 163
+        },
+        {
+          "date": "2026-11-16",
           "stars": 163
         }
       ],
@@ -9543,7 +9859,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9627,6 +9943,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 146
+        },
+        {
+          "date": "2026-11-16",
           "stars": 146
         }
       ],
@@ -9656,7 +9976,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9740,6 +10060,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 124
+        },
+        {
+          "date": "2026-11-16",
           "stars": 124
         }
       ],
@@ -9853,7 +10177,7 @@
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 0.66
+      "velocity": 0.65
     },
     "cambrian-mllm/cambrian-p": {
       "full_name": "cambrian-mllm/cambrian-p",
@@ -9870,7 +10194,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -9954,6 +10278,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 121
+        },
+        {
+          "date": "2026-11-16",
           "stars": 121
         }
       ],
@@ -10075,7 +10403,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10159,6 +10487,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 99
+        },
+        {
+          "date": "2026-11-16",
           "stars": 99
         }
       ],
@@ -10182,7 +10514,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10267,12 +10599,16 @@
         {
           "date": "2026-11-15",
           "stars": 89
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 89
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 2.41
+      "velocity": 2.34
     },
     "chakravarthi589/Video-Question-Answering_Resources": {
       "full_name": "chakravarthi589/Video-Question-Answering_Resources",
@@ -10305,7 +10641,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10390,6 +10726,10 @@
         {
           "date": "2026-11-15",
           "stars": 98
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 98
         }
       ],
       "delta_7d": 0,
@@ -10401,8 +10741,8 @@
       "full_name": "zai-org/GLM-V",
       "url": "https://github.com/zai-org/GLM-V",
       "description": "GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
-      "stars": 2406,
-      "forks": 191,
+      "stars": 2407,
+      "forks": 192,
       "language": "Python",
       "topics": [
         "image2text",
@@ -10417,7 +10757,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10502,6 +10842,10 @@
         {
           "date": "2026-11-15",
           "stars": 2406
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 2407
         }
       ],
       "delta_7d": 3,
@@ -10524,7 +10868,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10608,6 +10952,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 620
+        },
+        {
+          "date": "2026-11-16",
           "stars": 620
         }
       ],
@@ -10636,7 +10984,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10721,12 +11069,16 @@
         {
           "date": "2026-11-15",
           "stars": 320
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 320
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 0.86
+      "velocity": 0.85
     },
     "The-Martyr/Awesome-Multimodal-Reasoning": {
       "full_name": "The-Martyr/Awesome-Multimodal-Reasoning",
@@ -10754,14 +11106,14 @@
         "video-understanding",
         "vlm"
       ],
-      "pushed_at": "2026-10-19",
+      "pushed_at": "2026-11-15",
       "created_at": "2025-02-16",
       "archived": false,
       "categories": [
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10845,6 +11197,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 108
+        },
+        {
+          "date": "2026-11-16",
           "stars": 108
         }
       ],
@@ -10889,7 +11245,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -10974,6 +11330,10 @@
         {
           "date": "2026-11-15",
           "stars": 593
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 593
         }
       ],
       "delta_7d": 1,
@@ -10985,8 +11345,8 @@
       "full_name": "vllm-project/vllm-omni",
       "url": "https://github.com/vllm-project/vllm-omni",
       "description": "A framework for efficient model inference with omni-modality models",
-      "stars": 7764,
-      "forks": 2126,
+      "stars": 7784,
+      "forks": 2134,
       "language": "Python",
       "topics": [
         "audio-generation",
@@ -11000,14 +11360,14 @@
         "video-generation",
         "world-model"
       ],
-      "pushed_at": "2026-11-15",
+      "pushed_at": "2026-11-16",
       "created_at": "2025-09-11",
       "archived": false,
       "categories": [
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11092,9 +11452,13 @@
         {
           "date": "2026-11-15",
           "stars": 7764
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 7784
         }
       ],
-      "delta_7d": 148,
+      "delta_7d": 146,
       "delta_30d": null,
       "is_new": false,
       "velocity": 18.06
@@ -11104,7 +11468,7 @@
       "url": "https://github.com/NVlabs/OmniVinci",
       "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
       "stars": 683,
-      "forks": 55,
+      "forks": 56,
       "language": "Python",
       "topics": [
         "audio-language-model",
@@ -11120,7 +11484,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11205,12 +11569,16 @@
         {
           "date": "2026-11-15",
           "stars": 683
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 683
         }
       ],
       "delta_7d": -1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 1.64
+      "velocity": 1.63
     },
     "redai-studio/Relax": {
       "full_name": "redai-studio/Relax",
@@ -11230,14 +11598,14 @@
         "reinforcement-learning",
         "rlhf"
       ],
-      "pushed_at": "2026-11-15",
+      "pushed_at": "2026-11-16",
       "created_at": "2026-04-13",
       "archived": false,
       "categories": [
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11322,12 +11690,16 @@
         {
           "date": "2026-11-15",
           "stars": 676
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 676
         }
       ],
-      "delta_7d": 3,
+      "delta_7d": 1,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 3.13
+      "velocity": 3.12
     },
     "opendilab/LightRFT": {
       "full_name": "opendilab/LightRFT",
@@ -11354,7 +11726,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11439,12 +11811,16 @@
         {
           "date": "2026-11-15",
           "stars": 381
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 381
         }
       ],
       "delta_7d": 2,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 1.17
+      "velocity": 1.16
     },
     "Livioni/OmniVGGT-official": {
       "full_name": "Livioni/OmniVGGT-official",
@@ -11464,7 +11840,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11549,12 +11925,16 @@
         {
           "date": "2026-11-15",
           "stars": 385
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 385
         }
       ],
-      "delta_7d": 4,
+      "delta_7d": 3,
       "delta_30d": null,
       "is_new": false,
-      "velocity": 1.03
+      "velocity": 1.02
     },
     "TaoLiveAIGC/TLive-Omni": {
       "full_name": "TaoLiveAIGC/TLive-Omni",
@@ -11579,7 +11959,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11664,18 +12044,22 @@
         {
           "date": "2026-11-15",
           "stars": 342
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 342
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 3.68
+      "velocity": 3.64
     },
     "Omni-Scientist/OmniScientist": {
       "full_name": "Omni-Scientist/OmniScientist",
       "url": "https://github.com/Omni-Scientist/OmniScientist",
       "description": "An Omni-Modal, Omni-Discipline AI Scientist",
-      "stars": 172,
+      "stars": 173,
       "forks": 20,
       "language": "TypeScript",
       "topics": [
@@ -11692,7 +12076,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11777,12 +12161,16 @@
         {
           "date": "2026-11-15",
           "stars": 172
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 173
         }
       ],
-      "delta_7d": -1,
+      "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 1.89
+      "velocity": 1.88
     },
     "Tsinghua-MARS-Lab/OMG": {
       "full_name": "Tsinghua-MARS-Lab/OMG",
@@ -11807,7 +12195,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -11891,6 +12279,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 125
+        },
+        {
+          "date": "2026-11-16",
           "stars": 125
         }
       ],
@@ -11920,7 +12312,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -12005,12 +12397,16 @@
         {
           "date": "2026-11-15",
           "stars": 151
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 151
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 3.77
+      "velocity": 3.68
     },
     "THU-BPM/Omni-SafetyBench": {
       "full_name": "THU-BPM/Omni-SafetyBench",
@@ -12036,7 +12432,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -12121,6 +12517,10 @@
         {
           "date": "2026-11-15",
           "stars": 116
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 116
         }
       ],
       "delta_7d": 0,
@@ -12146,7 +12546,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -12231,19 +12631,23 @@
         {
           "date": "2026-11-15",
           "stars": 112
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 112
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
       "is_new": true,
-      "velocity": 1.49
+      "velocity": 1.47
     },
     "HarryHsing/OmniAgent": {
       "full_name": "HarryHsing/OmniAgent",
       "url": "https://github.com/HarryHsing/OmniAgent",
       "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception — a 7B agent that beats Qwen2.5-VL-72B with 73% fewer frames on LVBench.",
       "stars": 90,
-      "forks": 8,
+      "forks": 6,
       "language": "Python",
       "topics": [
         "agent",
@@ -12269,7 +12673,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -12354,6 +12758,10 @@
         {
           "date": "2026-11-15",
           "stars": 90
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 90
         }
       ],
       "delta_7d": 4,
@@ -12382,7 +12790,7 @@
         "efficient-visual-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -12466,6 +12874,10 @@
         },
         {
           "date": "2026-11-15",
+          "stars": 103
+        },
+        {
+          "date": "2026-11-16",
           "stars": 103
         }
       ],
@@ -12489,7 +12901,7 @@
         "efficient-visual-reasoning"
       ],
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-26",
@@ -12574,6 +12986,10 @@
         {
           "date": "2026-11-15",
           "stars": 87
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 87
         }
       ],
       "delta_7d": 0,
@@ -12596,7 +13012,7 @@
         "video-reasoning"
       ],
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-28",
@@ -12673,6 +13089,10 @@
         {
           "date": "2026-11-15",
           "stars": 124
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 124
         }
       ],
       "delta_7d": 2,
@@ -12701,7 +13121,7 @@
         "multimodal-reasoning"
       ],
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-30",
@@ -12770,18 +13190,22 @@
         {
           "date": "2026-11-15",
           "stars": 95
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 95
         }
       ],
       "delta_7d": 0,
       "delta_30d": null,
-      "velocity": 1.17,
+      "velocity": 1.16,
       "is_new": true
     },
     "skalesapp/skales": {
       "full_name": "skalesapp/skales",
       "url": "https://github.com/skalesapp/skales",
       "description": "Personal AI agent harness for macOS, Windows, Linux, Android & iOS. New: Skales Scout, lasting AI agents that keep working on your desk, each optionally in its own virtual machine. Chat, coding (Skales Code), Flow, automations, computer use, browser, voice, MCP, local LLMs (Ollama). BYOK, 26 providers. No Docker, no terminal.",
-      "stars": 2239,
+      "stars": 2241,
       "forks": 299,
       "language": "",
       "topics": [
@@ -12813,7 +13237,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-30",
@@ -12882,19 +13306,23 @@
         {
           "date": "2026-11-15",
           "stars": 2239
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 2241
         }
       ],
-      "delta_7d": 9,
+      "delta_7d": 10,
       "delta_30d": null,
-      "velocity": 8.88,
+      "velocity": 8.86,
       "is_new": false
     },
     "vercel-labs/agent-desktop": {
       "full_name": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
-      "stars": 23910,
-      "forks": 1782,
+      "stars": 24373,
+      "forks": 1809,
       "language": "Rust",
       "topics": [
         "accessibility",
@@ -12917,7 +13345,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-30",
@@ -12986,11 +13414,15 @@
         {
           "date": "2026-11-15",
           "stars": 23910
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 24373
         }
       ],
-      "delta_7d": 4789,
+      "delta_7d": 4476,
       "delta_30d": null,
-      "velocity": 88.88,
+      "velocity": 90.27,
       "is_new": false
     },
     "Computer-use-agents/dart-gui": {
@@ -13012,7 +13444,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-10-31",
@@ -13077,6 +13509,10 @@
         {
           "date": "2026-11-15",
           "stars": 99
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 99
         }
       ],
       "delta_7d": 0,
@@ -13088,8 +13524,8 @@
       "full_name": "reacher-z/Awesome-CUA",
       "url": "https://github.com/reacher-z/Awesome-CUA",
       "description": "Open, source-backed catalog of computer-use agents: reviewed papers, GUI models, datasets, benchmarks, tools, and reusable JSONL/SQLite data.",
-      "stars": 911,
-      "forks": 146,
+      "stars": 961,
+      "forks": 147,
       "language": "Python",
       "topics": [
         "agent-evaluation",
@@ -13113,14 +13549,14 @@
         "vision-language-models",
         "web-agents"
       ],
-      "pushed_at": "2026-11-15",
+      "pushed_at": "2026-11-16",
       "created_at": "2026-10-16",
       "archived": false,
       "categories": [
         "agentic-vision"
       ],
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-11-01",
@@ -13181,11 +13617,15 @@
         {
           "date": "2026-11-15",
           "stars": 911
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 961
         }
       ],
       "delta_7d": 339,
       "delta_30d": null,
-      "velocity": 30.37,
+      "velocity": 31.0,
       "is_new": true
     },
     "microsoft/GUI-Actor": {
@@ -13193,7 +13633,7 @@
       "url": "https://github.com/microsoft/GUI-Actor",
       "description": "[NeurIPS'25] GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents",
       "stars": 424,
-      "forks": 52,
+      "forks": 53,
       "language": "Python",
       "topics": [],
       "pushed_at": "2026-11-11",
@@ -13203,7 +13643,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-11-07",
@@ -13240,6 +13680,10 @@
         {
           "date": "2026-11-15",
           "stars": 424
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 424
         }
       ],
       "delta_7d": 0,
@@ -13251,7 +13695,7 @@
       "full_name": "alchaincyf/huashu-mac-use",
       "url": "https://github.com/alchaincyf/huashu-mac-use",
       "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
-      "stars": 344,
+      "stars": 345,
       "forks": 51,
       "language": "Swift",
       "topics": [
@@ -13276,7 +13720,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-11-08",
@@ -13309,11 +13753,15 @@
         {
           "date": "2026-11-15",
           "stars": 344
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 345
         }
       ],
       "delta_7d": 6,
       "delta_30d": null,
-      "velocity": 4.91,
+      "velocity": 4.86,
       "is_new": true
     },
     "oss-invisible/playwright_mcp": {
@@ -13352,7 +13800,7 @@
         "agentic-vision"
       ],
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "history": [
         {
           "date": "2026-11-13",
@@ -13365,11 +13813,15 @@
         {
           "date": "2026-11-15",
           "stars": 865
+        },
+        {
+          "date": "2026-11-16",
+          "stars": 865
         }
       ],
       "delta_7d": null,
       "delta_30d": null,
-      "velocity": 18.4,
+      "velocity": 18.02,
       "is_new": true
     }
   }

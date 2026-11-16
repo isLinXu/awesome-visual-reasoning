@@ -68,6 +68,7 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-13 | **Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding** | Haolin Yang, Wenshan Wu et al. | Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate… | [📄 2611.17797](https://arxiv.org/abs/2611.17797) `cs.AI` |
 | 2026-11-10 | **A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents** | Jingjing Jiang | Recent work shows that multimodal agents increasingly self-improve without recurring human anno… | [📄 2611.14256](https://arxiv.org/abs/2611.14256) [💻](https://github.com/jingjing12110/SE-MMAgents) 🤗 |
 | 2026-11-12 | **XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction** | Kerui Gu, Xing Fu et al. | Embodied interaction requires an agent to integrate multimodal perception with verbal and nonve… | [📄 2611.17160](https://arxiv.org/abs/2611.17160) `cs.RO` |
 | 2026-11-10 | **DisasterAgent: An Evidence-Driven Agent for Verifiable Disaster Report Generation From Remote Sensing Imagery** | Zhijian Li, Jiawei Song et al. | Remote sensing disaster assessment is moving from simple damage classification toward comprehen… | [📄 2611.13776](https://arxiv.org/abs/2611.13776) `cs.CV` |
@@ -267,7 +268,6 @@ SFT（图文指令）
 | 2026-08-05 | **Reading Between the Frames of Multimodal Drivelology** | Yang Wang, Yanan Ma et al. | Social media videos often communicate meanings that go beyond their visible actions, captions... | [📄 2608.04939](https://arxiv.org/abs/2608.04939) `cs.CL` |
 | 2026-08-04 | **Aligning Large Vision-Language Models at Test Time: A Trajectory-Guided Structured Sampling Approach** | Tianbao Jiang, Weicong Ni et al. | Post-training reinforcement learning (RL) algorithms are commonly used to align large vision-la... | [📄 2608.03204](https://arxiv.org/abs/2608.03204) `cs.CL` |
 | 2026-08-04 | **OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models** | Wanshun Su, Yang Shi et al. | Omni-modal large language models (Omni-LLMs) have achieved remarkable performance on audio-visu... | [📄 2608.03812](https://arxiv.org/abs/2608.03812) `cs.CV` |
-| 2026-08-03 | **CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning** | Xuehang Guo, Pingyue Zhang et al. | Chart question answering (CQA) requires multimodal large language models (MLLMs) to integrate v... | [📄 2608.02833](https://arxiv.org/abs/2608.02833) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

@@ -54,9 +54,6 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2024-03-11 | **An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models** | Liang Chen, Haozhe Zhao et al. | 视觉 token 剪枝的开创性工作：图像 token 的注意力极稀疏，砍掉大部分几乎不掉点 | [📄 2403.06764](https://arxiv.org/abs/2403.06764) |
-| 2024-03-22 | **LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models** | Yuzhang Shang, Mu Cai et al. | 自适应 token 归并，把'压多少'交给数据决定而非固定比例 | [📄 2403.15388](https://arxiv.org/abs/2403.15388) |
-| 2025-02-16 | **Learning to Stop Overthinking at Test Time** | Hieu Tran Bao, Nguyen Cong Dat et al. | 测试时学会'停止思考'，多模态过度思考治理的代表 | [📄 2502.10954](https://arxiv.org/abs/2502.10954) |
 <!-- table:end classics -->
 
 ## 6. 📄 自动跟踪的最新论文
@@ -64,6 +61,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-16 | **POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models** | Jaehyuk Lee, Yeajin Lee et al. | Visual token pruning reduces the inference cost of Vision-Language-Action (VLA) models… | [📄 2611.21033](https://arxiv.org/abs/2611.21033) `cs.CV` |
+| 2026-11-16 | **How Reliable Is Visual Token Selection? Rethinking Pruning in Multimodal LLMs** | Chaehee Song, Seokil Ham et al. | Visual token pruning improves the efficiency of multimodal large language models (MLLMs) by rem… | [📄 2611.20505](https://arxiv.org/abs/2611.20505) `cs.CV` |
+| 2026-11-15 | **Glance, then Select: Evidence-Tempered Visual Token Selection for Extremely Compressed Multimodal LLMs** | Yuxuan Wang, Guangxiang Zhao et al. | Multimodal large language models (MLLMs) encode a high-resolution image into thousands of visua… | [📄 2611.20006](https://arxiv.org/abs/2611.20006) `cs.CV` |
 | 2026-11-12 | **DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models** | Yi-Hsin Hung, Fangfu Liu et al. | Multimodal diffusion large language models (dLLMs) generate text through iterative masked denoi… | [📄 2611.16345](https://arxiv.org/abs/2611.16345) `cs.LG` |
 | 2026-11-11 | **DiFiT: Distribution-Fidelity-guided Visual Token Pruning for Multimodal Large Language Models** | Jingyuan Zhang, Nihao Niu et al. | Visual token pruning reduces the inference cost of multimodal large language models… | [📄 2611.15069](https://arxiv.org/abs/2611.15069) `cs.CV` |
 | 2026-11-09 | **APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models** | Xiaoyang Xing, Chun-Mei Feng et al. | Vision-language-action (VLA) policies have demonstrated strong generalization in robotic manipu… | [📄 2611.13030](https://arxiv.org/abs/2611.13030) `cs.AI` |

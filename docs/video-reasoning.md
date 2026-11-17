@@ -62,12 +62,6 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2024-05-31 | **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis** | Chaoyou Fu, Yuhan Dai et al. | 长视频理解的标杆评测，确立了按时长分档报告的方法论 | [📄 2405.21075](https://arxiv.org/abs/2405.21075) |
-| 2023-06-08 | **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** | Muhammad Maaz, Hanoona Rasheed et al. | 视频对话模型的开山之作，理解'视频 LLM'范式从这里开始 | [📄 2306.05424](https://arxiv.org/abs/2306.05424) |
-| 2023-11-28 | **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark** | Kunchang Li, Yali Wang et al. | 把时序理解拆成 20 类细粒度任务，测出'是否真在看顺序' | [📄 2311.17005](https://arxiv.org/abs/2311.17005) |
-| 2024-08-19 | **LongVILA: Scaling Long-Context Visual Language Models for Long Videos** | Yukang Chen, Fuzhao Xue et al. | 长上下文视频建模的系统性工程：从训练并行到数据配比 | [📄 2408.10188](https://arxiv.org/abs/2408.10188) |
-| 2025-01-23 | **Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos** | Kairui Hu, Penghao Wu et al. | 视频中的知识获取评测，把'看视频学习'单独量化 | [📄 2501.13826](https://arxiv.org/abs/2501.13826) |
-| 2024-03-18 | **VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding** | Yue Fan, Xiaojian Ma et al. | 记忆增强的视频 agent：主动检索关键帧而非全量喂入 | [📄 2403.11481](https://arxiv.org/abs/2403.11481) |
 <!-- table:end classics -->
 
 ## 6. 📄 自动跟踪的最新论文
@@ -75,6 +69,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-14 | **EndoComparer: Comparative Surgical Video Question Answering with Pseudo-Siamese Visual Adaptation and Perceive-then-Compare Reasoning** | Shi Li, Lalith Sharan et al. | Purpose: Surgical training benefits from explicit comparison between cases: in patient conditio… | [📄 2611.19578](https://arxiv.org/abs/2611.19578) `cs.CV` |
+| 2026-11-11 | **VTG-RAG: Long-Video Reasoning via Query-Adaptive Coarse-to-Fine Sampling and Temporal Graph Retrieval** | Yao Lu, Yunhao Wang et al. | Long-video reasoning requires a system to localize sparse evidence over extended temporal seque… | [📄 2611.18746](https://arxiv.org/abs/2611.18746) `cs.CV` |
 | 2026-11-11 | **CineMME: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding** | Jin Liu, Dawei Du et al. | Narrative video understanding requires more than recognizing visible events: models must extrac… | [📄 2611.15161](https://arxiv.org/abs/2611.15161) `cs.CV` |
 | 2026-11-11 | **SAVE: Less is More in Agentic Video Reasoning** | Tymoteusz Wilk, Sergey Prokudin et al. | Agentic video-reasoning frameworks iteratively explore a video… | [📄 2611.15079](https://arxiv.org/abs/2611.15079) `cs.CV` |
 | 2026-11-11 | **Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark** | Shunming Liu, Jianyi Peng et al. | Surround-view video understanding in autonomous driving is a crucial capability for Multimodal… | [📄 2611.15225](https://arxiv.org/abs/2611.15225) `cs.AI` |
@@ -273,8 +269,6 @@
 | 2026-06-01 | **TLG: Temporal-Logic Grounding for Video Question Answering via Source-Annotation Reconstruction and Category-Targeted Reasoning** | Ali Alavi | The TimeLogic Challenge evaluates formal temporal-logic reasoning over video - 16 operators (be... | [📄 2606.01591](https://arxiv.org/abs/2606.01591) `cs.CV` |
 | 2026-06-01 | **3rd Place at CVPR 2026 CASTLE Challenge: Agentic Multi-View Long-Context Video Understanding via Hierarchical Knowledge Graph Retrieval** | Raghad Albusayes, Munirah Alyahya | Our winning methodology for the CASTLE 2026 Challenge at the CVPR 2026 EgoVis Workshop... | [📄 2606.01933](https://arxiv.org/abs/2606.01933) `cs.CV` |
 | 2026-06-01 | **TimeLogic Challenge @ CVPR 2026: Strong MLLMs Meet Evidence-Seeking Agents for Temporal-Logic Video Question Answering** | Zhaoyang Xu, Xusheng He et al. | Temporal-logic video question answering requires a model to reason about when actions occur rel... | [📄 2606.01631](https://arxiv.org/abs/2606.01631) `cs.MM` |
-| 2026-06-01 | **Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events** | Xiaolin Liu, Yilun Zhu et al. | Video multimodal large language models (MLLMs) have made rapid progress in general and long-for... | [📄 2606.02522](https://arxiv.org/abs/2606.02522) `cs.CV` |
-| 2026-06-01 | **MOSS-Video-Preview: Toward Real-Time Video Understanding via Cross-Attention** | Pengyu Wang, Chenkun Tan et al. | Video understanding is shifting from the offline paradigm -- taking a fully recorded video as i... | [📄 2606.07639](https://arxiv.org/abs/2606.07639) `cs.CV` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

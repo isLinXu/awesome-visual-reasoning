@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T08:19:21Z",
+  "updated": "2026-11-17T09:38:44Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9571,6 +9571,193 @@
       "score": 4.5,
       "primary_category": "cs.AI",
       "first_seen": "2026-11-13"
+    },
+    "2611.19131": {
+      "title": "Wireless Edge-Assisted Adaptive Latent Reasoning for Vision-Language-Action Models in Physical AI",
+      "published": "2026-11-14",
+      "url": "https://arxiv.org/abs/2611.19131",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.RO",
+      "first_seen": "2026-11-14"
+    },
+    "2611.21605": {
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.21605",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-16"
+    },
+    "2611.20488": {
+      "title": "EVIDENT: Evaluating Evidence Grounding in GUI Agents",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.20488",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-16"
+    },
+    "2611.18747": {
+      "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.18747",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 5.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-11"
+    },
+    "2611.18715": {
+      "title": "T2T Technical Report: Synthesizing GUI Agent Trajectories at Scale from Video Tutorials",
+      "published": "2026-11-08",
+      "url": "https://arxiv.org/abs/2611.18715",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 9.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-08"
+    },
+    "2611.19578": {
+      "title": "EndoComparer: Comparative Surgical Video Question Answering with Pseudo-Siamese Visual Adaptation and Perceive-then-Compare Reasoning",
+      "published": "2026-11-14",
+      "url": "https://arxiv.org/abs/2611.19578",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-14"
+    },
+    "2611.18746": {
+      "title": "VTG-RAG: Long-Video Reasoning via Query-Adaptive Coarse-to-Fine Sampling and Temporal Graph Retrieval",
+      "published": "2026-11-11",
+      "url": "https://arxiv.org/abs/2611.18746",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 10.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-11"
+    },
+    "2611.20936": {
+      "title": "ReAccess: Look Once, Stay Focused with Efficient Test Time Memory",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.20936",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-16"
+    },
+    "2605.09614": {
+      "title": "Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning",
+      "published": "2026-11-15",
+      "url": "https://arxiv.org/abs/2605.09614",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 8.0,
+      "primary_category": "",
+      "first_seen": "2026-11-15"
+    },
+    "2611.20278": {
+      "title": "Visual Marking as a Native Reasoning Capability for Multimodal LLMs",
+      "published": "2026-11-15",
+      "url": "https://arxiv.org/abs/2611.20278",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 5.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-15"
+    },
+    "2611.19202": {
+      "title": "Omni-Workspace: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks",
+      "published": "2026-11-14",
+      "url": "https://arxiv.org/abs/2611.19202",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CL",
+      "first_seen": "2026-11-14"
+    },
+    "2611.18717": {
+      "title": "LVRE: A Local Visual Reasoning and Editing Agent for Optical Chemical Structure Recognition",
+      "published": "2026-11-08",
+      "url": "https://arxiv.org/abs/2611.18717",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-08"
+    },
+    "2611.18685": {
+      "title": "ThinkWise: Learning When to Think in Large Multimodal Reasoning Models via Visual and Difficulty Perception",
+      "published": "2026-11-02",
+      "url": "https://arxiv.org/abs/2611.18685",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 11.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-02"
+    },
+    "2611.18637": {
+      "title": "ReVision: Selective Intrinsic Reasoning for Tool-Augmented, Reasoning-Intensive VQA",
+      "published": "2026-10-14",
+      "url": "https://arxiv.org/abs/2611.18637",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 5.0,
+      "primary_category": "cs.CL",
+      "first_seen": "2026-10-14"
+    },
+    "2611.21033": {
+      "title": "POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.21033",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-16"
+    },
+    "2611.20505": {
+      "title": "How Reliable Is Visual Token Selection? Rethinking Pruning in Multimodal LLMs",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.20505",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-16"
+    },
+    "2611.20006": {
+      "title": "Glance, then Select: Evidence-Tempered Visual Token Selection for Extremely Compressed Multimodal LLMs",
+      "published": "2026-11-15",
+      "url": "https://arxiv.org/abs/2611.20006",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-15"
     }
   }
 }

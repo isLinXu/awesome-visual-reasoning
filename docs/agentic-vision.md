@@ -58,12 +58,6 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2024-04-11 | **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** | Tianbao Xie, Danyang Zhang et al. | 真实操作系统任务基准，定义了 computer-use agent 的评测范式 | [📄 2404.07972](https://arxiv.org/abs/2404.07972) |
-| 2024-08-01 | **OmniParser for Pure Vision Based GUI Agent** | Yadong Lu, Jianwei Yang et al. | 用视觉解析替代 DOM/无障碍树，GUI 视觉 agent 的关键基础设施 | [📄 2408.00203](https://arxiv.org/abs/2408.00203) |
-| 2025-01-21 | **UI-TARS: Pioneering Automated GUI Interaction with Native Agents** | Yujia Qin, Yining Ye et al. | 端到端 GUI agent 的代表性工作，统一感知- grounding-行动 | [📄 2501.12326](https://arxiv.org/abs/2501.12326) |
-| 2023-12-14 | **CogAgent: A Visual Language Model for GUI Agents** | Wenyi Hong, Weihan Wang et al. | 早期 GUI 视觉 agent 的代表，确立了高分辨率屏幕理解的必要性 | [📄 2312.08914](https://arxiv.org/abs/2312.08914) |
-| 2024-11-26 | **ShowUI: One Vision-Language-Action Model for GUI Visual Agent** | Kevin Qinghong Lin, Linjie Li et al. | 轻量视觉-语言-行动模型，展示 UI 引导的 token 选择策略 | [📄 2411.17465](https://arxiv.org/abs/2411.17465) |
-| 2024-03-19 | **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models** | Zuyan Liu, Yuhao Dong et al. | 按需放大局部区域的交互式视觉推理，'主动看'的最早范式之一 | [📄 2403.12966](https://arxiv.org/abs/2403.12966) |
 <!-- table:end classics -->
 
 ## 6. 📄 自动跟踪的最新论文
@@ -71,6 +65,10 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-16 | **ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization** | Huawei Lin, Jinting Liu et al. | Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant… | [📄 2611.21605](https://arxiv.org/abs/2611.21605) `cs.CV` |
+| 2026-11-16 | **EVIDENT: Evaluating Evidence Grounding in GUI Agents** | Yerin Nam, Minkyung Cho et al. | GUI agents are increasingly evaluated by whether they complete web tasks… | [📄 2611.20488](https://arxiv.org/abs/2611.20488) `cs.AI` |
+| 2026-11-11 | **Video-as-Experience: Learning Computer Use via Audio-Visual Understanding** | Guangzhi Sun, Zhonghao Zhai et al. | Multimodal large language models (LLMs) have enabled capable computer-use agents that perceive… | [📄 2611.18747](https://arxiv.org/abs/2611.18747) `cs.AI` |
+| 2026-11-08 | **T2T Technical Report: Synthesizing GUI Agent Trajectories at Scale from Video Tutorials** | Qingsong Xie, Yanlin Fei et al. | Training generalist GUI agents requires large volumes of interaction trajectories comprising sc… | [📄 2611.18715](https://arxiv.org/abs/2611.18715) `cs.CV` |
 | 2026-11-13 | **StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval** | Dayoon Ko, Yichuan Wang et al. | Screen history can serve as searchable visual memory for people and agents… | [📄 2611.18516](https://arxiv.org/abs/2611.18516) `cs.CV` |
 | 2026-11-13 | **Training Reasoning Models in Simulation to Natively Use Real Robots** | Jiaming Tang, Zhuoyang Zhang et al. | Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control… | [📄 2611.18562](https://arxiv.org/abs/2611.18562) `cs.RO` |
 | 2026-11-12 | **Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents** | Riya Sahni, Aryan Kaul et al. | Coding agents let developers modify software rapidly through natural language… | [📄 2611.16293](https://arxiv.org/abs/2611.16293) `cs.SE` |
@@ -267,10 +265,6 @@
 | 2026-06-25 | **Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning** | Tianyi Men, Zhuoran Jin et al. | Multimodal web agents can assist humans in operating repetitive GUI tasks... | [📄 2606.27330](https://arxiv.org/abs/2606.27330) `cs.CL` |
 | 2026-06-24 | **Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets** | Divake Kumar, Sina Tayebati et al. | Computer-use agents turn vision-language model (VLM) predictions into executable GUI clicks... | [📄 2606.25760](https://arxiv.org/abs/2606.25760) `cs.LG` |
 | 2026-06-23 | **VisCritic: Visual State Comparison as Process Reward for GUI Agents** | Jiachen Qian | GUI agents powered by vision-language models show strong potential for automating digital tasks... | [📄 2606.24525](https://arxiv.org/abs/2606.24525) `cs.CV` |
-| 2026-06-11 | **Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning** | Changye Li, Meng Lu et al. | While recent vision-language models (VLMs) demonstrate strong multimodal understanding... | [📄 2606.12830](https://arxiv.org/abs/2606.12830) `cs.CV` |
-| 2026-06-09 | **A History-Aware Visually Grounded Critic for Computer Use Agents** | Jaewoo Lee, Zaid Khan et al. | Various test-time interventions for Computer Use Agents (CUAs), including critic models... | [📄 2606.11078](https://arxiv.org/abs/2606.11078) `cs.AI` |
-| 2026-06-05 | **StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents** | Haojie Hao, Longkun Hao et al. | Reinforcement Learning (RL) has become a promising approach for improving GUI Agents in long-ho... | [📄 2606.07027](https://arxiv.org/abs/2606.07027) `cs.AI` |
-| 2026-06-04 | **DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions** | Nathan Bout, Maxime Langevin et al. | GUI agents - vision-based models that control desktops, web browsers... | [📄 2606.06322](https://arxiv.org/abs/2606.06322) `cs.AI` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

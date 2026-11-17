@@ -56,11 +56,6 @@ SFT（图文指令）
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
-| 2023-11-27 | **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI** | Xiang Yue, Yuansheng Ni et al. | 学科级多模态推理基准，几乎所有 VLM 都会报的分数 | [📄 2311.16502](https://arxiv.org/abs/2311.16502) |
-| 2023-10-03 | **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts** | Pan Lu, Hritik Bansal et al. | 视觉数学推理基准，第一次系统性地把'看图算数'单独拎出来测 | [📄 2310.02255](https://arxiv.org/abs/2310.02255) |
-| 2024-04-18 | **BLINK: Multimodal Large Language Models Can See but Not Perceive** | Xingyu Fu, Yushi Hu et al. | 揭示 VLM 视觉感知短板的经典分析：人类一眼就会，模型却错 | [📄 2404.12390](https://arxiv.org/abs/2404.12390) |
-| 2024-06-26 | **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** | Zirui Wang, Mengzhou Xia et al. | 真实论文图表理解，专打细粒度科学图表读取 | [📄 2406.18521](https://arxiv.org/abs/2406.18521) |
-| 2024-03-14 | **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training** | Brandon McKinzie, Zhe Gan et al. | 系统消融多模态预训练的配方，理解'为什么这样训'必读 | [📄 2403.09611](https://arxiv.org/abs/2403.09611) |
 <!-- table:end classics -->
 
 ## 5. 📄 自动跟踪的最新论文
@@ -68,6 +63,13 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-16 | **ReAccess: Look Once, Stay Focused with Efficient Test Time Memory** | Tianhao Chen, Yilong Fan et al. | Despite recent advances, vision-language models (VLMs) still struggle with fine-grained visual… | [📄 2611.20936](https://arxiv.org/abs/2611.20936) `cs.CV` |
+| 2026-11-15 | **Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning** | Xuan Gong, Hanbo Huang et al. | Long chain-of-thought (CoT) reasoning improves large vision--language models… | [📄 2605.09614](https://arxiv.org/abs/2605.09614) [💻](https://github.com/coder-gx/RAPO) 🤗 |
+| 2026-11-15 | **Visual Marking as a Native Reasoning Capability for Multimodal LLMs** | Jiazhen Liu, Yanghao Wang et al. | Visual reasoning often requires maintaining intermediate spatial states that are difficult to e… | [📄 2611.20278](https://arxiv.org/abs/2611.20278) `cs.CV` |
+| 2026-11-14 | **Omni-Workspace: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks** | Yuhao Wang, Yucheng Zhao et al. | Omni-modal agents are expected to move beyond multimodal understanding toward completing comple… | [📄 2611.19202](https://arxiv.org/abs/2611.19202) `cs.CL` |
+| 2026-11-08 | **LVRE: A Local Visual Reasoning and Editing Agent for Optical Chemical Structure Recognition** | Bowen Lin, Lei Fan | Optical chemical structure recognition (OCSR) demands strict all-or-nothing graph fidelity… | [📄 2611.18717](https://arxiv.org/abs/2611.18717) `cs.CV` |
+| 2026-11-02 | **ThinkWise: Learning When to Think in Large Multimodal Reasoning Models via Visual and Difficulty Perception** | Wenkang Zhou, Chen Yang et al. | Large Multimodal Reasoning Models (LMRMs) extend large language models to heterogeneous modalit… | [📄 2611.18685](https://arxiv.org/abs/2611.18685) `cs.CV` |
+| 2026-10-14 | **ReVision: Selective Intrinsic Reasoning for Tool-Augmented, Reasoning-Intensive VQA** | Ningxin Pan, Guochen Yan et al. | External tools substantially expand what multimodal large language models (MLLMs) can retrieve… | [📄 2611.18637](https://arxiv.org/abs/2611.18637) `cs.CL` |
 | 2026-11-13 | **Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding** | Haolin Yang, Wenshan Wu et al. | Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate… | [📄 2611.17797](https://arxiv.org/abs/2611.17797) `cs.AI` |
 | 2026-11-10 | **A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents** | Jingjing Jiang | Recent work shows that multimodal agents increasingly self-improve without recurring human anno… | [📄 2611.14256](https://arxiv.org/abs/2611.14256) [💻](https://github.com/jingjing12110/SE-MMAgents) 🤗 |
 | 2026-11-12 | **XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction** | Kerui Gu, Xing Fu et al. | Embodied interaction requires an agent to integrate multimodal perception with verbal and nonve… | [📄 2611.17160](https://arxiv.org/abs/2611.17160) `cs.RO` |
@@ -261,13 +263,6 @@ SFT（图文指令）
 | 2026-08-07 | **GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models** | Yuanfu Sun, Yuanhang Ren et al. | Recent Multimodal Large Language Models (MLLMs) have achieved remarkable progress across divers... | [📄 2608.06769](https://arxiv.org/abs/2608.06769) `cs.CV` |
 | 2026-08-07 | **Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations** | Ioannis Ziogas, Ensieh Khazaei et al. | Learning disentangled representations is a key requirement for developing versatile... | [📄 2608.07385](https://arxiv.org/abs/2608.07385) `cs.LG` |
 | 2026-08-07 | **Debias in Text, Believe Your Eyes: Text-Anchored Cross-Modal Transfer for Visual Counter-Commonsense Reasoning** | Chen Ling, Hanqian Li et al. | The visual reasoning ability of multimodal large language models (MLLMs) is crucial for downstr... | [📄 2608.06938](https://arxiv.org/abs/2608.06938) `cs.CV` |
-| 2026-08-06 | **OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understanding, and Interaction** | Jiahao Huang, Zheng Lian et al. | Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in emotional... | [📄 2608.06013](https://arxiv.org/abs/2608.06013) `cs.HC` |
-| 2026-08-06 | **omni-macos: On-Device Omni-Modal Search on Apple Silicon** | Han Xiao | Omni-macos, a search engine that embeds text, code, documents, images... | [📄 2608.05543](https://arxiv.org/abs/2608.05543) `cs.IR` |
-| 2026-08-05 | **Multi-Branch Policy Optimization for Multimodal Large Language Models** | Shuai Lyu, Yuning Gong et al. | Group-based reinforcement learning methods for multimodal large language models typically rely... | [📄 2608.07581](https://arxiv.org/abs/2608.07581) `cs.CV` |
-| 2026-08-05 | **OPD-V: Visual On-Policy Self-Distillation with Modality Balance** | Aniri, Jinhe Bi et al. | On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving v... | [📄 2608.05131](https://arxiv.org/abs/2608.05131) `cs.CV` |
-| 2026-08-05 | **Reading Between the Frames of Multimodal Drivelology** | Yang Wang, Yanan Ma et al. | Social media videos often communicate meanings that go beyond their visible actions, captions... | [📄 2608.04939](https://arxiv.org/abs/2608.04939) `cs.CL` |
-| 2026-08-04 | **Aligning Large Vision-Language Models at Test Time: A Trajectory-Guided Structured Sampling Approach** | Tianbao Jiang, Weicong Ni et al. | Post-training reinforcement learning (RL) algorithms are commonly used to align large vision-la... | [📄 2608.03204](https://arxiv.org/abs/2608.03204) `cs.CL` |
-| 2026-08-04 | **OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models** | Wanshun Su, Yang Shi et al. | Omni-modal large language models (Omni-LLMs) have achieved remarkable performance on audio-visu... | [📄 2608.03812](https://arxiv.org/abs/2608.03812) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

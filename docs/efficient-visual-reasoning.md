@@ -54,6 +54,9 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2024-03-11 | **An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models** | Liang Chen, Haozhe Zhao et al. | 视觉 token 剪枝的开创性工作：图像 token 的注意力极稀疏，砍掉大部分几乎不掉点 | [📄 2403.06764](https://arxiv.org/abs/2403.06764) |
+| 2024-03-22 | **LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models** | Yuzhang Shang, Mu Cai et al. | 自适应 token 归并，把'压多少'交给数据决定而非固定比例 | [📄 2403.15388](https://arxiv.org/abs/2403.15388) |
+| 2025-02-16 | **Learning to Stop Overthinking at Test Time** | Hieu Tran Bao, Nguyen Cong Dat et al. | 测试时学会'停止思考'，多模态过度思考治理的代表 | [📄 2502.10954](https://arxiv.org/abs/2502.10954) |
 <!-- table:end classics -->
 
 ## 6. 📄 自动跟踪的最新论文
@@ -61,6 +64,10 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-17 | **LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models** | Weizhong Huang, Zhicheng Liu et al. | Looped vision-language models (VLMs) deepen computation by reusing shared layers… | [📄 2611.22728](https://arxiv.org/abs/2611.22728) `cs.CV` |
+| 2026-11-17 | **Transfer Once, Ask Locally: Compact Audio-Visual Memory for On-Device Question Answering** | Qitong Wang, Jihui Jin et al. | Audio-visual question answering on lightweight user devices requires balancing speed… | [📄 2611.23085](https://arxiv.org/abs/2611.23085) `cs.CV` |
+| 2026-11-17 | **Disagree to Prune: Reallocating Visual Tokens Where a Small VLM Dissents** | Yanchao Li, Jiaqing Xie et al. | Visual token pruning speeds up large vision-language models (VLMs) by keeping only a part of th… | [📄 2611.22472](https://arxiv.org/abs/2611.22472) `cs.CV` |
+| 2026-10-05 | **OVAL: Output-Aware Local Page Bases for KV Cache Compression** | Ashkan Shahbazi, Chayne Thrash et al. | Long-context decoding, whether over long reasoning traces, long videos, or robot episodes… | [📄 2610.06686](https://arxiv.org/abs/2610.06686) `cs.LG` |
 | 2026-11-16 | **POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models** | Jaehyuk Lee, Yeajin Lee et al. | Visual token pruning reduces the inference cost of Vision-Language-Action (VLA) models… | [📄 2611.21033](https://arxiv.org/abs/2611.21033) `cs.CV` |
 | 2026-11-16 | **How Reliable Is Visual Token Selection? Rethinking Pruning in Multimodal LLMs** | Chaehee Song, Seokil Ham et al. | Visual token pruning improves the efficiency of multimodal large language models (MLLMs) by rem… | [📄 2611.20505](https://arxiv.org/abs/2611.20505) `cs.CV` |
 | 2026-11-15 | **Glance, then Select: Evidence-Tempered Visual Token Selection for Extremely Compressed Multimodal LLMs** | Yuxuan Wang, Guangxiang Zhao et al. | Multimodal large language models (MLLMs) encode a high-resolution image into thousands of visua… | [📄 2611.20006](https://arxiv.org/abs/2611.20006) `cs.CV` |

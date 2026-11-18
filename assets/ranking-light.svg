@@ -7,50 +7,50 @@
 <text x="24" y="79" font-size="12" fill="#0F172A">vercel-labs/agent-desktop</text>
 <rect x="264" y="68" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
 <rect x="264" y="68" width="806.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+3,910</text>
+<text x="1176" y="79" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+3,497</text>
 <text x="24" y="109" font-size="12" fill="#0F172A">trycua/cua</text>
 <rect x="264" y="98" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="98" width="76.9" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+373</text>
+<rect x="264" y="98" width="92.7" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="109" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+402</text>
 <text x="24" y="139" font-size="12" fill="#0F172A">reacher-z/Awesome-CUA</text>
 <rect x="264" y="128" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="128" width="68.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+330</text>
+<rect x="264" y="128" width="70.1" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="139" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+304</text>
 <text x="24" y="169" font-size="12" fill="#0F172A">ComputerUseAgent/AutoCua</text>
 <rect x="264" y="158" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="158" width="31.7" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+154</text>
+<rect x="264" y="158" width="36.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="169" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+158</text>
 <text x="24" y="199" font-size="12" fill="#0F172A">vllm-project/vllm-omni</text>
 <rect x="264" y="188" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="188" width="29.9" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+145</text>
+<rect x="264" y="188" width="30.9" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="199" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+134</text>
 <text x="24" y="229" font-size="12" fill="#0F172A">oss-invisible/playwright_mcp</text>
 <rect x="264" y="218" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="218" width="25.6" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+124</text>
+<rect x="264" y="218" width="28.1" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="229" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+122</text>
 <text x="24" y="259" font-size="12" fill="#0F172A">uclanlp/OpenVLHarness</text>
 <rect x="264" y="248" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="248" width="17.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+85</text>
+<rect x="264" y="248" width="20.3" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="259" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+88</text>
 <text x="24" y="289" font-size="12" fill="#0F172A">simular-ai/Agent-S</text>
 <rect x="264" y="278" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="278" width="15.0" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+73</text>
+<rect x="264" y="278" width="16.4" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="289" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+71</text>
 <text x="24" y="319" font-size="12" fill="#0F172A">agent-sh/computer-use-linux</text>
 <rect x="264" y="308" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="308" width="11.3" height="16" rx="5" fill="#3B82F6"/>
+<rect x="264" y="308" width="12.7" height="16" rx="5" fill="#3B82F6"/>
 <text x="1176" y="319" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+55</text>
 <text x="24" y="349" font-size="12" fill="#0F172A">alibaba/page-agent</text>
 <rect x="264" y="338" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="338" width="9.5" height="16" rx="5" fill="#3B82F6"/>
-<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+46</text>
-<text x="24" y="379" font-size="12" fill="#0F172A">OpenBMB/MiniCPM-V</text>
+<rect x="264" y="338" width="10.8" height="16" rx="5" fill="#3B82F6"/>
+<text x="1176" y="349" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+47</text>
+<text x="24" y="379" font-size="12" fill="#0F172A">QwenLM/Qwen3-VL</text>
 <rect x="264" y="368" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="368" width="7.8" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+38</text>
-<text x="24" y="409" font-size="12" fill="#0F172A">QwenLM/Qwen3-VL</text>
+<rect x="264" y="368" width="8.3" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="379" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+36</text>
+<text x="24" y="409" font-size="12" fill="#0F172A">OpenBMB/MiniCPM-V</text>
 <rect x="264" y="398" width="806" height="16" rx="5" fill="#E2E8F0" fill-opacity="0.5"/>
-<rect x="264" y="398" width="6.8" height="16" rx="5" fill="#06B6D4"/>
-<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+33</text>
+<rect x="264" y="398" width="8.1" height="16" rx="5" fill="#06B6D4"/>
+<text x="1176" y="409" font-size="12" font-weight="600" text-anchor="end" fill="#0F172A">+35</text>
 </g>
 </svg>

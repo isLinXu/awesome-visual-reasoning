@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T09:38:44Z",
+  "updated": "2026-11-18T08:53:44Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9758,6 +9758,193 @@
       "score": 3.5,
       "primary_category": "cs.CV",
       "first_seen": "2026-11-15"
+    },
+    "2611.08977": {
+      "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+      "published": "2026-11-06",
+      "url": "https://arxiv.org/abs/2611.08977",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "",
+      "first_seen": "2026-11-06"
+    },
+    "2611.22591": {
+      "title": "PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22591",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22722": {
+      "title": "Practice in Text, Act in Pixels: Correcting Where Perception Fails",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22722",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 5.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22815": {
+      "title": "Visual Harness Scales General VLMs to Medical Images",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22815",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.23055": {
+      "title": "FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.23055",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-17"
+    },
+    "2611.23153": {
+      "title": "VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.23153",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22755": {
+      "title": "Teaching What to Look For: Privileged Perception Questions for Agentic On-Policy Distillation in Video Captioning",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22755",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.23228": {
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.23228",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 4.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.23034": {
+      "title": "M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.23034",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 9.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22438": {
+      "title": "Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22438",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22889": {
+      "title": "Beyond Attribute-Centric Fairness: Modelling and Mitigating Unified Bias Representation in Omni-modal Large Language Models",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22889",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22098": {
+      "title": "Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22098",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-11-17"
+    },
+    "2611.21812": {
+      "title": "Sketch, Don't Paint: Allocating Test-Time Compute in Generative Visual Reasoning",
+      "published": "2026-11-16",
+      "url": "https://arxiv.org/abs/2611.21812",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 8.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-16"
+    },
+    "2611.22728": {
+      "title": "LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22728",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.23085": {
+      "title": "Transfer Once, Ask Locally: Compact Audio-Visual Memory for On-Device Question Answering",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.23085",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22472": {
+      "title": "Disagree to Prune: Reallocating Visual Tokens Where a Small VLM Dissents",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22472",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-17"
+    },
+    "2610.06686": {
+      "title": "OVAL: Output-Aware Local Page Bases for KV Cache Compression",
+      "published": "2026-10-05",
+      "url": "https://arxiv.org/abs/2610.06686",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 3.0,
+      "primary_category": "cs.LG",
+      "first_seen": "2026-10-05"
     }
   }
 }

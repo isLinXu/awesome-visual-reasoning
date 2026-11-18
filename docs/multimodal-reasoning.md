@@ -56,6 +56,11 @@ SFT（图文指令）
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2023-11-27 | **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI** | Xiang Yue, Yuansheng Ni et al. | 学科级多模态推理基准，几乎所有 VLM 都会报的分数 | [📄 2311.16502](https://arxiv.org/abs/2311.16502) |
+| 2023-10-03 | **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts** | Pan Lu, Hritik Bansal et al. | 视觉数学推理基准，第一次系统性地把'看图算数'单独拎出来测 | [📄 2310.02255](https://arxiv.org/abs/2310.02255) |
+| 2024-04-18 | **BLINK: Multimodal Large Language Models Can See but Not Perceive** | Xingyu Fu, Yushi Hu et al. | 揭示 VLM 视觉感知短板的经典分析：人类一眼就会，模型却错 | [📄 2404.12390](https://arxiv.org/abs/2404.12390) |
+| 2024-06-26 | **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** | Zirui Wang, Mengzhou Xia et al. | 真实论文图表理解，专打细粒度科学图表读取 | [📄 2406.18521](https://arxiv.org/abs/2406.18521) |
+| 2024-03-14 | **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training** | Brandon McKinzie, Zhe Gan et al. | 系统消融多模态预训练的配方，理解'为什么这样训'必读 | [📄 2403.09611](https://arxiv.org/abs/2403.09611) |
 <!-- table:end classics -->
 
 ## 5. 📄 自动跟踪的最新论文
@@ -63,6 +68,11 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-17 | **M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation** | Nguyen Quang Trung, Hoang Phan et al. | Multi-Teacher On-Policy Distillation (MOPD) enables a single student to absorb the skills of se… | [📄 2611.23034](https://arxiv.org/abs/2611.23034) `cs.CV` [💻](https://github.com/ngquangtrung57/M3OPD-Reasoner) |
+| 2026-11-17 | **Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning** | Lixuan He, Tianzhe Chu et al. | Multimodal post-training has moved from broad instruction tuning toward reinforcement learning… | [📄 2611.22438](https://arxiv.org/abs/2611.22438) `cs.LG` |
+| 2026-11-17 | **Beyond Attribute-Centric Fairness: Modelling and Mitigating Unified Bias Representation in Omni-modal Large Language Models** | Runqi Lin, Suqin Yuan et al. | Omni-modal large language models (OLLMs) provide joint multimodal understanding and generation… | [📄 2611.22889](https://arxiv.org/abs/2611.22889) `cs.LG` |
+| 2026-11-17 | **Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra** | Thorben Prein, Elton Pan et al. | Generative modeling in science is often data-limited, where experiments are expensive… | [📄 2611.22098](https://arxiv.org/abs/2611.22098) `cs.LG` |
+| 2026-11-16 | **Sketch, Don't Paint: Allocating Test-Time Compute in Generative Visual Reasoning** | Sheng Lu, Guangpin Tao et al. | Multimodal models increasingly reason by synthesizing pixels… | [📄 2611.21812](https://arxiv.org/abs/2611.21812) `cs.CV` |
 | 2026-11-16 | **ReAccess: Look Once, Stay Focused with Efficient Test Time Memory** | Tianhao Chen, Yilong Fan et al. | Despite recent advances, vision-language models (VLMs) still struggle with fine-grained visual… | [📄 2611.20936](https://arxiv.org/abs/2611.20936) `cs.CV` |
 | 2026-11-15 | **Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning** | Xuan Gong, Hanbo Huang et al. | Long chain-of-thought (CoT) reasoning improves large vision--language models… | [📄 2605.09614](https://arxiv.org/abs/2605.09614) [💻](https://github.com/coder-gx/RAPO) 🤗 |
 | 2026-11-15 | **Visual Marking as a Native Reasoning Capability for Multimodal LLMs** | Jiazhen Liu, Yanghao Wang et al. | Visual reasoning often requires maintaining intermediate spatial states that are difficult to e… | [📄 2611.20278](https://arxiv.org/abs/2611.20278) `cs.CV` |
@@ -258,11 +268,6 @@ SFT（图文指令）
 | 2026-08-10 | **Task-Adaptive 3D Cross-Field MRI Translation via Field-Conditioned Content-Style Pretraining** | Haowen Pang, Yingqi Hao et al. | Magnetic field strength is a major source of domain shift in magnetic resonance imaging (MRI)... | [📄 2608.09264](https://arxiv.org/abs/2608.09264) `cs.CV` |
 | 2026-08-09 | **VLZip: Unified Visual and Textual Compression for Interleaved Long-Context Modeling** | Yuqi Zhang, Cheng Chen et al. | Vision Language Models (VLMs) face significant challenges with ultra-long... | [📄 2608.08630](https://arxiv.org/abs/2608.08630) `cs.CV` |
 | 2026-08-09 | **Deferred Audio Pruning with Local Audio-Visual Dynamics for Omni-LLMs** | Kyeongyoon Lee, Hongyeob Kim et al. | Omni-modal LLMs jointly process audio, video, and text... | [📄 2608.08794](https://arxiv.org/abs/2608.08794) `cs.AI` |
-| 2026-08-08 | **StructReward: Efficient Structured Process Rewards for Self-Correcting Multimodal Reasoning** | Yifan Li, Ruxin Sun et al. | Reinforcement learning with verifiable rewards (RLVR) has emerged as an effective approach for... | [📄 2608.08326](https://arxiv.org/abs/2608.08326) `cs.AI` |
-| 2026-08-08 | **Self-Evolving Neuro-Symbolic Skills for Tool-Augmented Spatial Reasoning** | Shi-Yu Tian, Zhuo-Xia Wang et al. | Large vision-language models have achieved strong performance in multimodal reasoning... | [📄 2608.07955](https://arxiv.org/abs/2608.07955) `cs.AI` |
-| 2026-08-07 | **GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models** | Yuanfu Sun, Yuanhang Ren et al. | Recent Multimodal Large Language Models (MLLMs) have achieved remarkable progress across divers... | [📄 2608.06769](https://arxiv.org/abs/2608.06769) `cs.CV` |
-| 2026-08-07 | **Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations** | Ioannis Ziogas, Ensieh Khazaei et al. | Learning disentangled representations is a key requirement for developing versatile... | [📄 2608.07385](https://arxiv.org/abs/2608.07385) `cs.LG` |
-| 2026-08-07 | **Debias in Text, Believe Your Eyes: Text-Anchored Cross-Modal Transfer for Visual Counter-Commonsense Reasoning** | Chen Ling, Hanqian Li et al. | The visual reasoning ability of multimodal large language models (MLLMs) is crucial for downstr... | [📄 2608.06938](https://arxiv.org/abs/2608.06938) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

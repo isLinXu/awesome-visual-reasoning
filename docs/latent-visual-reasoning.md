@@ -79,6 +79,11 @@
 <!-- table:start classics -->
 | 日期 | 论文 | 作者 | 为什么必读 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2024-12-09 | **Training Large Language Models to Reason in a Continuous Latent Space** | Shibo Hao, Sainbayar Sukhbaatar et al. | 连续隐空间推理的开创性工作：用隐状态替代文本 CoT，是本赛道一切工作的起点 | [📄 2412.06769](https://arxiv.org/abs/2412.06769) |
+| 2025-09-29 | **Latent Visual Reasoning** | Bangzheng Li, Ximeng Sun et al. | 把隐推理正式搬到视觉域的代表作，确立了'隐视觉推理'这一提法 | [📄 2509.24251](https://arxiv.org/abs/2509.24251) |
+| 2024-06-13 | **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models** | Yushi Hu, Weijia Shi et al. | 把草图/标注当视觉思维链，隐视觉派最直观的范式 | [📄 2406.09403](https://arxiv.org/abs/2406.09403) |
+| 2025-01-13 | **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought** | Chengzu Li, Wenshan Wu et al. | 多模态可视化思维链：先在心里'画出'中间图再推理 | [📄 2501.07542](https://arxiv.org/abs/2501.07542) |
+| 2025-06-30 | **Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers** | Zhaochen Su, Peng Xia et al. | 综述：系统梳理'用图像思考'的谱系、方法与开放问题，入门首选 | [📄 2506.23918](https://arxiv.org/abs/2506.23918) |
 <!-- table:end classics -->
 
 ## 7. 📄 自动跟踪的最新论文
@@ -88,6 +93,7 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-06 | **Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model** | William Xingxu Chen, Alexi Gladstone et al. | Looping is a powerful inductive bias for reasoning… | [📄 2611.08977](https://arxiv.org/abs/2611.08977) [💻](https://github.com/wwillchen/ebr) 🤗 |
 | 2026-11-14 | **Wireless Edge-Assisted Adaptive Latent Reasoning for Vision-Language-Action Models in Physical AI** | Fatih Temiz, Melike Erol-Kantarci | Vision-language-action (VLA) models enable embodied artificial intelligence (AI) by translating… | [📄 2611.19131](https://arxiv.org/abs/2611.19131) `cs.RO` |
 | 2026-11-11 | **DeALR: Decoupled Audio-Latent Optimization with Acoustic Backtracking for Test-Time Reasoning** | Haoyu He, Yan Rong et al. | Large audio-language models (LALMs) typically encode audio once and conduct subsequent multi-st… | [📄 2611.15439](https://arxiv.org/abs/2611.15439) `cs.SD` |
 | 2026-11-10 | **LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning** | Xuheng Zhang, Yiming Zhang et al. | World Action Models (WAMs) have recently emerged as a promising paradigm for robotic manipulati… | [📄 2611.14048](https://arxiv.org/abs/2611.14048) `cs.RO` |

@@ -68,6 +68,9 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-18 | **Can Omni-modal LLMs Understand Spoken Intentions?** | Zijie Xin, Tianyi Wang et al. | Omni-modal large language models (omni-modal LLMs) can respond to spoken requests directly thro… | [📄 2611.24706](https://arxiv.org/abs/2611.24706) `cs.CV` |
+| 2026-11-17 | **Out of Sight, Still in Mind: Token Compression for Omni-LLMs** | Suho Yoo, Youngjoon Jang et al. | The goal of this paper is to reduce the input token cost of Omni-modal large language models (O… | [📄 2607.21179](https://arxiv.org/abs/2607.21179) [💻](https://github.com/suho-yoo/ReMo) 🤗 |
+| 2026-11-17 | **CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference** | Oleg Pavlov, Nikita Gavrilov et al. | CAD practitioners often work with proprietary parts that they are unwilling to share with exter… | [📄 2611.22563](https://arxiv.org/abs/2611.22563) [💻](https://github.com/kulibinai/cadmageddon) 🤗 |
 | 2026-11-17 | **M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation** | Nguyen Quang Trung, Hoang Phan et al. | Multi-Teacher On-Policy Distillation (MOPD) enables a single student to absorb the skills of se… | [📄 2611.23034](https://arxiv.org/abs/2611.23034) `cs.CV` [💻](https://github.com/ngquangtrung57/M3OPD-Reasoner) |
 | 2026-11-17 | **Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning** | Lixuan He, Tianzhe Chu et al. | Multimodal post-training has moved from broad instruction tuning toward reinforcement learning… | [📄 2611.22438](https://arxiv.org/abs/2611.22438) `cs.LG` |
 | 2026-11-17 | **Beyond Attribute-Centric Fairness: Modelling and Mitigating Unified Bias Representation in Omni-modal Large Language Models** | Runqi Lin, Suqin Yuan et al. | Omni-modal large language models (OLLMs) provide joint multimodal understanding and generation… | [📄 2611.22889](https://arxiv.org/abs/2611.22889) `cs.LG` |
@@ -265,9 +268,6 @@ SFT（图文指令）
 | 2026-08-10 | **Listen, See and Track: Spatio-Temporal Audio-Visual Sound Event Reasoning for Omni-Modal Language Models** | Zhi Zeng, Cheng Zhang et al. | Understanding dynamic sound sources requires jointly determining what produces a sound... | [📄 2608.09435](https://arxiv.org/abs/2608.09435) `cs.AI` |
 | 2026-08-10 | **Thinking With Tools, Not With Pixels: Tool Calls as Text Scaffolds for Visual Reasoning** | Jiahao Shao, Yuanbo Yang et al. | Tool-augmented vision-language models increasingly "think with images": they call crop, zoom... | [📄 2608.09682](https://arxiv.org/abs/2608.09682) `cs.CV` |
 | 2026-08-10 | **MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation** | Haoyu Yang, Meixing Shi et al. | Reliable medical image understanding requires models to connect clinical language and visual re... | [📄 2608.09818](https://arxiv.org/abs/2608.09818) `cs.CV` |
-| 2026-08-10 | **Task-Adaptive 3D Cross-Field MRI Translation via Field-Conditioned Content-Style Pretraining** | Haowen Pang, Yingqi Hao et al. | Magnetic field strength is a major source of domain shift in magnetic resonance imaging (MRI)... | [📄 2608.09264](https://arxiv.org/abs/2608.09264) `cs.CV` |
-| 2026-08-09 | **VLZip: Unified Visual and Textual Compression for Interleaved Long-Context Modeling** | Yuqi Zhang, Cheng Chen et al. | Vision Language Models (VLMs) face significant challenges with ultra-long... | [📄 2608.08630](https://arxiv.org/abs/2608.08630) `cs.CV` |
-| 2026-08-09 | **Deferred Audio Pruning with Local Audio-Visual Dynamics for Omni-LLMs** | Kyeongyoon Lee, Hongyeob Kim et al. | Omni-modal LLMs jointly process audio, video, and text... | [📄 2608.08794](https://arxiv.org/abs/2608.08794) `cs.AI` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

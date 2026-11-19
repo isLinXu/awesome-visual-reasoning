@@ -75,6 +75,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-18 | **NullTok: empirical-null token selection for training-free long video understanding** | Zhang Ziyue, Juwei Jian et al. | Long video understanding remains a daunting challenge for existing multimodal large language mo… | [📄 2611.23881](https://arxiv.org/abs/2611.23881) `cs.CV` |
+| 2026-11-18 | **APS: Adaptive Partitioning-Based Frame Selection for Long Video Understanding** | Junxiang Wen, Yinxi Zhao et al. | Recent advances in large vision-language models (LVLMs) have significantly improved video under… | [📄 2611.24079](https://arxiv.org/abs/2611.24079) `cs.CV` |
+| 2026-11-18 | **A$^3$Bench: Compositional Reasoning over Aggressive Interactions in Videos** | Austin C Baker, Raiyaan Abdullah et al. | Recent Multimodal Large Language Models (MLLMs) have achieved strong performance on general vid… | [📄 2611.24762](https://arxiv.org/abs/2611.24762) `cs.CV` |
 | 2026-11-17 | **FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond** | Bingjun Luo, Jialin Guo et al. | Long-video question answering benchmarks like Video-MME-v2 typically evaluate systems under a u… | [📄 2611.23055](https://arxiv.org/abs/2611.23055) `cs.AI` |
 | 2026-11-17 | **VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs** | Chengqian Ma, Yuanze Zeng et al. | Video question answering under tight frame budgets requires preserving localized motion and eve… | [📄 2611.23153](https://arxiv.org/abs/2611.23153) `cs.CV` |
 | 2026-11-17 | **Teaching What to Look For: Privileged Perception Questions for Agentic On-Policy Distillation in Video Captioning** | Yifan Xu, Ruopeng Gao et al. | Detailed video captioning requires comprehensive and faithful descriptions of objects… | [📄 2611.22755](https://arxiv.org/abs/2611.22755) `cs.CV` |
@@ -272,9 +275,6 @@
 | 2026-06-06 | **When No Answer Is Correct: Diagnosing Absent Answer Detection for MLLMs in Video Understanding** | Yiheng Wang, Yueqian Lin et al. | Multimodal large language models (MLLMs) have made substantial advancements in video understand... | [📄 2606.08239](https://arxiv.org/abs/2606.08239) `cs.AI` |
 | 2026-06-05 | **MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism** | Cong Chen, Guo Gan et al. | Current Vision-Language Models struggle with hours-long videos because processing full-length v... | [📄 2606.07512](https://arxiv.org/abs/2606.07512) `cs.CV` |
 | 2026-06-05 | **Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation** | Xiangyi Zheng, Xiangyu Wang et al. | Language-guided UAV agents must execute long-horizon semantic instructions while producing smoo... | [📄 2606.06836](https://arxiv.org/abs/2606.06836) `cs.RO` |
-| 2026-06-04 | **VTI-CoT: Visual-Textual Interleaved Chain of Thought for Video Reasoning** | Shufan Zhang, Ziyue Lin et al. | Video reasoning aims to understand complex temporal events and causal relationships within vide... | [📄 2606.05736](https://arxiv.org/abs/2606.05736) `cs.CV` |
-| 2026-06-04 | **StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset** | Zhengqian Wu, Zhixian Liu et al. | Video question answering (VideoQA) aims to answer questions about given videos... | [📄 2606.06338](https://arxiv.org/abs/2606.06338) `cs.CV` |
-| 2026-06-03 | **GOPAgen: Codec-Aware Agentic Long-Video Understanding with Structured Memory** | Haozhe Chi, Yang Jin et al. | Agentic long-video question answering often relies on sparse RGB sampling and caption retrieval... | [📄 2606.06532](https://arxiv.org/abs/2606.06532) `cs.CV` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

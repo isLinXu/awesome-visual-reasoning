@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-11-18T08:56:22Z",
-  "papers_total": 904,
+  "generated_at": "2026-11-19T09:11:58Z",
+  "papers_total": 916,
   "papers_in_docs": 784,
-  "papers_new_7d": 41,
-  "papers_last_30d": 183,
+  "papers_new_7d": 44,
+  "papers_last_30d": 179,
   "repos_total": 123,
-  "repos_stars_total": 348020,
+  "repos_stars_total": 348535,
   "categories": {
     "latent-visual-reasoning": {
       "name": "Latent Visual Reasoning",
       "papers": 66,
-      "papers_last_30d": 12,
-      "papers_new_7d": 2,
+      "papers_last_30d": 10,
+      "papers_new_7d": 1,
       "rows_in_doc": 66
     },
     "agentic-vision": {
       "name": "Agentic Vision",
-      "papers": 209,
+      "papers": 215,
       "papers_last_30d": 44,
-      "papers_new_7d": 11,
+      "papers_new_7d": 14,
       "rows_in_doc": 200
     },
     "video-reasoning": {
       "name": "Video Reasoning",
-      "papers": 212,
-      "papers_last_30d": 38,
-      "papers_new_7d": 9,
+      "papers": 215,
+      "papers_last_30d": 40,
+      "papers_new_7d": 8,
       "rows_in_doc": 200
     },
     "multimodal-reasoning": {
       "name": "Multimodal Reasoning",
-      "papers": 300,
-      "papers_last_30d": 61,
-      "papers_new_7d": 11,
+      "papers": 303,
+      "papers_last_30d": 58,
+      "papers_new_7d": 14,
       "rows_in_doc": 200
     },
     "efficient-visual-reasoning": {
       "name": "Efficient Visual Reasoning",
       "papers": 118,
-      "papers_last_30d": 28,
-      "papers_new_7d": 8,
+      "papers_last_30d": 27,
+      "papers_new_7d": 7,
       "rows_in_doc": 118
     }
   }

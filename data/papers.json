@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:53:44Z",
+  "updated": "2026-11-19T09:09:23Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -9945,6 +9945,138 @@
       "score": 3.0,
       "primary_category": "cs.LG",
       "first_seen": "2026-10-05"
+    },
+    "2611.24170": {
+      "title": "ViStep-RL: Stepwise Reinforcement Learning for Long-Horizon Visual Agents",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24170",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 8.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.24154": {
+      "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24154",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.24867": {
+      "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24867",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-18"
+    },
+    "2611.24102": {
+      "title": "IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24102",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.23946": {
+      "title": "How Complete Must an Environment Be to Train a Capable GUI Agent?",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.23946",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.23860": {
+      "title": "MobileWeave: Program-First Synthesis of Dependency-Linked Tasks for Training Mobile GUI Agents",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.23860",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 7.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.23881": {
+      "title": "NullTok: empirical-null token selection for training-free long video understanding",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.23881",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 11.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.24079": {
+      "title": "APS: Adaptive Partitioning-Based Frame Selection for Long Video Understanding",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24079",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 10.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.24762": {
+      "title": "A$^3$Bench: Compositional Reasoning over Aggressive Interactions in Videos",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24762",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.24706": {
+      "title": "Can Omni-modal LLMs Understand Spoken Intentions?",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24706",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2607.21179": {
+      "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2607.21179",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "",
+      "first_seen": "2026-11-17"
+    },
+    "2611.22563": {
+      "title": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
+      "published": "2026-11-17",
+      "url": "https://arxiv.org/abs/2611.22563",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "",
+      "first_seen": "2026-11-17"
     }
   }
 }

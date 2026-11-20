@@ -71,6 +71,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-19 | **When Safety Rationales Hallucinate: Diagnosing and Grounding Multimodal Safety Guards** | Yingshuo Wang, Weixiang Zhao et al. | Multimodal safety guards increasingly generate rationales alongside safety predictions… | [📄 2611.25793](https://arxiv.org/abs/2611.25793) `cs.AI` |
+| 2026-09-29 | **StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software** | Zhiyuan Peng, Wei Tao et al. | Large language models have reduced the effort to generate code for interactive software with gr… | [📄 2611.23257](https://arxiv.org/abs/2611.23257) [💻](https://github.com/pzy2000/State_Portal) 🤗 |
 | 2026-11-18 | **ViStep-RL: Stepwise Reinforcement Learning for Long-Horizon Visual Agents** | Junyang Chen, Yao Qin et al. | Long-horizon visual agents must do more than inspect images: they must turn observations into e… | [📄 2611.24170](https://arxiv.org/abs/2611.24170) `cs.CV` |
 | 2026-11-18 | **Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development** | Xirui Jiang, Yuxi Chen et al. | Games are a rich testbed for visual agents, demanding perception, long-horizon planning… | [📄 2611.24154](https://arxiv.org/abs/2611.24154) `cs.CV` [💻](https://github.com/game2player/Game2Player) |
 | 2026-11-18 | **Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents** | Ruiqi Liu, Jinming Li et al. | Visual agents that read dense documents must ration a finite observation budget across candidat… | [📄 2611.24867](https://arxiv.org/abs/2611.24867) `cs.AI` |
@@ -269,8 +271,6 @@
 | 2026-07-13 | **MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents** | Vishnu Ramineni, Nitin Saksena et al. | Large language model (LLM) agents that interact with graphical user interfaces increasingly rel... | [📄 2608.24898](https://arxiv.org/abs/2608.24898) `cs.HC` |
 | 2026-07-10 | **Memory-Conditioned Tool Calling for Camera-First Visual Agents** | Xiaofan Wu, Xi Zeng et al. | Recognition tells an agent what is in an image; personal memory affects what is worth looking u... | [📄 2607.09822](https://arxiv.org/abs/2607.09822) `cs.CV` |
 | 2026-07-05 | **Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure** | Guijia Zhang, Yuxun Chen et al. | Multimodal GUI agents read an interface through two redundant channels: the rendered pixels of... | [📄 2607.04334](https://arxiv.org/abs/2607.04334) `cs.AI` |
-| 2026-07-05 | **UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents** | Niu Lian, Tongbo Chen et al. | Recent advances in multimodal foundation models and agent systems have driven GUI agents from s... | [📄 2607.04425](https://arxiv.org/abs/2607.04425) `cs.CL` |
-| 2026-07-04 | **LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation** | Rufeng Chen, Yue Chang et al. | Embodied navigation is moving toward long-horizon missions... | [📄 2607.03920](https://arxiv.org/abs/2607.03920) `cs.RO` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

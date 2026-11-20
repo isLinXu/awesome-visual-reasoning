@@ -64,6 +64,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-19 | **Query-Aware vs. Query-Agnostic Training-Free Video Token Pruning in Multimodal LLMs** | Divya Kothandaraman, Timo Kumkel et al. | Video Large Language Models process large numbers of visual tokens… | [📄 2611.25537](https://arxiv.org/abs/2611.25537) `cs.CV` |
+| 2026-11-19 | **Carry the Fine Print: Budget-Aware Visual Token Compression for Document OCR** | Yixuan Huang, ShengFan Zhang et al. | Visual token compression often treats salience or similarity as a proxy for transcription impor… | [📄 2611.25506](https://arxiv.org/abs/2611.25506) `cs.CV` |
+| 2026-11-19 | **VidToC: Rethinking Video Token Compression for Multimodal Large Language Models** | Zihan Xiao, Boshen Xu et al. | Extending multimodal large language models (MLLMs) from images to videos faces substantial memo… | [📄 2611.25574](https://arxiv.org/abs/2611.25574) `cs.CV` |
 | 2026-11-17 | **LoopZip: Visual Token Compression for Efficient Looped Vision-Language Models** | Weizhong Huang, Zhicheng Liu et al. | Looped vision-language models (VLMs) deepen computation by reusing shared layers… | [📄 2611.22728](https://arxiv.org/abs/2611.22728) `cs.CV` |
 | 2026-11-17 | **Transfer Once, Ask Locally: Compact Audio-Visual Memory for On-Device Question Answering** | Qitong Wang, Jihui Jin et al. | Audio-visual question answering on lightweight user devices requires balancing speed… | [📄 2611.23085](https://arxiv.org/abs/2611.23085) `cs.CV` |
 | 2026-11-17 | **Disagree to Prune: Reallocating Visual Tokens Where a Small VLM Dissents** | Yanchao Li, Jiaqing Xie et al. | Visual token pruning speeds up large vision-language models (VLMs) by keeping only a part of th… | [📄 2611.22472](https://arxiv.org/abs/2611.22472) `cs.CV` |

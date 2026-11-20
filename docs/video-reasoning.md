@@ -75,6 +75,9 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-19 | **ForeSeek: Foresight-Driven Reasoning for Long-Form Video Understanding** | Yuchen Sun, Siyuan Cheng et al. | Long-form video understanding, as a fundamental yet crucial vision task… | [📄 2611.26024](https://arxiv.org/abs/2611.26024) `cs.AI` |
+| 2026-11-19 | **EvoMem: Self-Evolving Skills for Time-Aware Long Video Memory Agents** | Yutong Guan, Meixing Shi et al. | Although memory-augmented architectures have expanded the ability of large vision-language mode… | [📄 2611.25889](https://arxiv.org/abs/2611.25889) `cs.CV` |
+| 2026-11-19 | **Generalist Meets Specialists: An Evolving Multimodal Agent with Persistent Tool Orchestration for Traffic Scenario Understanding** | Linjia Kang, Binhan Jiang et al. | Traffic scenario understanding requires combining fine-grained visual evidence with spatial and… | [📄 2611.25868](https://arxiv.org/abs/2611.25868) `cs.AI` |
 | 2026-11-18 | **NullTok: empirical-null token selection for training-free long video understanding** | Zhang Ziyue, Juwei Jian et al. | Long video understanding remains a daunting challenge for existing multimodal large language mo… | [📄 2611.23881](https://arxiv.org/abs/2611.23881) `cs.CV` |
 | 2026-11-18 | **APS: Adaptive Partitioning-Based Frame Selection for Long Video Understanding** | Junxiang Wen, Yinxi Zhao et al. | Recent advances in large vision-language models (LVLMs) have significantly improved video under… | [📄 2611.24079](https://arxiv.org/abs/2611.24079) `cs.CV` |
 | 2026-11-18 | **A$^3$Bench: Compositional Reasoning over Aggressive Interactions in Videos** | Austin C Baker, Raiyaan Abdullah et al. | Recent Multimodal Large Language Models (MLLMs) have achieved strong performance on general vid… | [📄 2611.24762](https://arxiv.org/abs/2611.24762) `cs.CV` |
@@ -272,9 +275,6 @@
 | 2026-06-15 | **VL-MemKnG: Hybrid Memory with a Spatio-Temporal Knowledge Graph for Question Answering over Long Egocentric Navigation Trajectories** | Svetlana Lukina, Mohamad Al Mdfaa et al. | Answering navigation-relevant questions over long egocentric videos requires retrieving and org... | [📄 2606.17183](https://arxiv.org/abs/2606.17183) `cs.RO` |
 | 2026-06-13 | **MamBOA: State-Space Architecture for Video Recognition** | Mustafa Bora Çelik | Fine-grained action recognition demands temporal reasoning that general-purpose architectures a... | [📄 2606.15275](https://arxiv.org/abs/2606.15275) `cs.CV` |
 | 2026-06-11 | **Temporal Backtracking Search for Test-time Generative Video Reasoning** | Sejoon Jun, Zheng Ding et al. | While test-time scaling has revolutionized reasoning in large language models... | [📄 2606.13861](https://arxiv.org/abs/2606.13861) `cs.CV` |
-| 2026-06-06 | **When No Answer Is Correct: Diagnosing Absent Answer Detection for MLLMs in Video Understanding** | Yiheng Wang, Yueqian Lin et al. | Multimodal large language models (MLLMs) have made substantial advancements in video understand... | [📄 2606.08239](https://arxiv.org/abs/2606.08239) `cs.AI` |
-| 2026-06-05 | **MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism** | Cong Chen, Guo Gan et al. | Current Vision-Language Models struggle with hours-long videos because processing full-length v... | [📄 2606.07512](https://arxiv.org/abs/2606.07512) `cs.CV` |
-| 2026-06-05 | **Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation** | Xiangyi Zheng, Xiangyu Wang et al. | Language-guided UAV agents must execute long-horizon semantic instructions while producing smoo... | [📄 2606.06836](https://arxiv.org/abs/2606.06836) `cs.RO` |
 <!-- table:end papers -->
 
 ## 7. 常用评测

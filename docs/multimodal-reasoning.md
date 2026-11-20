@@ -68,6 +68,9 @@ SFT（图文指令）
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-19 | **WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding** | Changli Tang, Jie Yang et al. | Video understanding, particularly with accompanying audio… | [📄 2611.26409](https://arxiv.org/abs/2611.26409) `cs.CV` [💻](https://github.com/Tencent/WeMM-Video) |
+| 2026-11-18 | **AVTR: Adaptive Multimodal Reasoning with Visual Imagination** | Xiaoqian Shen, Yunyang Xiong et al. | Vision-Language Models increasingly rely on textual reasoning to solve advanced multimodal task… | [📄 2611.24161](https://arxiv.org/abs/2611.24161) [💻](https://github.com/xiaoqian-shen/AVTR) 🤗 |
+| 2026-11-18 | **VisAlloc: Allocating Visual Supervision for On-Policy Self-Distillation** | Haoran Xu, Tian Chen et al. | On-policy self-distillation (OPSD) offers a promising approach to improving visual reasoning in… | [📄 2611.25069](https://arxiv.org/abs/2611.25069) `cs.CV` |
 | 2026-11-18 | **Can Omni-modal LLMs Understand Spoken Intentions?** | Zijie Xin, Tianyi Wang et al. | Omni-modal large language models (omni-modal LLMs) can respond to spoken requests directly thro… | [📄 2611.24706](https://arxiv.org/abs/2611.24706) `cs.CV` |
 | 2026-11-17 | **Out of Sight, Still in Mind: Token Compression for Omni-LLMs** | Suho Yoo, Youngjoon Jang et al. | The goal of this paper is to reduce the input token cost of Omni-modal large language models (O… | [📄 2607.21179](https://arxiv.org/abs/2607.21179) [💻](https://github.com/suho-yoo/ReMo) 🤗 |
 | 2026-11-17 | **CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference** | Oleg Pavlov, Nikita Gavrilov et al. | CAD practitioners often work with proprietary parts that they are unwilling to share with exter… | [📄 2611.22563](https://arxiv.org/abs/2611.22563) [💻](https://github.com/kulibinai/cadmageddon) 🤗 |
@@ -265,9 +268,6 @@ SFT（图文指令）
 | 2026-08-11 | **Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence** | Haoyu Zhang, Zhipeng Li et al. | Omni-modal dialogue models can understand multimodal inputs and synthesize spoken replies... | [📄 2608.10720](https://arxiv.org/abs/2608.10720) `cs.AI` |
 | 2026-08-11 | **Qwen-MusicAVQA-7B: A Multimodal Model for Music Audio-Visual QA** | Maryam Dehdashti | A common approach to adding audio to a vision-language model is to train or adapt a large omni-... | [📄 2608.11329](https://arxiv.org/abs/2608.11329) `cs.SD` |
 | 2026-08-11 | **Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs** | Tao Lin, Gaojie Jin et al. | Existing vision-language model (VLM) backdoors are usually treated as static vulnerabilities: o... | [📄 2608.10959](https://arxiv.org/abs/2608.10959) `cs.CV` |
-| 2026-08-10 | **Listen, See and Track: Spatio-Temporal Audio-Visual Sound Event Reasoning for Omni-Modal Language Models** | Zhi Zeng, Cheng Zhang et al. | Understanding dynamic sound sources requires jointly determining what produces a sound... | [📄 2608.09435](https://arxiv.org/abs/2608.09435) `cs.AI` |
-| 2026-08-10 | **Thinking With Tools, Not With Pixels: Tool Calls as Text Scaffolds for Visual Reasoning** | Jiahao Shao, Yuanbo Yang et al. | Tool-augmented vision-language models increasingly "think with images": they call crop, zoom... | [📄 2608.09682](https://arxiv.org/abs/2608.09682) `cs.CV` |
-| 2026-08-10 | **MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation** | Haoyu Yang, Meixing Shi et al. | Reliable medical image understanding requires models to connect clinical language and visual re... | [📄 2608.09818](https://arxiv.org/abs/2608.09818) `cs.CV` |
 <!-- table:end papers -->
 
 ## 6. 常用评测

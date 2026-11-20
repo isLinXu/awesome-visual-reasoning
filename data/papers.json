@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T09:09:23Z",
+  "updated": "2026-11-20T08:53:53Z",
   "papers": {
     "2610.31762": {
       "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
@@ -10077,6 +10077,149 @@
       "score": 3.5,
       "primary_category": "",
       "first_seen": "2026-11-17"
+    },
+    "2611.25670": {
+      "title": "Efficient Latent Reasoning for Vision-Language Model via Dynamics-Aware Quantization and Distillation",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25670",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 10.0,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-19"
+    },
+    "2611.26199": {
+      "title": "Learning to Think with Images Faithfully via Adaptive Data Selection",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.26199",
+      "categories": [
+        "latent-visual-reasoning"
+      ],
+      "score": 3.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-19"
+    },
+    "2611.25793": {
+      "title": "When Safety Rationales Hallucinate: Diagnosing and Grounding Multimodal Safety Guards",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25793",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 5.0,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-19"
+    },
+    "2611.23257": {
+      "title": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software",
+      "published": "2026-09-29",
+      "url": "https://arxiv.org/abs/2611.23257",
+      "categories": [
+        "agentic-vision"
+      ],
+      "score": 4.0,
+      "primary_category": "",
+      "first_seen": "2026-09-29"
+    },
+    "2611.26024": {
+      "title": "ForeSeek: Foresight-Driven Reasoning for Long-Form Video Understanding",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.26024",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 9.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-19"
+    },
+    "2611.25889": {
+      "title": "EvoMem: Self-Evolving Skills for Time-Aware Long Video Memory Agents",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25889",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 7.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-19"
+    },
+    "2611.25868": {
+      "title": "Generalist Meets Specialists: An Evolving Multimodal Agent with Persistent Tool Orchestration for Traffic Scenario Understanding",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25868",
+      "categories": [
+        "video-reasoning"
+      ],
+      "score": 4.5,
+      "primary_category": "cs.AI",
+      "first_seen": "2026-11-19"
+    },
+    "2611.26409": {
+      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.26409",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-19"
+    },
+    "2611.24161": {
+      "title": "AVTR: Adaptive Multimodal Reasoning with Visual Imagination",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.24161",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 7.0,
+      "primary_category": "",
+      "first_seen": "2026-11-18"
+    },
+    "2611.25069": {
+      "title": "VisAlloc: Allocating Visual Supervision for On-Policy Self-Distillation",
+      "published": "2026-11-18",
+      "url": "https://arxiv.org/abs/2611.25069",
+      "categories": [
+        "multimodal-reasoning"
+      ],
+      "score": 5.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-18"
+    },
+    "2611.25537": {
+      "title": "Query-Aware vs. Query-Agnostic Training-Free Video Token Pruning in Multimodal LLMs",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25537",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 6.5,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-19"
+    },
+    "2611.25506": {
+      "title": "Carry the Fine Print: Budget-Aware Visual Token Compression for Document OCR",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25506",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 6.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-19"
+    },
+    "2611.25574": {
+      "title": "VidToC: Rethinking Video Token Compression for Multimodal Large Language Models",
+      "published": "2026-11-19",
+      "url": "https://arxiv.org/abs/2611.25574",
+      "categories": [
+        "efficient-visual-reasoning"
+      ],
+      "score": 5.0,
+      "primary_category": "cs.CV",
+      "first_seen": "2026-11-19"
     }
   }
 }

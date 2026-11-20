@@ -93,6 +93,8 @@
 <!-- table:start papers -->
 | 日期 | 论文 | 作者 | 核心贡献 | 链接 |
 | :-- | :-- | :-- | :-- | :-- |
+| 2026-11-19 | **Efficient Latent Reasoning for Vision-Language Model via Dynamics-Aware Quantization and Distillation** | Yanjing Li, Sheng Xu et al. | Efficient chain-of-thought (CoT) reasoning in vision-language models (VLMs) requires reducing b… | [📄 2611.25670](https://arxiv.org/abs/2611.25670) `cs.AI` |
+| 2026-11-19 | **Learning to Think with Images Faithfully via Adaptive Data Selection** | Yu Zhao, Jiaxin Zhang et al. | Thinking with images (TwI) empowers vision-language models (VLMs) to overcome perceptual bottle… | [📄 2611.26199](https://arxiv.org/abs/2611.26199) `cs.CV` |
 | 2026-11-06 | **Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model** | William Xingxu Chen, Alexi Gladstone et al. | Looping is a powerful inductive bias for reasoning… | [📄 2611.08977](https://arxiv.org/abs/2611.08977) [💻](https://github.com/wwillchen/ebr) 🤗 |
 | 2026-11-14 | **Wireless Edge-Assisted Adaptive Latent Reasoning for Vision-Language-Action Models in Physical AI** | Fatih Temiz, Melike Erol-Kantarci | Vision-language-action (VLA) models enable embodied artificial intelligence (AI) by translating… | [📄 2611.19131](https://arxiv.org/abs/2611.19131) `cs.RO` |
 | 2026-11-11 | **DeALR: Decoupled Audio-Latent Optimization with Acoustic Backtracking for Test-Time Reasoning** | Haoyu He, Yan Rong et al. | Large audio-language models (LALMs) typically encode audio once and conduct subsequent multi-st… | [📄 2611.15439](https://arxiv.org/abs/2611.15439) `cs.SD` |

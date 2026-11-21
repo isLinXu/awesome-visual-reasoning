@@ -1,6 +1,6 @@
 # 📬 自动周报 / Digest
 
-> 本文件由 `scripts/update_metadata.py` 自动生成，最后更新 **2026-11-20**。
+> 本文件由 `scripts/update_metadata.py` 自动生成，最后更新 **2026-11-21**。
 > 统计窗口：收录「论文发布日」落在近 7 天内的条目（不是抓取日）。
 
 ## 概览
@@ -9,9 +9,9 @@
 | :-- | --: |
 | 收录论文（全量库） | 929 |
 | 文档内可浏览条目 | 789 |
-| 近 7 天新发布 | 53 |
+| 近 7 天新发布 | 50 |
 | 跟踪仓库 | 123 |
-| 跟踪仓库总 star | 348,716 |
+| 跟踪仓库总 star | 349,025 |
 
 ## 🧠 Latent Visual Reasoning · 近 7 天新发布 3 篇
 
@@ -19,7 +19,7 @@
 - [Learning to Think with Images Faithfully via Adaptive Data Selection](https://arxiv.org/abs/2611.26199) · `2026-11-19` · score 3.5
 - [Wireless Edge-Assisted Adaptive Latent Reasoning for Vision-Language-Action Models in Physical AI](https://arxiv.org/abs/2611.19131) · `2026-11-14` · score 6.0
 
-## 🤖 Agentic Vision · 近 7 天新发布 14 篇
+## 🤖 Agentic Vision · 近 7 天新发布 12 篇
 
 - [When Safety Rationales Hallucinate: Diagnosing and Grounding Multimodal Safety Guards](https://arxiv.org/abs/2611.25793) · `2026-11-19` · score 5.0
 - [ViStep-RL: Stepwise Reinforcement Learning for Long-Horizon Visual Agents](https://arxiv.org/abs/2611.24170) · `2026-11-18` · score 8.5
@@ -33,7 +33,6 @@
 - [Visual Harness Scales General VLMs to Medical Images](https://arxiv.org/abs/2611.22815) · `2026-11-17` · score 3.5
 - [ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](https://arxiv.org/abs/2611.21605) · `2026-11-16` · score 8.0
 - [EVIDENT: Evaluating Evidence Grounding in GUI Agents](https://arxiv.org/abs/2611.20488) · `2026-11-16` · score 7.5
-- …… 另有 2 篇，见 [docs/agentic-vision.md](agentic-vision.md)
 
 ## 🎬 Video Reasoning · 近 7 天新发布 11 篇
 
@@ -49,7 +48,7 @@
 - [Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](https://arxiv.org/abs/2611.23228) · `2026-11-17` · score 4.0
 - [EndoComparer: Comparative Surgical Video Question Answering with Pseudo-Siamese Visual Adaptation and Perceive-then-Compare Reasoning](https://arxiv.org/abs/2611.19578) · `2026-11-14` · score 7.5
 
-## 🌐 Multimodal Reasoning · 近 7 天新发布 16 篇
+## 🌐 Multimodal Reasoning · 近 7 天新发布 15 篇
 
 - [WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://arxiv.org/abs/2611.26409) · `2026-11-19` · score 6.5
 - [AVTR: Adaptive Multimodal Reasoning with Visual Imagination](https://arxiv.org/abs/2611.24161) · `2026-11-18` · score 7.0
@@ -63,7 +62,7 @@
 - [Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra](https://arxiv.org/abs/2611.22098) · `2026-11-17` · score 3.0
 - [Sketch, Don't Paint: Allocating Test-Time Compute in Generative Visual Reasoning](https://arxiv.org/abs/2611.21812) · `2026-11-16` · score 8.0
 - [ReAccess: Look Once, Stay Focused with Efficient Test Time Memory](https://arxiv.org/abs/2611.20936) · `2026-11-16` · score 3.5
-- …… 另有 4 篇，见 [docs/multimodal-reasoning.md](multimodal-reasoning.md)
+- …… 另有 3 篇，见 [docs/multimodal-reasoning.md](multimodal-reasoning.md)
 
 ## ⚡ Efficient Visual Reasoning · 近 7 天新发布 9 篇
 
@@ -81,13 +80,13 @@
 
 | 项目 | ⭐ | 7 日 Δ | 30 日 Δ | 赛道 |
 | :-- | --: | --: | --: | :-- |
-| [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | 25,644 | +2,701 | — | agentic-vision |
-| [**trycua/cua**](https://github.com/trycua/cua) | 32,695 | +415 | — | agentic-vision |
-| [**reacher-z/Awesome-CUA**](https://github.com/reacher-z/Awesome-CUA) | 1,038 | +228 | — | agentic-vision |
-| [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | 7,863 | +130 | — | multimodal-reasoning |
-| [**uclanlp/OpenVLHarness**](https://github.com/uclanlp/OpenVLHarness) | 554 | +72 | — | agentic-vision |
-| [**alibaba/page-agent**](https://github.com/alibaba/page-agent) | 29,724 | +51 | — | agentic-vision |
-| [**simular-ai/Agent-S**](https://github.com/simular-ai/Agent-S) | 13,010 | +51 | — | agentic-vision |
-| [**agent-sh/computer-use-linux**](https://github.com/agent-sh/computer-use-linux) | 908 | +40 | — | agentic-vision |
-| [**QwenLM/Qwen3-VL**](https://github.com/QwenLM/Qwen3-VL) | 20,239 | +31 | — | multimodal-reasoning |
-| [**OpenBMB/MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) | 27,169 | +29 | — | multimodal-reasoning |
+| [**vercel-labs/agent-desktop**](https://github.com/vercel-labs/agent-desktop) | 25,840 | +2,383 | — | agentic-vision |
+| [**trycua/cua**](https://github.com/trycua/cua) | 32,725 | +402 | — | agentic-vision |
+| [**reacher-z/Awesome-CUA**](https://github.com/reacher-z/Awesome-CUA) | 1,062 | +211 | — | agentic-vision |
+| [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | 7,881 | +131 | — | multimodal-reasoning |
+| [**uclanlp/OpenVLHarness**](https://github.com/uclanlp/OpenVLHarness) | 556 | +66 | — | agentic-vision |
+| [**alibaba/page-agent**](https://github.com/alibaba/page-agent) | 29,729 | +46 | — | agentic-vision |
+| [**simular-ai/Agent-S**](https://github.com/simular-ai/Agent-S) | 13,014 | +46 | — | agentic-vision |
+| [**agent-sh/computer-use-linux**](https://github.com/agent-sh/computer-use-linux) | 912 | +36 | — | agentic-vision |
+| [**QwenLM/Qwen3-VL**](https://github.com/QwenLM/Qwen3-VL) | 20,239 | +28 | — | multimodal-reasoning |
+| [**OpenBMB/MiniCPM-V**](https://github.com/OpenBMB/MiniCPM-V) | 27,174 | +27 | — | multimodal-reasoning |
